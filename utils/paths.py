@@ -13,7 +13,7 @@ os_platform = platform.system().lower()
 
 # B. Ruta donde se encuentra el proyecto
 if os_platform == 'darwin':
-    PROJECT_PATH = '/Users/nahumfg/Desktop/GitHubProjects/WallyScraper'
+    PROJECT_PATH = '/Users/nahumfg/Projects/GitHubProjects/RenacytScraper'
 
 elif os_platform == 'windows':
     PROJECT_PATH = 'C:\GitHubProjets\WallyScraper'
@@ -31,14 +31,8 @@ elif os_platform == 'windows':
 elif os_platform == 'linux':
     CHROMEDRIVER_PATH = os.path.join(PROJECT_PATH,'chromedriver','linux','chromedriver')
 
-# D. Definir rutas generales
-WALLY_CREDS_PATH = os.path.join(PROJECT_PATH,'creds','my_wally_creds.json')
-POSTGRE_CREDS_PATH = os.path.join(PROJECT_PATH,'creds','postgre_creds.json')
-
-# E. Imprimir variables
+# D. Imprimir variables
 print('ESTAMOS EN ---> ', os_platform)
 print('PROJECT_PATH: ', PROJECT_PATH)
 print('CHROME_DRIVER_PATH: ', CHROMEDRIVER_PATH)
-print('WALLY_CREDS_PATH: ', WALLY_CREDS_PATH)
-print('POSTGRE_CREDS_PATH: ', POSTGRE_CREDS_PATH)
 print('')
