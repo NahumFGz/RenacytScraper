@@ -111,7 +111,7 @@ df_renacyt = df_renacyt.astype(str)
 df_renacyt['url'] = 'https://ctivitae.concytec.gob.pe/buscador-ui/#/ficha/ficha-renacyt?idInvestigador=' + df_renacyt['ctiVitae']
 df_renacyt = df_renacyt[['ctiVitae','orcid','url']]
 
-df_renacyt = df_renacyt.head(3)
+# df_renacyt = df_renacyt.head(3)
 df_renacyt
 
 

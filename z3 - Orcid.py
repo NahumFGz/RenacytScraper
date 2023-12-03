@@ -111,7 +111,7 @@ df_orcid.drop_duplicates(subset=['orcid'], inplace=True)
 df_orcid = df_orcid[['ctiVitae','orcid']]
 df_orcid['url'] = 'https://orcid.org/' + df_orcid['orcid']
 
-df_orcid = df_orcid.head(3)
+# df_orcid = df_orcid.head(3)
 df_orcid
 
 
