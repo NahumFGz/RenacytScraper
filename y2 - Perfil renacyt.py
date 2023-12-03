@@ -60,6 +60,7 @@ def format_json(dir_path):
         with open(file_path, 'w') as file:
             file.writelines(data)
 
+
 def clean_dir(dir_name):
     try:
         files = get_files(os.path.join(os.getcwd(),'outputs','jsons',dir_name), '.json')
@@ -122,7 +123,7 @@ if pd.isna(max_i):
     max_i = 0
 else:
     max_i = max_i + 1
-print('Valor de max_i: ' + str(max_i))
+print('')
 
 # 5. A df_renacyt['ctiVitae'] filtrar todos los df_ejecuciones_base['cti_vitae']
 df_renacyt = df_renacyt[~df_renacyt['ctiVitae'].isin(df_ejecuciones_base['cti_vitae'])]
@@ -130,6 +131,8 @@ print('Registros filtrados: ' + str(df_renacyt.shape[0]))
 
 df_renacyt = df_renacyt.head(5)
 print('Registros a ejecutar: ' + str(df_renacyt.shape[0]))
+print('Valor de max_i: ' + str(max_i))
+
 
 ######################
 ## E. Ejecutar
@@ -189,3 +192,5 @@ for cti_vitae,orcid, url in df_renacyt.values.tolist():
     # H. Actualizar el contador
     i += 1
 
+# 2. Formatear los jsons
+format_json(os.path.join(os.getcwd(),'originals','renacyt','perfil','1_datos_investigador'))
