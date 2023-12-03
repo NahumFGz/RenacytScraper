@@ -164,8 +164,9 @@ for cti_vitae,orcid, url in df_renacyt.values.tolist():
 
         # F. Finalizar driver, server, proxy y eliminar los logs
         stop_chrome_driver(driver, server, proxy)
-        clean_logs()
-
+        clean_dir(os.path.join(os.getcwd(),'originals','renacyt','perfil','0_json'))
+        #clean_logs()
+        
         # G. Actualizar el contador
         i += 1
         print('')
