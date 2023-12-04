@@ -19,7 +19,7 @@ elif os_platform == 'windows':
     PROJECT_PATH = 'C:\GitHubProjets\RenacytScraper'
 
 elif os_platform == 'linux':
-    PROJECT_PATH = '/home/brew_test_gcp_01/Desktop/WallyScraper'
+    PROJECT_PATH = '/home/nahumfg/RenacytScraper'
 
 # C. Definir rutas del chrome driver
 if os_platform == 'darwin':
