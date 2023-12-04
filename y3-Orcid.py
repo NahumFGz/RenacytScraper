@@ -93,6 +93,7 @@ clean_dir(os.path.join(os.getcwd(),'originals','orcid','0_json'))
 # clean_dir(os.path.join(os.getcwd(),'originals','orcid','2_perfil_format'))
 # clean_dir(os.path.join(os.getcwd(),'originals','orcid','3_publicaciones'))
 # clean_dir(os.path.join(os.getcwd(),'originals','orcid','4_publicaciones_format'))
+# print("test push")
 
 ######################
 ## D. Leer los jsons
