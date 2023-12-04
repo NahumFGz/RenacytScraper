@@ -21,22 +21,22 @@ def stop_process_windows(process_name="java.exe"):
         except psutil.NoSuchProcess:
             print(f"No se encontró el proceso {process_name}.")
 
-def stop_java_linux():
+def stop_process_linux(process_name):
     try:
-        # Obtener la lista de procesos que contienen "java" en su nombre
-        process = subprocess.Popen(['pgrep', '-f', 'java'], stdout=subprocess.PIPE, stderr=subprocess.PIPE)
+        # Obtener la lista de procesos que contienen el nombre especificado
+        process = subprocess.Popen(['pgrep', '-f', process_name], stdout=subprocess.PIPE, stderr=subprocess.PIPE)
         stdout, _ = process.communicate()
-        java_process_ids = [int(pid) for pid in stdout.decode().split()]
+        process_ids = [int(pid) for pid in stdout.decode().split()]
 
-        if not java_process_ids:
-            print("No se encontraron procesos con el nombre 'java'.")
+        if not process_ids:
+            print(f"No se encontraron procesos con el nombre '{process_name}'.")
             return
 
         # Detener los procesos identificados
-        for pid in java_process_ids:
+        for pid in process_ids:
             subprocess.run(['kill', str(pid)])
         
-        print("Procesos con el nombre 'java' detenidos correctamente.")
+        print(f"Procesos con el nombre '{process_name}' detenidos correctamente.")
     except Exception as e:
         print(f"Se produjo un error al detener los procesos: {e}")
 
@@ -51,7 +51,8 @@ if __name__ == "__main__":
                 stop_process_windows(process_name="java.exe")
                 stop_process_windows(process_name="chrome.exe")
             else:
-                stop_java_linux()
+                stop_process_linux(process_name="java")
+                stop_process_linux(process_name="chrome")
         except:
             pass
 
