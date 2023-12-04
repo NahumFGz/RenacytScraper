@@ -139,78 +139,87 @@ print('Valor de max_i: ' + str(max_i))
 # 1. Iterar sobre las urls
 i = max_i 
 for cti_vitae,orcid, url in df_orcid.values.tolist(): 
-    # A. Obtener el driver
-    driver, server, proxy = get_chrome_driver(chromedriver_path=CHROMEDRIVER_PATH, print_view=PRINT_VIEW, headless=HEADLESS)
+    try:
+        # A. Obtener el driver
+        driver, server, proxy = get_chrome_driver(chromedriver_path=CHROMEDRIVER_PATH, print_view=PRINT_VIEW, headless=HEADLESS)
 
-    # B. Iniciar har
-    start_har(proxy, 'renacyt_profile')
-    
-    # C. Ingresar a la URL y esperar a que se cargue el aviso de cookies
-    driver.get(url)
-    wait = WebDriverWait(driver, 10)
-    table_locator = (By.ID, 'onetrust-accept-btn-handler')
-    table = wait.until(EC.presence_of_element_located(table_locator))
+        # B. Iniciar har
+        start_har(proxy, 'renacyt_profile')
+        
+        # C. Ingresar a la URL y esperar a que se cargue el aviso de cookies
+        driver.get(url)
+        wait = WebDriverWait(driver, 10)
+        table_locator = (By.ID, 'onetrust-accept-btn-handler')
+        table = wait.until(EC.presence_of_element_located(table_locator))
 
-    # D. Aceptar el aviso de cookies
-    find_element_and_click(driver, 'id', 'onetrust-accept-btn-handler')
-    print(f'{i}. {url}')
+        # D. Aceptar el aviso de cookies
+        find_element_and_click(driver, 'id', 'onetrust-accept-btn-handler')
+        print(f'{i}. {url}')
 
-    # E. Obtener el har
-    time.sleep(4)
-    har = proxy.har
+        # E. Obtener el har
+        time.sleep(4)
+        har = proxy.har
 
-    # F. Guardar json original
-    j = 0
-    k = 0
-    l = 0
-    for entrie in har.get('log').get('entries'):
+        # F. Guardar json original
+        j = 0
+        k = 0
+        l = 0
+        for entrie in har.get('log').get('entries'):
 
-        # JSON original
-        data_list = str(entrie)
-        with open(os.path.join(os.getcwd(),'originals','orcid','0_json', str(i) + 'x' + str(j) + '.json'), 'w') as json_file:
-            json.dump(data_list, json_file, indent=4)
+            # JSON original
+            data_list = str(entrie)
+            with open(os.path.join(os.getcwd(),'originals','orcid','0_json', str(i) + 'x' + str(j) + '.json'), 'w') as json_file:
+                json.dump(data_list, json_file, indent=4)
+                j += 1
+
+            # Perfil
+            string_content = entrie.get('response').get('content').get('text')
+            if '{"title":' in str(string_content) \
+                and '"assertionOriginOrcid"' in str(string_content) \
+                and '"assertionOriginClientId"' in str(string_content):
+                
+                data_list = json.loads(string_content)
+                with open(os.path.join( os.getcwd(),'originals','orcid','1_perfil'
+                                        ,str(i) + 'x' + str(j) 
+                                    + '_' + str(cti_vitae)
+                                    + '_'+ str(orcid) +'_.json'), 'w') as json_file:
+                    json.dump(data_list, json_file, indent=4)
             j += 1
 
-        # Perfil
-        string_content = entrie.get('response').get('content').get('text')
-        if '{"title":' in str(string_content) \
-            and '"assertionOriginOrcid"' in str(string_content) \
-            and '"assertionOriginClientId"' in str(string_content):
-            
-            data_list = json.loads(string_content)
-            with open(os.path.join( os.getcwd(),'originals','orcid','1_perfil'
-                                    ,str(i) + 'x' + str(j) 
-                                + '_' + str(cti_vitae)
-                                + '_'+ str(orcid) +'_.json'), 'w') as json_file:
-                json.dump(data_list, json_file, indent=4)
-        j += 1
+            # Publicaciones
+            string_content = entrie.get('response').get('content').get('text')
+            if '[{"activePutCode":' in str(string_content) \
+                and '"totalGroups"' in str(string_content) \
+                and '"assertionOriginOrcid"' in str(string_content) \
+                and '"assertionOriginClientId"' in str(string_content):
 
-        # Publicaciones
-        string_content = entrie.get('response').get('content').get('text')
-        if '[{"activePutCode":' in str(string_content) \
-            and '"totalGroups"' in str(string_content) \
-            and '"assertionOriginOrcid"' in str(string_content) \
-            and '"assertionOriginClientId"' in str(string_content):
+                data_list = json.loads(string_content)
+                with open(os.path.join( os.getcwd(),'originals','orcid','3_publicaciones'
+                                        ,str(i) + 'x' + str(l)
+                                    + '_' + str(cti_vitae)
+                                    + '_'+ str(orcid) +'_.json'), 'w') as json_file:
+                    json.dump(data_list, json_file, indent=4)
+            l+= 1
 
-            data_list = json.loads(string_content)
-            with open(os.path.join( os.getcwd(),'originals','orcid','3_publicaciones'
-                                    ,str(i) + 'x' + str(l)
-                                + '_' + str(cti_vitae)
-                                + '_'+ str(orcid) +'_.json'), 'w') as json_file:
-                json.dump(data_list, json_file, indent=4)
-        l+= 1
+        # F. Finalizar driver, server, proxy y eliminar los logs
+        stop_chrome_driver(driver, server, proxy)
+        clean_dir(os.path.join(os.getcwd(),'originals','orcid','0_json'))
+        
+        # G. Actualizar el registro de ejecuciones_renacyt
+        df_ejecuciones_base = pd.read_parquet(os.path.join(os.getcwd(),'originals','ejecuciones_orcid.parquet'))
+        df_ejecuciones_actual = pd.concat([df_ejecuciones_base, pd.DataFrame({'i': [i], 'cti_vitae': [cti_vitae], 'orcid': [orcid]})], axis=0)
+        df_ejecuciones_actual.to_parquet(os.path.join(os.getcwd(),'originals','ejecuciones_orcid.parquet'), index=False)
 
-    # F. Finalizar driver, server, proxy y eliminar los logs
-    stop_chrome_driver(driver, server, proxy)
-    clean_dir(os.path.join(os.getcwd(),'originals','orcid','0_json'))
-    
-    # G. Actualizar el registro de ejecuciones_renacyt
-    df_ejecuciones_base = pd.read_parquet(os.path.join(os.getcwd(),'originals','ejecuciones_orcid.parquet'))
-    df_ejecuciones_actual = pd.concat([df_ejecuciones_base, pd.DataFrame({'i': [i], 'cti_vitae': [cti_vitae], 'orcid': [orcid]})], axis=0)
-    df_ejecuciones_actual.to_parquet(os.path.join(os.getcwd(),'originals','ejecuciones_orcid.parquet'), index=False)
+        # H. Actualizar el contador
+        i += 1
+    except:
+        # I. Si falla guardar i, cti_vitae + '_Error' y orcid + '_Error' en un parquet
+        df_ejecuciones_base = pd.read_parquet(os.path.join(os.getcwd(),'originals','ejecuciones_orcid.parquet'))
+        df_ejecuciones_actual = pd.concat([df_ejecuciones_base, pd.DataFrame({'i': [i], 'cti_vitae': [cti_vitae + '_Error'], 'orcid': [orcid + '_Error']})], axis=0)
+        df_ejecuciones_actual.to_parquet(os.path.join(os.getcwd(),'originals','ejecuciones_orcid.parquet'), index=False)
 
-    # H. Actualizar el contador
-    i += 1
+        # J. Actualizar el contador
+        i += 1
 
 # 2. Formatear los jsons
 format_json(os.path.join(os.getcwd(),'originals','orcid','1_perfil'), '1_perfil', '2_perfil_format')
