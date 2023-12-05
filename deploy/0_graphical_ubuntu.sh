@@ -40,3 +40,6 @@ sudo reboot
 # sudo vim /etc/gdm3/custom.conf
 
 # sudo vim /etc/gdm3/daemon.conf
+
+# sudo rm -r RenacytScraper
+
