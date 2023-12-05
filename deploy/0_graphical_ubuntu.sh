@@ -27,6 +27,7 @@ sudo reboot
 # which gnome-session
 
 # sudo passwd ubuntu
+# sudo passwd nahumfg
 # sudo passwd brew_test_gcp_01
 
 # sudo usermod -aG sudo brew_test_gcp_01
