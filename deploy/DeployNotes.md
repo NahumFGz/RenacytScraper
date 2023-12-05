@@ -44,3 +44,22 @@ rm -rf /home/brew_test_gcp_01/.local/share/Trash/files/*
 -- Verificar espacio en /temp
 df -h
 du -sh /tmp
+
+-- Ejecutar en segundo plano
+nohup python3 y2-PerfilRenacyt.py > salida.txt 2>&1 &
+
+Este comando realiza lo siguiente:
+    * nohup: Ejecuta el comando que le sigue sin colgar incluso si se cierra la terminal.
+    * python3 y2-PerfilRenacyt.py: Ejecuta tu script Python.
+    * salida.txt 2>&1: Redirige la salida estándar y de error al archivo salida.txt.
+    * &: Pone el proceso en segundo plano.
+
+-- Para detener el proceso
+ps aux | grep Y2-PerfilRenacyt.py
+kill PID_del_proceso
+
+    *Reemplaza PID_del_proceso con el ID del proceso que obtuviste al ejecutar ps.
+
+
+-- Ver la salida del segundo plano
+tail -f salida.txt
