@@ -46,8 +46,8 @@ df -h
 du -sh /tmp
 
 -- Ejecutar en segundo plano
-nohup python3 z2-ExecRenacyt.py > salida.txt 2>&1 &
-nohup python3 z3-ExecOrcid.py > salida.txt 2>&1 &
+nohup python3 z2-ExecRenacyt.py > salida_renacyt.txt 2>&1 &
+nohup python3 z3-ExecOrcid.py > salida_orcid.txt 2>&1 &
 
 #2604 -> renacyt
 #4398 -> orcid
