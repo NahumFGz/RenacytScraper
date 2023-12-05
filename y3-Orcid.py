@@ -115,6 +115,7 @@ print('Registros originales: ' + str(df_orcid.shape[0]))
 
 # 3. Leer el parquet de ejecuciones
 df_ejecuciones_base = pd.read_parquet(os.path.join(os.getcwd(),'originals','ejecuciones_orcid.parquet'))
+df_ejecuciones_base['cti_vitae'] = df_ejecuciones_base['cti_vitae'].str.replace('_Error', '')
 
 # 4. Obtener el maximo valor de i
 df_ejecuciones_base['i'] = df_ejecuciones_base['i'].astype(int)
