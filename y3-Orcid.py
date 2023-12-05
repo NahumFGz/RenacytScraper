@@ -84,7 +84,7 @@ def clean_logs():
 ########################
 
 # 1. Seleccionar modo
-HEADLESS = True
+HEADLESS = False
 PRINT_VIEW = False
 
 # 2. Eliminar todos los archivos de la carpeta
