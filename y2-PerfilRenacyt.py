@@ -150,7 +150,7 @@ for cti_vitae,orcid, url in df_renacyt.values.tolist():
         
         # C. Ingresar a la URL y esperar a que la tabla específica esté presente en el DOM
         driver.get(url)
-        wait = WebDriverWait(driver, 10)
+        wait = WebDriverWait(driver, 15)
         table_locator = (By.CSS_SELECTOR, 'table.table.table-sm')
         table = wait.until(EC.presence_of_element_located(table_locator))
         print(f'{i}. {url}')

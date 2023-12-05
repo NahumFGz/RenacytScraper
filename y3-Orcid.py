@@ -149,7 +149,7 @@ for cti_vitae,orcid, url in df_orcid.values.tolist():
         
         # C. Ingresar a la URL y esperar a que se cargue el aviso de cookies
         driver.get(url)
-        wait = WebDriverWait(driver, 10)
+        wait = WebDriverWait(driver, 15)
         table_locator = (By.ID, 'onetrust-accept-btn-handler')
         table = wait.until(EC.presence_of_element_located(table_locator))
 
