@@ -12,6 +12,12 @@ yes | sudo apt update
 wget https://dl.google.com/linux/direct/chrome-remote-desktop_current_amd64.deb
 sudo apt-get install --assume-yes ./chrome-remote-desktop_current_amd64.deb
 
+# 3. Instalar google-chrome
+sudo wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+sudo dpkg -i google-chrome-stable_current_amd64.deb
+sudo apt-get install -f
+google-chrome --version
+
 # 3. instalar ubuntu-desktop
 yes | sudo apt install ubuntu-desktop
 
