@@ -58,9 +58,9 @@ if __name__ == "__main__":
 
         try:
             if os.name == 'nt':
-                os.system(f'python {PROJECT_PATH}/y3-Orcid.py')
+                os.system(f'python {PROJECT_PATH}/y2-PerfilRenacyt.py')
             else:
-                os.system(f'python3 {PROJECT_PATH}/y3-Orcid.py')
+                os.system(f'python3 {PROJECT_PATH}/y2-PerfilRenacyt.py')
         except:
             print("Error en BoletasConsumo.py")
         
