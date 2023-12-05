@@ -1,9 +1,9 @@
 #!/bin/bash -x
 
 # 0. Cambiar el modo interactivo de needrestart para que no pregunte
-yes | sudo apt install sed
-sudo sed -i 's/#$nrconf{restart} = '"'"'i'"'"';/$nrconf{restart} = '"'"'a'"'"';/g' /etc/needrestart/needrestart.conf
-yes | sudo dpkg --configure -a
+# yes | sudo apt install sed
+# sudo sed -i 's/#$nrconf{restart} = '"'"'i'"'"';/$nrconf{restart} = '"'"'a'"'"';/g' /etc/needrestart/needrestart.conf
+# yes | sudo dpkg --configure -a
 
 # 1. Update and upgrade
 yes | sudo apt update
