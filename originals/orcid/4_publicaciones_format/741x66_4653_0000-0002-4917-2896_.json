@@ -1,0 +1,2540 @@
+[{
+    "nextOffset": 50,
+    "totalGroups": 16,
+    "groups": [
+        {
+            "activePutCode": 122182896,
+            "defaultPutCode": 122182896,
+            "groupId": 0,
+            "activeVisibility": "PUBLIC",
+            "userVersionPresent": true,
+            "externalIdentifiers": [
+                {
+                    "errors": [],
+                    "externalIdentifierId": {
+                        "errors": [],
+                        "value": "1019-455X",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "externalIdentifierType": {
+                        "errors": [],
+                        "value": "issn",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "url": {
+                        "errors": [],
+                        "value": "https://portal.issn.org/resource/ISSN/1019-455X",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "relationship": {
+                        "errors": [],
+                        "value": "self",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "normalized": {
+                        "errors": [],
+                        "value": "1019-455X",
+                        "required": false,
+                        "getRequiredMessage": null
+                    },
+                    "normalizedUrl": {
+                        "errors": [],
+                        "value": "https://portal.issn.org/resource/ISSN/1019-455X",
+                        "required": false,
+                        "getRequiredMessage": null
+                    }
+                },
+                {
+                    "errors": [],
+                    "externalIdentifierId": {
+                        "errors": [],
+                        "value": "978-612-326-185-6",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "externalIdentifierType": {
+                        "errors": [],
+                        "value": "isbn",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "url": {
+                        "errors": [],
+                        "value": "http://isbn.bnp.gob.pe/catalogo.php?mode=resultados_rapidos&palabra=978-612-326-185-6",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "relationship": {
+                        "errors": [],
+                        "value": "self",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "normalized": {
+                        "errors": [],
+                        "value": "9786123261856",
+                        "required": false,
+                        "getRequiredMessage": null
+                    },
+                    "normalizedUrl": {
+                        "errors": [],
+                        "value": "https://www.worldcat.org/isbn/9786123261856",
+                        "required": false,
+                        "getRequiredMessage": null
+                    }
+                }
+            ],
+            "works": [
+                {
+                    "visibility": {
+                        "errors": [],
+                        "required": true,
+                        "getRequiredMessage": null,
+                        "visibility": "PUBLIC"
+                    },
+                    "errors": [],
+                    "publicationDate": {
+                        "errors": [],
+                        "month": "09",
+                        "day": "29",
+                        "year": "2022",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "putCode": {
+                        "errors": [],
+                        "value": "122182896",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "shortDescription": null,
+                    "url": null,
+                    "journalTitle": {
+                        "errors": [],
+                        "value": "Instituto de Estudios Peruanos",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "languageCode": null,
+                    "languageName": null,
+                    "citation": null,
+                    "countryCode": null,
+                    "countryName": null,
+                    "contributors": null,
+                    "contributorsGroupedByOrcid": [
+                        {
+                            "contributorOrcid": {
+                                "uri": "https://orcid.org/0000-0002-4917-2896",
+                                "path": "0000-0002-4917-2896",
+                                "host": null
+                            },
+                            "creditName": {
+                                "content": "Carmen Ilizarbe"
+                            },
+                            "contributorEmail": null,
+                            "contributorAttributes": null,
+                            "rolesAndSequences": [
+                                {
+                                    "contributorSequence": null,
+                                    "contributorRole": "investigation"
+                                },
+                                {
+                                    "contributorSequence": null,
+                                    "contributorRole": "conceptualization"
+                                },
+                                {
+                                    "contributorSequence": null,
+                                    "contributorRole": "writing - original draft"
+                                }
+                            ]
+                        }
+                    ],
+                    "numberOfContributors": 1,
+                    "workExternalIdentifiers": [
+                        {
+                            "errors": [],
+                            "externalIdentifierId": {
+                                "errors": [],
+                                "value": "1019-455X",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "externalIdentifierType": {
+                                "errors": [],
+                                "value": "issn",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "url": {
+                                "errors": [],
+                                "value": "https://portal.issn.org/resource/ISSN/1019-455X",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "relationship": {
+                                "errors": [],
+                                "value": "self",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "normalized": {
+                                "errors": [],
+                                "value": "1019-455X",
+                                "required": false,
+                                "getRequiredMessage": null
+                            },
+                            "normalizedUrl": {
+                                "errors": [],
+                                "value": "https://portal.issn.org/resource/ISSN/1019-455X",
+                                "required": false,
+                                "getRequiredMessage": null
+                            }
+                        },
+                        {
+                            "errors": [],
+                            "externalIdentifierId": {
+                                "errors": [],
+                                "value": "978-612-326-185-6",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "externalIdentifierType": {
+                                "errors": [],
+                                "value": "isbn",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "url": {
+                                "errors": [],
+                                "value": "http://isbn.bnp.gob.pe/catalogo.php?mode=resultados_rapidos&palabra=978-612-326-185-6",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "relationship": {
+                                "errors": [],
+                                "value": "self",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "normalized": {
+                                "errors": [],
+                                "value": "9786123261856",
+                                "required": false,
+                                "getRequiredMessage": null
+                            },
+                            "normalizedUrl": {
+                                "errors": [],
+                                "value": "https://www.worldcat.org/isbn/9786123261856",
+                                "required": false,
+                                "getRequiredMessage": null
+                            }
+                        }
+                    ],
+                    "source": "0000-0002-4917-2896",
+                    "sourceName": "Carmen Ilizarbe",
+                    "assertionOriginOrcid": null,
+                    "assertionOriginClientId": null,
+                    "assertionOriginName": null,
+                    "title": {
+                        "errors": [],
+                        "value": "La democracia y la calle",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "subtitle": null,
+                    "translatedTitle": null,
+                    "workCategory": null,
+                    "workType": {
+                        "errors": [],
+                        "value": "book",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "dateSortString": null,
+                    "createdDate": {
+                        "errors": [],
+                        "month": "11",
+                        "day": "5",
+                        "year": "2022",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "lastModified": {
+                        "errors": [],
+                        "month": "11",
+                        "day": "5",
+                        "year": "2022",
+                        "required": true,
+                        "getRequiredMessage": null
+                    }
+                }
+            ]
+        },
+        {
+            "activePutCode": 122183741,
+            "defaultPutCode": 122183741,
+            "groupId": 1,
+            "activeVisibility": "PUBLIC",
+            "userVersionPresent": true,
+            "externalIdentifiers": [],
+            "works": [
+                {
+                    "visibility": {
+                        "errors": [],
+                        "required": true,
+                        "getRequiredMessage": null,
+                        "visibility": "PUBLIC"
+                    },
+                    "errors": [],
+                    "publicationDate": {
+                        "errors": [],
+                        "month": "08",
+                        "day": "15",
+                        "year": "2022",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "putCode": {
+                        "errors": [],
+                        "value": "122183741",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "shortDescription": null,
+                    "url": null,
+                    "journalTitle": {
+                        "errors": [],
+                        "value": "Challenges to Democracy in the Andes: Strongmen, Broken Constitutions, and Regimes in Crisis",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "languageCode": null,
+                    "languageName": null,
+                    "citation": null,
+                    "countryCode": null,
+                    "countryName": null,
+                    "contributors": null,
+                    "contributorsGroupedByOrcid": [
+                        {
+                            "contributorOrcid": {
+                                "uri": "https://orcid.org/0000-0002-4917-2896",
+                                "path": "0000-0002-4917-2896",
+                                "host": null
+                            },
+                            "creditName": {
+                                "content": "Carmen Ilizarbe"
+                            },
+                            "contributorEmail": null,
+                            "contributorAttributes": null,
+                            "rolesAndSequences": [
+                                {
+                                    "contributorSequence": null,
+                                    "contributorRole": "investigation"
+                                }
+                            ]
+                        }
+                    ],
+                    "numberOfContributors": 1,
+                    "workExternalIdentifiers": [
+                        {
+                            "errors": [],
+                            "externalIdentifierId": {
+                                "errors": [],
+                                "value": "978-1-955055-42-0",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "externalIdentifierType": {
+                                "errors": [],
+                                "value": "isbn",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "url": {
+                                "errors": [],
+                                "value": "https://catalog.loc.gov/vwebv/search?searchCode=LCCN&searchArg=2022000842&searchType=1&permalink=y",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "relationship": {
+                                "errors": [],
+                                "value": "part-of",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "normalized": {
+                                "errors": [],
+                                "value": "9781955055420",
+                                "required": false,
+                                "getRequiredMessage": null
+                            },
+                            "normalizedUrl": {
+                                "errors": [],
+                                "value": "https://www.worldcat.org/isbn/2022000842",
+                                "required": false,
+                                "getRequiredMessage": null
+                            }
+                        }
+                    ],
+                    "source": "0000-0002-4917-2896",
+                    "sourceName": "Carmen Ilizarbe",
+                    "assertionOriginOrcid": null,
+                    "assertionOriginClientId": null,
+                    "assertionOriginName": null,
+                    "title": {
+                        "errors": [],
+                        "value": "Peru: Democratic Erosion Under Neoliberalism",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "subtitle": null,
+                    "translatedTitle": null,
+                    "workCategory": null,
+                    "workType": {
+                        "errors": [],
+                        "value": "book-chapter",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "dateSortString": null,
+                    "createdDate": {
+                        "errors": [],
+                        "month": "11",
+                        "day": "5",
+                        "year": "2022",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "lastModified": {
+                        "errors": [],
+                        "month": "11",
+                        "day": "5",
+                        "year": "2022",
+                        "required": true,
+                        "getRequiredMessage": null
+                    }
+                }
+            ]
+        },
+        {
+            "activePutCode": 61873669,
+            "defaultPutCode": 61873669,
+            "groupId": 2,
+            "activeVisibility": "PUBLIC",
+            "userVersionPresent": false,
+            "externalIdentifiers": [
+                {
+                    "errors": [],
+                    "externalIdentifierId": {
+                        "errors": [],
+                        "value": "10.1177/0094582X19854098",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "externalIdentifierType": {
+                        "errors": [],
+                        "value": "doi",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "url": null,
+                    "relationship": {
+                        "errors": [],
+                        "value": "self",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "normalized": {
+                        "errors": [],
+                        "value": "10.1177/0094582x19854098",
+                        "required": false,
+                        "getRequiredMessage": null
+                    },
+                    "normalizedUrl": {
+                        "errors": [],
+                        "value": "https://doi.org/10.1177/0094582x19854098",
+                        "required": false,
+                        "getRequiredMessage": null
+                    }
+                },
+                {
+                    "errors": [],
+                    "externalIdentifierId": {
+                        "errors": [],
+                        "value": "2-s2.0-85066855622",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "externalIdentifierType": {
+                        "errors": [],
+                        "value": "eid",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "url": null,
+                    "relationship": {
+                        "errors": [],
+                        "value": "self",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "normalized": {
+                        "errors": [],
+                        "value": "2-s2.0-85066855622",
+                        "required": false,
+                        "getRequiredMessage": null
+                    },
+                    "normalizedUrl": null
+                }
+            ],
+            "works": [
+                {
+                    "visibility": {
+                        "errors": [],
+                        "required": true,
+                        "getRequiredMessage": null,
+                        "visibility": "PUBLIC"
+                    },
+                    "errors": [],
+                    "publicationDate": {
+                        "errors": [],
+                        "month": null,
+                        "day": null,
+                        "year": "2019",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "putCode": {
+                        "errors": [],
+                        "value": "61873669",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "shortDescription": null,
+                    "url": null,
+                    "journalTitle": {
+                        "errors": [],
+                        "value": "Latin American Perspectives",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "languageCode": null,
+                    "languageName": null,
+                    "citation": null,
+                    "countryCode": null,
+                    "countryName": null,
+                    "contributors": null,
+                    "contributorsGroupedByOrcid": [
+                        {
+                            "contributorOrcid": null,
+                            "creditName": {
+                                "content": "Ilizarbe, C."
+                            },
+                            "contributorEmail": null,
+                            "contributorAttributes": null,
+                            "rolesAndSequences": []
+                        }
+                    ],
+                    "numberOfContributors": 1,
+                    "workExternalIdentifiers": [
+                        {
+                            "errors": [],
+                            "externalIdentifierId": {
+                                "errors": [],
+                                "value": "10.1177/0094582X19854098",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "externalIdentifierType": {
+                                "errors": [],
+                                "value": "doi",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "url": null,
+                            "relationship": {
+                                "errors": [],
+                                "value": "self",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "normalized": {
+                                "errors": [],
+                                "value": "10.1177/0094582x19854098",
+                                "required": false,
+                                "getRequiredMessage": null
+                            },
+                            "normalizedUrl": {
+                                "errors": [],
+                                "value": "https://doi.org/10.1177/0094582x19854098",
+                                "required": false,
+                                "getRequiredMessage": null
+                            }
+                        },
+                        {
+                            "errors": [],
+                            "externalIdentifierId": {
+                                "errors": [],
+                                "value": "2-s2.0-85066855622",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "externalIdentifierType": {
+                                "errors": [],
+                                "value": "eid",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "url": null,
+                            "relationship": {
+                                "errors": [],
+                                "value": "self",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "normalized": {
+                                "errors": [],
+                                "value": "2-s2.0-85066855622",
+                                "required": false,
+                                "getRequiredMessage": null
+                            },
+                            "normalizedUrl": null
+                        }
+                    ],
+                    "source": "0000-0002-5982-8983",
+                    "sourceName": "Scopus - Elsevier",
+                    "assertionOriginOrcid": "0000-0002-4917-2896",
+                    "assertionOriginClientId": null,
+                    "assertionOriginName": "Carmen Ilizarbe",
+                    "title": {
+                        "errors": [],
+                        "value": "Intercultural Disagreement: Implementing the Right to Prior Consultation in Peru",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "subtitle": null,
+                    "translatedTitle": null,
+                    "workCategory": null,
+                    "workType": {
+                        "errors": [],
+                        "value": "journal-article",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "dateSortString": null,
+                    "createdDate": {
+                        "errors": [],
+                        "month": "9",
+                        "day": "20",
+                        "year": "2019",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "lastModified": {
+                        "errors": [],
+                        "month": "5",
+                        "day": "29",
+                        "year": "2022",
+                        "required": true,
+                        "getRequiredMessage": null
+                    }
+                }
+            ]
+        },
+        {
+            "activePutCode": 61873670,
+            "defaultPutCode": 61873670,
+            "groupId": 3,
+            "activeVisibility": "PUBLIC",
+            "userVersionPresent": false,
+            "externalIdentifiers": [
+                {
+                    "errors": [],
+                    "externalIdentifierId": {
+                        "errors": [],
+                        "value": "2-s2.0-85061481800",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "externalIdentifierType": {
+                        "errors": [],
+                        "value": "eid",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "url": null,
+                    "relationship": {
+                        "errors": [],
+                        "value": "self",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "normalized": {
+                        "errors": [],
+                        "value": "2-s2.0-85061481800",
+                        "required": false,
+                        "getRequiredMessage": null
+                    },
+                    "normalizedUrl": null
+                },
+                {
+                    "errors": [],
+                    "externalIdentifierId": {
+                        "errors": [],
+                        "value": "10.7440/colombiaint97.2019.05",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "externalIdentifierType": {
+                        "errors": [],
+                        "value": "doi",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "url": null,
+                    "relationship": {
+                        "errors": [],
+                        "value": "self",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "normalized": {
+                        "errors": [],
+                        "value": "10.7440/colombiaint97.2019.05",
+                        "required": false,
+                        "getRequiredMessage": null
+                    },
+                    "normalizedUrl": {
+                        "errors": [],
+                        "value": "https://doi.org/10.7440/colombiaint97.2019.05",
+                        "required": false,
+                        "getRequiredMessage": null
+                    }
+                }
+            ],
+            "works": [
+                {
+                    "visibility": {
+                        "errors": [],
+                        "required": true,
+                        "getRequiredMessage": null,
+                        "visibility": "PUBLIC"
+                    },
+                    "errors": [],
+                    "publicationDate": {
+                        "errors": [],
+                        "month": null,
+                        "day": null,
+                        "year": "2019",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "putCode": {
+                        "errors": [],
+                        "value": "61873670",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "shortDescription": null,
+                    "url": null,
+                    "journalTitle": {
+                        "errors": [],
+                        "value": "Colombia Internacional",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "languageCode": null,
+                    "languageName": null,
+                    "citation": null,
+                    "countryCode": null,
+                    "countryName": null,
+                    "contributors": null,
+                    "contributorsGroupedByOrcid": [
+                        {
+                            "contributorOrcid": null,
+                            "creditName": {
+                                "content": "Ulfe, M.E."
+                            },
+                            "contributorEmail": null,
+                            "contributorAttributes": null,
+                            "rolesAndSequences": []
+                        },
+                        {
+                            "contributorOrcid": null,
+                            "creditName": {
+                                "content": "Ilizarbe, C."
+                            },
+                            "contributorEmail": null,
+                            "contributorAttributes": null,
+                            "rolesAndSequences": []
+                        }
+                    ],
+                    "numberOfContributors": 2,
+                    "workExternalIdentifiers": [
+                        {
+                            "errors": [],
+                            "externalIdentifierId": {
+                                "errors": [],
+                                "value": "10.7440/colombiaint97.2019.05",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "externalIdentifierType": {
+                                "errors": [],
+                                "value": "doi",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "url": null,
+                            "relationship": {
+                                "errors": [],
+                                "value": "self",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "normalized": {
+                                "errors": [],
+                                "value": "10.7440/colombiaint97.2019.05",
+                                "required": false,
+                                "getRequiredMessage": null
+                            },
+                            "normalizedUrl": {
+                                "errors": [],
+                                "value": "https://doi.org/10.7440/colombiaint97.2019.05",
+                                "required": false,
+                                "getRequiredMessage": null
+                            }
+                        },
+                        {
+                            "errors": [],
+                            "externalIdentifierId": {
+                                "errors": [],
+                                "value": "2-s2.0-85061481800",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "externalIdentifierType": {
+                                "errors": [],
+                                "value": "eid",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "url": null,
+                            "relationship": {
+                                "errors": [],
+                                "value": "self",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "normalized": {
+                                "errors": [],
+                                "value": "2-s2.0-85061481800",
+                                "required": false,
+                                "getRequiredMessage": null
+                            },
+                            "normalizedUrl": null
+                        }
+                    ],
+                    "source": "0000-0002-5982-8983",
+                    "sourceName": "Scopus - Elsevier",
+                    "assertionOriginOrcid": "0000-0002-4917-2896",
+                    "assertionOriginClientId": null,
+                    "assertionOriginName": "Carmen Ilizarbe",
+                    "title": {
+                        "errors": [],
+                        "value": "Pardon as an event and the assault on the language of memory in Peru,El indulto como acontecimiento y el asalto al lenguaje de la memoria en Per\u00fa",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "subtitle": null,
+                    "translatedTitle": null,
+                    "workCategory": null,
+                    "workType": {
+                        "errors": [],
+                        "value": "journal-article",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "dateSortString": null,
+                    "createdDate": {
+                        "errors": [],
+                        "month": "9",
+                        "day": "20",
+                        "year": "2019",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "lastModified": {
+                        "errors": [],
+                        "month": "5",
+                        "day": "29",
+                        "year": "2022",
+                        "required": true,
+                        "getRequiredMessage": null
+                    }
+                }
+            ]
+        },
+        {
+            "activePutCode": 61876190,
+            "defaultPutCode": 61876190,
+            "groupId": 4,
+            "activeVisibility": "PUBLIC",
+            "userVersionPresent": true,
+            "externalIdentifiers": [],
+            "works": [
+                {
+                    "visibility": {
+                        "errors": [],
+                        "required": true,
+                        "getRequiredMessage": null,
+                        "visibility": "PUBLIC"
+                    },
+                    "errors": [],
+                    "publicationDate": {
+                        "errors": [],
+                        "month": null,
+                        "day": null,
+                        "year": "2018",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "putCode": {
+                        "errors": [],
+                        "value": "61876190",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "shortDescription": null,
+                    "url": null,
+                    "journalTitle": {
+                        "errors": [],
+                        "value": "La pol\u00edtica es de cine",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "languageCode": null,
+                    "languageName": null,
+                    "citation": null,
+                    "countryCode": null,
+                    "countryName": null,
+                    "contributors": null,
+                    "contributorsGroupedByOrcid": [],
+                    "numberOfContributors": 0,
+                    "workExternalIdentifiers": [
+                        {
+                            "errors": [],
+                            "externalIdentifierId": {
+                                "errors": [],
+                                "value": "9788425917561",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "externalIdentifierType": {
+                                "errors": [],
+                                "value": "isbn",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "url": {
+                                "errors": [],
+                                "value": "https://www.worldcat.org/isbn/9788425917561",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "relationship": {
+                                "errors": [],
+                                "value": "part-of",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "normalized": {
+                                "errors": [],
+                                "value": "9788425917561",
+                                "required": false,
+                                "getRequiredMessage": null
+                            },
+                            "normalizedUrl": {
+                                "errors": [],
+                                "value": "https://www.worldcat.org/isbn/9788425917561",
+                                "required": false,
+                                "getRequiredMessage": null
+                            }
+                        }
+                    ],
+                    "source": "0000-0002-4917-2896",
+                    "sourceName": "Carmen Ilizarbe",
+                    "assertionOriginOrcid": null,
+                    "assertionOriginClientId": null,
+                    "assertionOriginName": null,
+                    "title": {
+                        "errors": [],
+                        "value": "Suffragette. La rebeli\u00f3n de las mujeres",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "subtitle": null,
+                    "translatedTitle": null,
+                    "workCategory": null,
+                    "workType": {
+                        "errors": [],
+                        "value": "book-chapter",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "dateSortString": null,
+                    "createdDate": {
+                        "errors": [],
+                        "month": "9",
+                        "day": "20",
+                        "year": "2019",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "lastModified": {
+                        "errors": [],
+                        "month": "9",
+                        "day": "20",
+                        "year": "2019",
+                        "required": true,
+                        "getRequiredMessage": null
+                    }
+                }
+            ]
+        },
+        {
+            "activePutCode": 132064329,
+            "defaultPutCode": 132064329,
+            "groupId": 5,
+            "activeVisibility": "PUBLIC",
+            "userVersionPresent": false,
+            "externalIdentifiers": [
+                {
+                    "errors": [],
+                    "externalIdentifierId": {
+                        "errors": [],
+                        "value": "10.18800/9786123172640.006",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "externalIdentifierType": {
+                        "errors": [],
+                        "value": "doi",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "url": {
+                        "errors": [],
+                        "value": "https://doi.org/10.18800/9786123172640.006",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "relationship": {
+                        "errors": [],
+                        "value": "self",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "normalized": {
+                        "errors": [],
+                        "value": "10.18800/9786123172640.006",
+                        "required": false,
+                        "getRequiredMessage": null
+                    },
+                    "normalizedUrl": {
+                        "errors": [],
+                        "value": "https://doi.org/10.18800/9786123172640.006",
+                        "required": false,
+                        "getRequiredMessage": null
+                    }
+                }
+            ],
+            "works": [
+                {
+                    "visibility": {
+                        "errors": [],
+                        "required": true,
+                        "getRequiredMessage": null,
+                        "visibility": "PUBLIC"
+                    },
+                    "errors": [],
+                    "publicationDate": {
+                        "errors": [],
+                        "month": null,
+                        "day": null,
+                        "year": "2017",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "putCode": {
+                        "errors": [],
+                        "value": "132064329",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "shortDescription": null,
+                    "url": null,
+                    "journalTitle": {
+                        "errors": [],
+                        "value": null,
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "languageCode": null,
+                    "languageName": null,
+                    "citation": null,
+                    "countryCode": null,
+                    "countryName": null,
+                    "contributors": null,
+                    "contributorsGroupedByOrcid": [
+                        {
+                            "contributorOrcid": null,
+                            "creditName": {
+                                "content": "Carmen Ilizarbe Pizarro"
+                            },
+                            "contributorEmail": null,
+                            "contributorAttributes": null,
+                            "rolesAndSequences": [
+                                {
+                                    "contributorSequence": null,
+                                    "contributorRole": "author"
+                                }
+                            ]
+                        }
+                    ],
+                    "numberOfContributors": 1,
+                    "workExternalIdentifiers": [
+                        {
+                            "errors": [],
+                            "externalIdentifierId": {
+                                "errors": [],
+                                "value": "10.18800/9786123172640.006",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "externalIdentifierType": {
+                                "errors": [],
+                                "value": "doi",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "url": {
+                                "errors": [],
+                                "value": "https://doi.org/10.18800/9786123172640.006",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "relationship": {
+                                "errors": [],
+                                "value": "self",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "normalized": {
+                                "errors": [],
+                                "value": "10.18800/9786123172640.006",
+                                "required": false,
+                                "getRequiredMessage": null
+                            },
+                            "normalizedUrl": {
+                                "errors": [],
+                                "value": "https://doi.org/10.18800/9786123172640.006",
+                                "required": false,
+                                "getRequiredMessage": null
+                            }
+                        }
+                    ],
+                    "source": "0000-0001-9884-1913",
+                    "sourceName": "Crossref",
+                    "assertionOriginOrcid": null,
+                    "assertionOriginClientId": null,
+                    "assertionOriginName": null,
+                    "title": {
+                        "errors": [],
+                        "value": "Democracia desde la calle : esfera p\u00fablica contrahegem\u00f3nica y gram\u00e1ticas de reclamaci\u00f3n en la transici\u00f3n pol\u00edtica peruana del a\u00f1o 2000",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "subtitle": null,
+                    "translatedTitle": null,
+                    "workCategory": null,
+                    "workType": {
+                        "errors": [],
+                        "value": "book-chapter",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "dateSortString": null,
+                    "createdDate": {
+                        "errors": [],
+                        "month": "3",
+                        "day": "31",
+                        "year": "2023",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "lastModified": {
+                        "errors": [],
+                        "month": "5",
+                        "day": "29",
+                        "year": "2023",
+                        "required": true,
+                        "getRequiredMessage": null
+                    }
+                }
+            ]
+        },
+        {
+            "activePutCode": 61876755,
+            "defaultPutCode": 61876755,
+            "groupId": 6,
+            "activeVisibility": "PUBLIC",
+            "userVersionPresent": true,
+            "externalIdentifiers": [],
+            "works": [
+                {
+                    "visibility": {
+                        "errors": [],
+                        "required": true,
+                        "getRequiredMessage": null,
+                        "visibility": "PUBLIC"
+                    },
+                    "errors": [],
+                    "publicationDate": {
+                        "errors": [],
+                        "month": null,
+                        "day": null,
+                        "year": "2017",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "putCode": {
+                        "errors": [],
+                        "value": "61876755",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "shortDescription": null,
+                    "url": null,
+                    "journalTitle": {
+                        "errors": [],
+                        "value": "En busca de reconocimiento. Reflexiones desde el Per\u00fa diverso",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "languageCode": null,
+                    "languageName": null,
+                    "citation": null,
+                    "countryCode": null,
+                    "countryName": null,
+                    "contributors": null,
+                    "contributorsGroupedByOrcid": [],
+                    "numberOfContributors": 0,
+                    "workExternalIdentifiers": [
+                        {
+                            "errors": [],
+                            "externalIdentifierId": {
+                                "errors": [],
+                                "value": "9786123172640",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "externalIdentifierType": {
+                                "errors": [],
+                                "value": "isbn",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "url": {
+                                "errors": [],
+                                "value": "https://www.worldcat.org/isbn/9786123172640",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "relationship": {
+                                "errors": [],
+                                "value": "part-of",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "normalized": {
+                                "errors": [],
+                                "value": "9786123172640",
+                                "required": false,
+                                "getRequiredMessage": null
+                            },
+                            "normalizedUrl": {
+                                "errors": [],
+                                "value": "https://www.worldcat.org/isbn/9786123172640",
+                                "required": false,
+                                "getRequiredMessage": null
+                            }
+                        }
+                    ],
+                    "source": "0000-0002-4917-2896",
+                    "sourceName": "Carmen Ilizarbe",
+                    "assertionOriginOrcid": null,
+                    "assertionOriginClientId": null,
+                    "assertionOriginName": null,
+                    "title": {
+                        "errors": [],
+                        "value": "Democracia desde la calle: esfera p\u00fablica contrahegem\u00f3nica y gram\u00e1ticas de reclamaci\u00f3n en la transici\u00f3n pol\u00edtica del a\u00f1o 2000",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "subtitle": null,
+                    "translatedTitle": null,
+                    "workCategory": null,
+                    "workType": {
+                        "errors": [],
+                        "value": "book-chapter",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "dateSortString": null,
+                    "createdDate": {
+                        "errors": [],
+                        "month": "9",
+                        "day": "20",
+                        "year": "2019",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "lastModified": {
+                        "errors": [],
+                        "month": "9",
+                        "day": "20",
+                        "year": "2019",
+                        "required": true,
+                        "getRequiredMessage": null
+                    }
+                }
+            ]
+        },
+        {
+            "activePutCode": 61878472,
+            "defaultPutCode": 61878472,
+            "groupId": 7,
+            "activeVisibility": "PUBLIC",
+            "userVersionPresent": true,
+            "externalIdentifiers": [],
+            "works": [
+                {
+                    "visibility": {
+                        "errors": [],
+                        "required": true,
+                        "getRequiredMessage": null,
+                        "visibility": "PUBLIC"
+                    },
+                    "errors": [],
+                    "publicationDate": {
+                        "errors": [],
+                        "month": null,
+                        "day": null,
+                        "year": "2017",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "putCode": {
+                        "errors": [],
+                        "value": "61878472",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "shortDescription": null,
+                    "url": null,
+                    "journalTitle": {
+                        "errors": [],
+                        "value": "ProQuest Dissertations Publishing",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "languageCode": null,
+                    "languageName": null,
+                    "citation": null,
+                    "countryCode": null,
+                    "countryName": null,
+                    "contributors": null,
+                    "contributorsGroupedByOrcid": [],
+                    "numberOfContributors": 0,
+                    "workExternalIdentifiers": [],
+                    "source": "0000-0002-4917-2896",
+                    "sourceName": "Carmen Ilizarbe",
+                    "assertionOriginOrcid": null,
+                    "assertionOriginClientId": null,
+                    "assertionOriginName": null,
+                    "title": {
+                        "errors": [],
+                        "value": "Hegemonic Struggles of the Democratic Imaginary. Street protests and the public sphere in Peru (1997 \u2013 2006)",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "subtitle": null,
+                    "translatedTitle": null,
+                    "workCategory": null,
+                    "workType": {
+                        "errors": [],
+                        "value": "dissertation-thesis",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "dateSortString": null,
+                    "createdDate": {
+                        "errors": [],
+                        "month": "9",
+                        "day": "20",
+                        "year": "2019",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "lastModified": {
+                        "errors": [],
+                        "month": "9",
+                        "day": "20",
+                        "year": "2019",
+                        "required": true,
+                        "getRequiredMessage": null
+                    }
+                }
+            ]
+        },
+        {
+            "activePutCode": 61876877,
+            "defaultPutCode": 61876877,
+            "groupId": 8,
+            "activeVisibility": "PUBLIC",
+            "userVersionPresent": true,
+            "externalIdentifiers": [],
+            "works": [
+                {
+                    "visibility": {
+                        "errors": [],
+                        "required": true,
+                        "getRequiredMessage": null,
+                        "visibility": "PUBLIC"
+                    },
+                    "errors": [],
+                    "publicationDate": {
+                        "errors": [],
+                        "month": null,
+                        "day": null,
+                        "year": "2016",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "putCode": {
+                        "errors": [],
+                        "value": "61876877",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "shortDescription": null,
+                    "url": null,
+                    "journalTitle": {
+                        "errors": [],
+                        "value": "Incertidumbres y distancias. El controvertido protagonismo del Estado en el Per\u00fa",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "languageCode": null,
+                    "languageName": null,
+                    "citation": null,
+                    "countryCode": null,
+                    "countryName": null,
+                    "contributors": null,
+                    "contributorsGroupedByOrcid": [],
+                    "numberOfContributors": 0,
+                    "workExternalIdentifiers": [
+                        {
+                            "errors": [],
+                            "externalIdentifierId": {
+                                "errors": [],
+                                "value": "978-9972-51-579-8",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "externalIdentifierType": {
+                                "errors": [],
+                                "value": "isbn",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "url": {
+                                "errors": [],
+                                "value": "https://www.worldcat.org/isbn/9789972515798",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "relationship": {
+                                "errors": [],
+                                "value": "part-of",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "normalized": {
+                                "errors": [],
+                                "value": "9789972515798",
+                                "required": false,
+                                "getRequiredMessage": null
+                            },
+                            "normalizedUrl": {
+                                "errors": [],
+                                "value": "https://www.worldcat.org/isbn/9789972515798",
+                                "required": false,
+                                "getRequiredMessage": null
+                            }
+                        }
+                    ],
+                    "source": "0000-0002-4917-2896",
+                    "sourceName": "Carmen Ilizarbe",
+                    "assertionOriginOrcid": null,
+                    "assertionOriginClientId": null,
+                    "assertionOriginName": null,
+                    "title": {
+                        "errors": [],
+                        "value": "Autorrepresentaci\u00f3n y desacuerdo: Estado y conflictividad social en el Per\u00fa",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "subtitle": null,
+                    "translatedTitle": null,
+                    "workCategory": null,
+                    "workType": {
+                        "errors": [],
+                        "value": "book-chapter",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "dateSortString": null,
+                    "createdDate": {
+                        "errors": [],
+                        "month": "9",
+                        "day": "20",
+                        "year": "2019",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "lastModified": {
+                        "errors": [],
+                        "month": "9",
+                        "day": "20",
+                        "year": "2019",
+                        "required": true,
+                        "getRequiredMessage": null
+                    }
+                }
+            ]
+        },
+        {
+            "activePutCode": 61875055,
+            "defaultPutCode": 61875055,
+            "groupId": 9,
+            "activeVisibility": "PUBLIC",
+            "userVersionPresent": true,
+            "externalIdentifiers": [
+                {
+                    "errors": [],
+                    "externalIdentifierId": {
+                        "errors": [],
+                        "value": "10.21678/apuntes.76.732",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "externalIdentifierType": {
+                        "errors": [],
+                        "value": "doi",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "url": {
+                        "errors": [],
+                        "value": "https://doi.org/10.21678/apuntes.76.732",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "relationship": {
+                        "errors": [],
+                        "value": "self",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "normalized": {
+                        "errors": [],
+                        "value": "10.21678/apuntes.76.732",
+                        "required": false,
+                        "getRequiredMessage": null
+                    },
+                    "normalizedUrl": {
+                        "errors": [],
+                        "value": "https://doi.org/10.21678/apuntes.76.732",
+                        "required": false,
+                        "getRequiredMessage": null
+                    }
+                }
+            ],
+            "works": [
+                {
+                    "visibility": {
+                        "errors": [],
+                        "required": true,
+                        "getRequiredMessage": null,
+                        "visibility": "PUBLIC"
+                    },
+                    "errors": [],
+                    "publicationDate": {
+                        "errors": [],
+                        "month": null,
+                        "day": null,
+                        "year": "2015",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "putCode": {
+                        "errors": [],
+                        "value": "61875055",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "shortDescription": null,
+                    "url": null,
+                    "journalTitle": {
+                        "errors": [],
+                        "value": "Apuntes: Revista de Ciencias Sociales",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "languageCode": null,
+                    "languageName": null,
+                    "citation": null,
+                    "countryCode": null,
+                    "countryName": null,
+                    "contributors": null,
+                    "contributorsGroupedByOrcid": [],
+                    "numberOfContributors": 0,
+                    "workExternalIdentifiers": [
+                        {
+                            "errors": [],
+                            "externalIdentifierId": {
+                                "errors": [],
+                                "value": "10.21678/apuntes.76.732",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "externalIdentifierType": {
+                                "errors": [],
+                                "value": "doi",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "url": {
+                                "errors": [],
+                                "value": "https://doi.org/10.21678/apuntes.76.732",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "relationship": {
+                                "errors": [],
+                                "value": "self",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "normalized": {
+                                "errors": [],
+                                "value": "10.21678/apuntes.76.732",
+                                "required": false,
+                                "getRequiredMessage": null
+                            },
+                            "normalizedUrl": {
+                                "errors": [],
+                                "value": "https://doi.org/10.21678/apuntes.76.732",
+                                "required": false,
+                                "getRequiredMessage": null
+                            }
+                        },
+                        {
+                            "errors": [],
+                            "externalIdentifierId": {
+                                "errors": [],
+                                "value": "0252-1865",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "externalIdentifierType": {
+                                "errors": [],
+                                "value": "issn",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "url": {
+                                "errors": [],
+                                "value": "https://portal.issn.org/resource/ISSN/0252-1865",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "relationship": {
+                                "errors": [],
+                                "value": "part-of",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "normalized": {
+                                "errors": [],
+                                "value": "0252-1865",
+                                "required": false,
+                                "getRequiredMessage": null
+                            },
+                            "normalizedUrl": {
+                                "errors": [],
+                                "value": "https://portal.issn.org/resource/ISSN/0252-1865",
+                                "required": false,
+                                "getRequiredMessage": null
+                            }
+                        },
+                        {
+                            "errors": [],
+                            "externalIdentifierId": {
+                                "errors": [],
+                                "value": "2223-1757",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "externalIdentifierType": {
+                                "errors": [],
+                                "value": "issn",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "url": {
+                                "errors": [],
+                                "value": "https://portal.issn.org/resource/ISSN/2223-1757",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "relationship": {
+                                "errors": [],
+                                "value": "part-of",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "normalized": {
+                                "errors": [],
+                                "value": "2223-1757",
+                                "required": false,
+                                "getRequiredMessage": null
+                            },
+                            "normalizedUrl": {
+                                "errors": [],
+                                "value": "https://portal.issn.org/resource/ISSN/2223-1757",
+                                "required": false,
+                                "getRequiredMessage": null
+                            }
+                        }
+                    ],
+                    "source": "0000-0002-4917-2896",
+                    "sourceName": "Carmen Ilizarbe",
+                    "assertionOriginOrcid": null,
+                    "assertionOriginClientId": null,
+                    "assertionOriginName": null,
+                    "title": {
+                        "errors": [],
+                        "value": "CAMERON, Maxwell A., 2013, Strong Constitutions: Social-Cognitive Origins of the Separation of Powers, Nueva York, Oxford University Press. 255 pp.",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "subtitle": null,
+                    "translatedTitle": null,
+                    "workCategory": null,
+                    "workType": {
+                        "errors": [],
+                        "value": "book-review",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "dateSortString": null,
+                    "createdDate": {
+                        "errors": [],
+                        "month": "9",
+                        "day": "20",
+                        "year": "2019",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "lastModified": {
+                        "errors": [],
+                        "month": "9",
+                        "day": "20",
+                        "year": "2019",
+                        "required": true,
+                        "getRequiredMessage": null
+                    }
+                }
+            ]
+        },
+        {
+            "activePutCode": 61877230,
+            "defaultPutCode": 61877230,
+            "groupId": 10,
+            "activeVisibility": "PUBLIC",
+            "userVersionPresent": true,
+            "externalIdentifiers": [],
+            "works": [
+                {
+                    "visibility": {
+                        "errors": [],
+                        "required": true,
+                        "getRequiredMessage": null,
+                        "visibility": "PUBLIC"
+                    },
+                    "errors": [],
+                    "publicationDate": {
+                        "errors": [],
+                        "month": null,
+                        "day": null,
+                        "year": "2015",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "putCode": {
+                        "errors": [],
+                        "value": "61877230",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "shortDescription": null,
+                    "url": null,
+                    "journalTitle": {
+                        "errors": [],
+                        "value": "Pol\u00edticas en Justicia Transicional. Miradas comparativas sobre el legado de la CVR",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "languageCode": null,
+                    "languageName": null,
+                    "citation": null,
+                    "countryCode": null,
+                    "countryName": null,
+                    "contributors": null,
+                    "contributorsGroupedByOrcid": [],
+                    "numberOfContributors": 0,
+                    "workExternalIdentifiers": [
+                        {
+                            "errors": [],
+                            "externalIdentifierId": {
+                                "errors": [],
+                                "value": "978-9972-51-535-4",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "externalIdentifierType": {
+                                "errors": [],
+                                "value": "isbn",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "url": {
+                                "errors": [],
+                                "value": "https://www.worldcat.org/isbn/9789972515354",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "relationship": {
+                                "errors": [],
+                                "value": "part-of",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "normalized": {
+                                "errors": [],
+                                "value": "9789972515354",
+                                "required": false,
+                                "getRequiredMessage": null
+                            },
+                            "normalizedUrl": {
+                                "errors": [],
+                                "value": "https://www.worldcat.org/isbn/9789972515354",
+                                "required": false,
+                                "getRequiredMessage": null
+                            }
+                        }
+                    ],
+                    "source": "0000-0002-4917-2896",
+                    "sourceName": "Carmen Ilizarbe",
+                    "assertionOriginOrcid": null,
+                    "assertionOriginClientId": null,
+                    "assertionOriginName": null,
+                    "title": {
+                        "errors": [],
+                        "value": "Memoria, olvido y negacionismo en el proceso de recomposici\u00f3n pol\u00edtica en el Per\u00fa de la posguerra del siglo XXI",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "subtitle": null,
+                    "translatedTitle": null,
+                    "workCategory": null,
+                    "workType": {
+                        "errors": [],
+                        "value": "book-chapter",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "dateSortString": null,
+                    "createdDate": {
+                        "errors": [],
+                        "month": "9",
+                        "day": "20",
+                        "year": "2019",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "lastModified": {
+                        "errors": [],
+                        "month": "9",
+                        "day": "20",
+                        "year": "2019",
+                        "required": true,
+                        "getRequiredMessage": null
+                    }
+                }
+            ]
+        },
+        {
+            "activePutCode": 61874640,
+            "defaultPutCode": 61874640,
+            "groupId": 11,
+            "activeVisibility": "PUBLIC",
+            "userVersionPresent": true,
+            "externalIdentifiers": [],
+            "works": [
+                {
+                    "visibility": {
+                        "errors": [],
+                        "required": true,
+                        "getRequiredMessage": null,
+                        "visibility": "PUBLIC"
+                    },
+                    "errors": [],
+                    "publicationDate": {
+                        "errors": [],
+                        "month": null,
+                        "day": null,
+                        "year": "2015",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "putCode": {
+                        "errors": [],
+                        "value": "61874640",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "shortDescription": null,
+                    "url": null,
+                    "journalTitle": {
+                        "errors": [],
+                        "value": "S\u00edlex",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "languageCode": null,
+                    "languageName": null,
+                    "citation": null,
+                    "countryCode": null,
+                    "countryName": null,
+                    "contributors": null,
+                    "contributorsGroupedByOrcid": [],
+                    "numberOfContributors": 0,
+                    "workExternalIdentifiers": [
+                        {
+                            "errors": [],
+                            "externalIdentifierId": {
+                                "errors": [],
+                                "value": "2310-4244 ",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "externalIdentifierType": {
+                                "errors": [],
+                                "value": "issn",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "url": {
+                                "errors": [],
+                                "value": "https://portal.issn.org/resource/ISSN/2310-4244",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "relationship": {
+                                "errors": [],
+                                "value": "part-of",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "normalized": {
+                                "errors": [],
+                                "value": "2310-4244",
+                                "required": false,
+                                "getRequiredMessage": null
+                            },
+                            "normalizedUrl": {
+                                "errors": [],
+                                "value": "https://portal.issn.org/resource/ISSN/2310-4244",
+                                "required": false,
+                                "getRequiredMessage": null
+                            }
+                        }
+                    ],
+                    "source": "0000-0002-4917-2896",
+                    "sourceName": "Carmen Ilizarbe",
+                    "assertionOriginOrcid": null,
+                    "assertionOriginClientId": null,
+                    "assertionOriginName": null,
+                    "title": {
+                        "errors": [],
+                        "value": "Rese\u00f1a: AG\u00dcERO, Jos\u00e9 Carlos, 2015. Los Rendidos. Sobre el don de perdonar. Lima, Instituto de Estudios Peruanos.",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "subtitle": null,
+                    "translatedTitle": null,
+                    "workCategory": null,
+                    "workType": {
+                        "errors": [],
+                        "value": "book-review",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "dateSortString": null,
+                    "createdDate": {
+                        "errors": [],
+                        "month": "9",
+                        "day": "20",
+                        "year": "2019",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "lastModified": {
+                        "errors": [],
+                        "month": "9",
+                        "day": "20",
+                        "year": "2019",
+                        "required": true,
+                        "getRequiredMessage": null
+                    }
+                }
+            ]
+        },
+        {
+            "activePutCode": 61875720,
+            "defaultPutCode": 61875720,
+            "groupId": 12,
+            "activeVisibility": "PUBLIC",
+            "userVersionPresent": true,
+            "externalIdentifiers": [],
+            "works": [
+                {
+                    "visibility": {
+                        "errors": [],
+                        "required": true,
+                        "getRequiredMessage": null,
+                        "visibility": "PUBLIC"
+                    },
+                    "errors": [],
+                    "publicationDate": {
+                        "errors": [],
+                        "month": null,
+                        "day": null,
+                        "year": "2013",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "putCode": {
+                        "errors": [],
+                        "value": "61875720",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "shortDescription": null,
+                    "url": null,
+                    "journalTitle": {
+                        "errors": [],
+                        "value": "S\u00edlex",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "languageCode": null,
+                    "languageName": null,
+                    "citation": null,
+                    "countryCode": null,
+                    "countryName": null,
+                    "contributors": null,
+                    "contributorsGroupedByOrcid": [],
+                    "numberOfContributors": 0,
+                    "workExternalIdentifiers": [
+                        {
+                            "errors": [],
+                            "externalIdentifierId": {
+                                "errors": [],
+                                "value": "2310-4244 ",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "externalIdentifierType": {
+                                "errors": [],
+                                "value": "issn",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "url": {
+                                "errors": [],
+                                "value": "https://portal.issn.org/resource/ISSN/2310-4244",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "relationship": {
+                                "errors": [],
+                                "value": "part-of",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "normalized": {
+                                "errors": [],
+                                "value": "2310-4244",
+                                "required": false,
+                                "getRequiredMessage": null
+                            },
+                            "normalizedUrl": {
+                                "errors": [],
+                                "value": "https://portal.issn.org/resource/ISSN/2310-4244",
+                                "required": false,
+                                "getRequiredMessage": null
+                            }
+                        }
+                    ],
+                    "source": "0000-0002-4917-2896",
+                    "sourceName": "Carmen Ilizarbe",
+                    "assertionOriginOrcid": null,
+                    "assertionOriginClientId": null,
+                    "assertionOriginName": null,
+                    "title": {
+                        "errors": [],
+                        "value": "Protestas y transici\u00f3n democr\u00e1tica en el Per\u00fa de inicios del siglo XXI: una propuesta anal\u00edtica",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "subtitle": null,
+                    "translatedTitle": null,
+                    "workCategory": null,
+                    "workType": {
+                        "errors": [],
+                        "value": "journal-article",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "dateSortString": null,
+                    "createdDate": {
+                        "errors": [],
+                        "month": "9",
+                        "day": "20",
+                        "year": "2019",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "lastModified": {
+                        "errors": [],
+                        "month": "9",
+                        "day": "20",
+                        "year": "2019",
+                        "required": true,
+                        "getRequiredMessage": null
+                    }
+                }
+            ]
+        },
+        {
+            "activePutCode": 61875877,
+            "defaultPutCode": 61875877,
+            "groupId": 13,
+            "activeVisibility": "PUBLIC",
+            "userVersionPresent": true,
+            "externalIdentifiers": [],
+            "works": [
+                {
+                    "visibility": {
+                        "errors": [],
+                        "required": true,
+                        "getRequiredMessage": null,
+                        "visibility": "PUBLIC"
+                    },
+                    "errors": [],
+                    "publicationDate": {
+                        "errors": [],
+                        "month": null,
+                        "day": null,
+                        "year": "2010",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "putCode": {
+                        "errors": [],
+                        "value": "61875877",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "shortDescription": null,
+                    "url": null,
+                    "journalTitle": {
+                        "errors": [],
+                        "value": "Argumentos",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "languageCode": null,
+                    "languageName": null,
+                    "citation": null,
+                    "countryCode": null,
+                    "countryName": null,
+                    "contributors": null,
+                    "contributorsGroupedByOrcid": [],
+                    "numberOfContributors": 0,
+                    "workExternalIdentifiers": [
+                        {
+                            "errors": [],
+                            "externalIdentifierId": {
+                                "errors": [],
+                                "value": "2076-7722",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "externalIdentifierType": {
+                                "errors": [],
+                                "value": "issn",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "url": {
+                                "errors": [],
+                                "value": "https://portal.issn.org/resource/ISSN/2076-7722",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "relationship": {
+                                "errors": [],
+                                "value": "part-of",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "normalized": {
+                                "errors": [],
+                                "value": "2076-7722",
+                                "required": false,
+                                "getRequiredMessage": null
+                            },
+                            "normalizedUrl": {
+                                "errors": [],
+                                "value": "https://portal.issn.org/resource/ISSN/2076-7722",
+                                "required": false,
+                                "getRequiredMessage": null
+                            }
+                        }
+                    ],
+                    "source": "0000-0002-4917-2896",
+                    "sourceName": "Carmen Ilizarbe",
+                    "assertionOriginOrcid": null,
+                    "assertionOriginClientId": null,
+                    "assertionOriginName": null,
+                    "title": {
+                        "errors": [],
+                        "value": "\u00bfSe puede o no se puede?",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "subtitle": null,
+                    "translatedTitle": null,
+                    "workCategory": null,
+                    "workType": {
+                        "errors": [],
+                        "value": "journal-article",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "dateSortString": null,
+                    "createdDate": {
+                        "errors": [],
+                        "month": "9",
+                        "day": "20",
+                        "year": "2019",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "lastModified": {
+                        "errors": [],
+                        "month": "9",
+                        "day": "20",
+                        "year": "2019",
+                        "required": true,
+                        "getRequiredMessage": null
+                    }
+                }
+            ]
+        },
+        {
+            "activePutCode": 61877518,
+            "defaultPutCode": 61877518,
+            "groupId": 14,
+            "activeVisibility": "PUBLIC",
+            "userVersionPresent": true,
+            "externalIdentifiers": [],
+            "works": [
+                {
+                    "visibility": {
+                        "errors": [],
+                        "required": true,
+                        "getRequiredMessage": null,
+                        "visibility": "PUBLIC"
+                    },
+                    "errors": [],
+                    "publicationDate": {
+                        "errors": [],
+                        "month": null,
+                        "day": null,
+                        "year": "2002",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "putCode": {
+                        "errors": [],
+                        "value": "61877518",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "shortDescription": null,
+                    "url": null,
+                    "journalTitle": {
+                        "errors": [],
+                        "value": "Interculturalidad y pol\u00edtica: desaf\u00edos y posibilidades",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "languageCode": null,
+                    "languageName": null,
+                    "citation": null,
+                    "countryCode": null,
+                    "countryName": null,
+                    "contributors": null,
+                    "contributorsGroupedByOrcid": [],
+                    "numberOfContributors": 0,
+                    "workExternalIdentifiers": [
+                        {
+                            "errors": [],
+                            "externalIdentifierId": {
+                                "errors": [],
+                                "value": "9789972603822",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "externalIdentifierType": {
+                                "errors": [],
+                                "value": "isbn",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "url": {
+                                "errors": [],
+                                "value": "https://www.worldcat.org/isbn/9789972603822",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "relationship": {
+                                "errors": [],
+                                "value": "part-of",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "normalized": {
+                                "errors": [],
+                                "value": "9789972603822",
+                                "required": false,
+                                "getRequiredMessage": null
+                            },
+                            "normalizedUrl": {
+                                "errors": [],
+                                "value": "https://www.worldcat.org/isbn/9789972603822",
+                                "required": false,
+                                "getRequiredMessage": null
+                            }
+                        }
+                    ],
+                    "source": "0000-0002-4917-2896",
+                    "sourceName": "Carmen Ilizarbe",
+                    "assertionOriginOrcid": null,
+                    "assertionOriginClientId": null,
+                    "assertionOriginName": null,
+                    "title": {
+                        "errors": [],
+                        "value": "Interculturalidad y pol\u00edtica: desaf\u00edos y posibilidades",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "subtitle": null,
+                    "translatedTitle": null,
+                    "workCategory": null,
+                    "workType": {
+                        "errors": [],
+                        "value": "book-chapter",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "dateSortString": null,
+                    "createdDate": {
+                        "errors": [],
+                        "month": "9",
+                        "day": "20",
+                        "year": "2019",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "lastModified": {
+                        "errors": [],
+                        "month": "9",
+                        "day": "20",
+                        "year": "2019",
+                        "required": true,
+                        "getRequiredMessage": null
+                    }
+                }
+            ]
+        },
+        {
+            "activePutCode": 61877895,
+            "defaultPutCode": 61877895,
+            "groupId": 15,
+            "activeVisibility": "PUBLIC",
+            "userVersionPresent": true,
+            "externalIdentifiers": [],
+            "works": [
+                {
+                    "visibility": {
+                        "errors": [],
+                        "required": true,
+                        "getRequiredMessage": null,
+                        "visibility": "PUBLIC"
+                    },
+                    "errors": [],
+                    "publicationDate": {
+                        "errors": [],
+                        "month": null,
+                        "day": null,
+                        "year": "1999",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "putCode": {
+                        "errors": [],
+                        "value": "61877895",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "shortDescription": null,
+                    "url": null,
+                    "journalTitle": {
+                        "errors": [],
+                        "value": "Juventud: Sociedad y Cultura",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "languageCode": null,
+                    "languageName": null,
+                    "citation": null,
+                    "countryCode": null,
+                    "countryName": null,
+                    "contributors": null,
+                    "contributorsGroupedByOrcid": [],
+                    "numberOfContributors": 0,
+                    "workExternalIdentifiers": [
+                        {
+                            "errors": [],
+                            "externalIdentifierId": {
+                                "errors": [],
+                                "value": "9789972603198",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "externalIdentifierType": {
+                                "errors": [],
+                                "value": "isbn",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "url": {
+                                "errors": [],
+                                "value": "https://www.worldcat.org/isbn/9789972603198",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "relationship": {
+                                "errors": [],
+                                "value": "part-of",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "normalized": {
+                                "errors": [],
+                                "value": "9789972603198",
+                                "required": false,
+                                "getRequiredMessage": null
+                            },
+                            "normalizedUrl": {
+                                "errors": [],
+                                "value": "https://www.worldcat.org/isbn/9789972603198",
+                                "required": false,
+                                "getRequiredMessage": null
+                            }
+                        }
+                    ],
+                    "source": "0000-0002-4917-2896",
+                    "sourceName": "Carmen Ilizarbe",
+                    "assertionOriginOrcid": null,
+                    "assertionOriginClientId": null,
+                    "assertionOriginName": null,
+                    "title": {
+                        "errors": [],
+                        "value": "Todav\u00eda no somos quienes queremos ser. Construcciones sociales del amor y la pareja en j\u00f3venes de sectores medios de Lima",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "subtitle": null,
+                    "translatedTitle": null,
+                    "workCategory": null,
+                    "workType": {
+                        "errors": [],
+                        "value": "book-chapter",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "dateSortString": null,
+                    "createdDate": {
+                        "errors": [],
+                        "month": "9",
+                        "day": "20",
+                        "year": "2019",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "lastModified": {
+                        "errors": [],
+                        "month": "9",
+                        "day": "20",
+                        "year": "2019",
+                        "required": true,
+                        "getRequiredMessage": null
+                    }
+                }
+            ]
+        }
+    ]
+}]
