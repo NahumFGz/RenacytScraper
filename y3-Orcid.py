@@ -225,5 +225,5 @@ for cti_vitae,orcid, url in df_orcid.values.tolist():
         i += 1
 
 # 2. Formatear los jsons
-format_json(os.path.join(os.getcwd(),'originals','orcid','1_perfil'), '1_perfil', '2_perfil_format')
-format_json(os.path.join(os.getcwd(),'originals','orcid','3_publicaciones'), '3_publicaciones', '4_publicaciones_format')
+# format_json(os.path.join(os.getcwd(),'originals','orcid','1_perfil'), '1_perfil', '2_perfil_format')
+# format_json(os.path.join(os.getcwd(),'originals','orcid','3_publicaciones'), '3_publicaciones', '4_publicaciones_format')

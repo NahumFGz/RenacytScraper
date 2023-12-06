@@ -205,4 +205,4 @@ for cti_vitae,orcid, url in df_renacyt.values.tolist():
         i += 1
 
 # 2. Formatear los jsons
-format_json(os.path.join(os.getcwd(),'originals','renacyt','perfil','1_datos_investigador'))
+# format_json(os.path.join(os.getcwd(),'originals','renacyt','perfil','1_datos_investigador'))
