@@ -52,7 +52,7 @@ if __name__ == "__main__":
                 stop_process_windows(process_name="chrome.exe")
             else:
                 stop_process_linux(process_name="java")
-                stop_process_linux(process_name="chrome")
+                #stop_process_linux(process_name="chrome")
         except:
             pass
 
