@@ -1,0 +1,3659 @@
+[{
+    "nextOffset": 50,
+    "totalGroups": 13,
+    "groups": [
+        {
+            "activePutCode": 136452100,
+            "defaultPutCode": 136452100,
+            "groupId": 0,
+            "activeVisibility": "PUBLIC",
+            "userVersionPresent": true,
+            "externalIdentifiers": [
+                {
+                    "errors": [],
+                    "externalIdentifierId": {
+                        "errors": [],
+                        "value": "10.5220/0011697200003417",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "externalIdentifierType": {
+                        "errors": [],
+                        "value": "doi",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "url": {
+                        "errors": [],
+                        "value": "https://doi.org/10.5220/0011697200003417",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "relationship": {
+                        "errors": [],
+                        "value": "self",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "normalized": {
+                        "errors": [],
+                        "value": "10.5220/0011697200003417",
+                        "required": false,
+                        "getRequiredMessage": null
+                    },
+                    "normalizedUrl": {
+                        "errors": [],
+                        "value": "https://doi.org/10.5220/0011697200003417",
+                        "required": false,
+                        "getRequiredMessage": null
+                    }
+                }
+            ],
+            "works": [
+                {
+                    "visibility": {
+                        "errors": [],
+                        "required": true,
+                        "getRequiredMessage": null,
+                        "visibility": "PUBLIC"
+                    },
+                    "errors": [],
+                    "publicationDate": {
+                        "errors": [],
+                        "month": null,
+                        "day": null,
+                        "year": "2023",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "putCode": {
+                        "errors": [],
+                        "value": "136452100",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "shortDescription": null,
+                    "url": null,
+                    "journalTitle": {
+                        "errors": [],
+                        "value": "Proceedings of the 18th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "languageCode": null,
+                    "languageName": null,
+                    "citation": null,
+                    "countryCode": null,
+                    "countryName": null,
+                    "contributors": null,
+                    "contributorsGroupedByOrcid": [
+                        {
+                            "contributorOrcid": {
+                                "uri": null,
+                                "path": null,
+                                "host": null
+                            },
+                            "creditName": {
+                                "content": "Joaquin Palma-Ugarte"
+                            },
+                            "contributorEmail": null,
+                            "contributorAttributes": null,
+                            "rolesAndSequences": [
+                                {
+                                    "contributorSequence": null,
+                                    "contributorRole": "author"
+                                }
+                            ]
+                        },
+                        {
+                            "contributorOrcid": {
+                                "uri": null,
+                                "path": null,
+                                "host": null
+                            },
+                            "creditName": {
+                                "content": "Laura Estacio-Cerquin"
+                            },
+                            "contributorEmail": null,
+                            "contributorAttributes": null,
+                            "rolesAndSequences": [
+                                {
+                                    "contributorSequence": null,
+                                    "contributorRole": "author"
+                                }
+                            ]
+                        },
+                        {
+                            "contributorOrcid": {
+                                "uri": null,
+                                "path": null,
+                                "host": null
+                            },
+                            "creditName": {
+                                "content": "Victor Flores-Benites"
+                            },
+                            "contributorEmail": null,
+                            "contributorAttributes": null,
+                            "rolesAndSequences": [
+                                {
+                                    "contributorSequence": null,
+                                    "contributorRole": "author"
+                                }
+                            ]
+                        },
+                        {
+                            "contributorOrcid": {
+                                "uri": null,
+                                "path": null,
+                                "host": null
+                            },
+                            "creditName": {
+                                "content": "Rensso Mora-Colque"
+                            },
+                            "contributorEmail": null,
+                            "contributorAttributes": null,
+                            "rolesAndSequences": [
+                                {
+                                    "contributorSequence": null,
+                                    "contributorRole": "author"
+                                }
+                            ]
+                        }
+                    ],
+                    "numberOfContributors": 4,
+                    "workExternalIdentifiers": [
+                        {
+                            "errors": [],
+                            "externalIdentifierId": {
+                                "errors": [],
+                                "value": "10.5220/0011697200003417",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "externalIdentifierType": {
+                                "errors": [],
+                                "value": "doi",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "url": {
+                                "errors": [],
+                                "value": "https://doi.org/10.5220/0011697200003417",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "relationship": {
+                                "errors": [],
+                                "value": "self",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "normalized": {
+                                "errors": [],
+                                "value": "10.5220/0011697200003417",
+                                "required": false,
+                                "getRequiredMessage": null
+                            },
+                            "normalizedUrl": {
+                                "errors": [],
+                                "value": "https://doi.org/10.5220/0011697200003417",
+                                "required": false,
+                                "getRequiredMessage": null
+                            }
+                        }
+                    ],
+                    "source": "0000-0003-4734-8752",
+                    "sourceName": "rensso victor hugo mora colque",
+                    "assertionOriginOrcid": null,
+                    "assertionOriginClientId": null,
+                    "assertionOriginName": null,
+                    "title": {
+                        "errors": [],
+                        "value": "A Lightweight Gaussian-Based Model for Fast Detection and Classification of Moving Objects",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "subtitle": null,
+                    "translatedTitle": null,
+                    "workCategory": null,
+                    "workType": {
+                        "errors": [],
+                        "value": "conference-paper",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "dateSortString": null,
+                    "createdDate": {
+                        "errors": [],
+                        "month": "6",
+                        "day": "7",
+                        "year": "2023",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "lastModified": {
+                        "errors": [],
+                        "month": "6",
+                        "day": "7",
+                        "year": "2023",
+                        "required": true,
+                        "getRequiredMessage": null
+                    }
+                }
+            ]
+        },
+        {
+            "activePutCode": 111164575,
+            "defaultPutCode": 111164575,
+            "groupId": 1,
+            "activeVisibility": "PUBLIC",
+            "userVersionPresent": false,
+            "externalIdentifiers": [
+                {
+                    "errors": [],
+                    "externalIdentifierId": {
+                        "errors": [],
+                        "value": "10.1109/ISBI48211.2021.9434091",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "externalIdentifierType": {
+                        "errors": [],
+                        "value": "doi",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "url": null,
+                    "relationship": {
+                        "errors": [],
+                        "value": "self",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "normalized": {
+                        "errors": [],
+                        "value": "10.1109/isbi48211.2021.9434091",
+                        "required": false,
+                        "getRequiredMessage": null
+                    },
+                    "normalizedUrl": {
+                        "errors": [],
+                        "value": "https://doi.org/10.1109/isbi48211.2021.9434091",
+                        "required": false,
+                        "getRequiredMessage": null
+                    }
+                },
+                {
+                    "errors": [],
+                    "externalIdentifierId": {
+                        "errors": [],
+                        "value": "2-s2.0-85107194158",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "externalIdentifierType": {
+                        "errors": [],
+                        "value": "eid",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "url": null,
+                    "relationship": {
+                        "errors": [],
+                        "value": "self",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "normalized": {
+                        "errors": [],
+                        "value": "2-s2.0-85107194158",
+                        "required": false,
+                        "getRequiredMessage": null
+                    },
+                    "normalizedUrl": null
+                }
+            ],
+            "works": [
+                {
+                    "visibility": {
+                        "errors": [],
+                        "required": true,
+                        "getRequiredMessage": null,
+                        "visibility": "PUBLIC"
+                    },
+                    "errors": [],
+                    "publicationDate": {
+                        "errors": [],
+                        "month": null,
+                        "day": null,
+                        "year": "2021",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "putCode": {
+                        "errors": [],
+                        "value": "111164575",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "shortDescription": null,
+                    "url": null,
+                    "journalTitle": {
+                        "errors": [],
+                        "value": "Proceedings - International Symposium on Biomedical Imaging",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "languageCode": null,
+                    "languageName": null,
+                    "citation": null,
+                    "countryCode": null,
+                    "countryName": null,
+                    "contributors": null,
+                    "contributorsGroupedByOrcid": [
+                        {
+                            "contributorOrcid": null,
+                            "creditName": {
+                                "content": "Estacio, L."
+                            },
+                            "contributorEmail": null,
+                            "contributorAttributes": null,
+                            "rolesAndSequences": []
+                        },
+                        {
+                            "contributorOrcid": null,
+                            "creditName": {
+                                "content": "Ehlke, M."
+                            },
+                            "contributorEmail": null,
+                            "contributorAttributes": null,
+                            "rolesAndSequences": []
+                        },
+                        {
+                            "contributorOrcid": null,
+                            "creditName": {
+                                "content": "Tack, A."
+                            },
+                            "contributorEmail": null,
+                            "contributorAttributes": null,
+                            "rolesAndSequences": []
+                        },
+                        {
+                            "contributorOrcid": null,
+                            "creditName": {
+                                "content": "Castro, E."
+                            },
+                            "contributorEmail": null,
+                            "contributorAttributes": null,
+                            "rolesAndSequences": []
+                        },
+                        {
+                            "contributorOrcid": null,
+                            "creditName": {
+                                "content": "Lamecker, H."
+                            },
+                            "contributorEmail": null,
+                            "contributorAttributes": null,
+                            "rolesAndSequences": []
+                        },
+                        {
+                            "contributorOrcid": null,
+                            "creditName": {
+                                "content": "Mora, R."
+                            },
+                            "contributorEmail": null,
+                            "contributorAttributes": null,
+                            "rolesAndSequences": []
+                        },
+                        {
+                            "contributorOrcid": null,
+                            "creditName": {
+                                "content": "Zachow, S."
+                            },
+                            "contributorEmail": null,
+                            "contributorAttributes": null,
+                            "rolesAndSequences": []
+                        }
+                    ],
+                    "numberOfContributors": 7,
+                    "workExternalIdentifiers": [
+                        {
+                            "errors": [],
+                            "externalIdentifierId": {
+                                "errors": [],
+                                "value": "10.1109/ISBI48211.2021.9434091",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "externalIdentifierType": {
+                                "errors": [],
+                                "value": "doi",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "url": null,
+                            "relationship": {
+                                "errors": [],
+                                "value": "self",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "normalized": {
+                                "errors": [],
+                                "value": "10.1109/isbi48211.2021.9434091",
+                                "required": false,
+                                "getRequiredMessage": null
+                            },
+                            "normalizedUrl": {
+                                "errors": [],
+                                "value": "https://doi.org/10.1109/isbi48211.2021.9434091",
+                                "required": false,
+                                "getRequiredMessage": null
+                            }
+                        },
+                        {
+                            "errors": [],
+                            "externalIdentifierId": {
+                                "errors": [],
+                                "value": "2-s2.0-85107194158",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "externalIdentifierType": {
+                                "errors": [],
+                                "value": "eid",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "url": null,
+                            "relationship": {
+                                "errors": [],
+                                "value": "self",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "normalized": {
+                                "errors": [],
+                                "value": "2-s2.0-85107194158",
+                                "required": false,
+                                "getRequiredMessage": null
+                            },
+                            "normalizedUrl": null
+                        },
+                        {
+                            "errors": [],
+                            "externalIdentifierId": {
+                                "errors": [],
+                                "value": "19458452 19457928",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "externalIdentifierType": {
+                                "errors": [],
+                                "value": "issn",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "url": null,
+                            "relationship": {
+                                "errors": [],
+                                "value": "part-of",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "normalized": {
+                                "errors": [],
+                                "value": "1945-8452",
+                                "required": false,
+                                "getRequiredMessage": null
+                            },
+                            "normalizedUrl": {
+                                "errors": [],
+                                "value": "https://portal.issn.org/resource/ISSN/1945-8452",
+                                "required": false,
+                                "getRequiredMessage": null
+                            }
+                        }
+                    ],
+                    "source": "0000-0002-5982-8983",
+                    "sourceName": "Scopus - Elsevier",
+                    "assertionOriginOrcid": "0000-0003-4734-8752",
+                    "assertionOriginClientId": null,
+                    "assertionOriginName": "rensso victor hugo mora colque",
+                    "title": {
+                        "errors": [],
+                        "value": "Unsupervised detection of disturbances in 2D radiographs",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "subtitle": null,
+                    "translatedTitle": null,
+                    "workCategory": null,
+                    "workType": {
+                        "errors": [],
+                        "value": "conference-paper",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "dateSortString": null,
+                    "createdDate": {
+                        "errors": [],
+                        "month": "4",
+                        "day": "8",
+                        "year": "2022",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "lastModified": {
+                        "errors": [],
+                        "month": "6",
+                        "day": "7",
+                        "year": "2022",
+                        "required": true,
+                        "getRequiredMessage": null
+                    }
+                }
+            ]
+        },
+        {
+            "activePutCode": 111164640,
+            "defaultPutCode": 111164640,
+            "groupId": 2,
+            "activeVisibility": "PUBLIC",
+            "userVersionPresent": true,
+            "externalIdentifiers": [
+                {
+                    "errors": [],
+                    "externalIdentifierId": {
+                        "errors": [],
+                        "value": "10.1109/sibgrapi54419.2021.00043",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "externalIdentifierType": {
+                        "errors": [],
+                        "value": "doi",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "url": {
+                        "errors": [],
+                        "value": "https://doi.org/10.1109/sibgrapi54419.2021.00043",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "relationship": {
+                        "errors": [],
+                        "value": "self",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "normalized": {
+                        "errors": [],
+                        "value": "10.1109/sibgrapi54419.2021.00043",
+                        "required": false,
+                        "getRequiredMessage": null
+                    },
+                    "normalizedUrl": {
+                        "errors": [],
+                        "value": "https://doi.org/10.1109/sibgrapi54419.2021.00043",
+                        "required": false,
+                        "getRequiredMessage": null
+                    }
+                }
+            ],
+            "works": [
+                {
+                    "visibility": {
+                        "errors": [],
+                        "required": true,
+                        "getRequiredMessage": null,
+                        "visibility": "PUBLIC"
+                    },
+                    "errors": [],
+                    "publicationDate": {
+                        "errors": [],
+                        "month": "10",
+                        "day": null,
+                        "year": "2021",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "putCode": {
+                        "errors": [],
+                        "value": "111164640",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "shortDescription": null,
+                    "url": null,
+                    "journalTitle": {
+                        "errors": [],
+                        "value": "2021 34th SIBGRAPI Conference on Graphics, Patterns and Images (SIBGRAPI)",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "languageCode": null,
+                    "languageName": null,
+                    "citation": null,
+                    "countryCode": null,
+                    "countryName": null,
+                    "contributors": null,
+                    "contributorsGroupedByOrcid": [],
+                    "numberOfContributors": 0,
+                    "workExternalIdentifiers": [
+                        {
+                            "errors": [],
+                            "externalIdentifierId": {
+                                "errors": [],
+                                "value": "10.1109/sibgrapi54419.2021.00043",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "externalIdentifierType": {
+                                "errors": [],
+                                "value": "doi",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "url": {
+                                "errors": [],
+                                "value": "https://doi.org/10.1109/sibgrapi54419.2021.00043",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "relationship": {
+                                "errors": [],
+                                "value": "self",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "normalized": {
+                                "errors": [],
+                                "value": "10.1109/sibgrapi54419.2021.00043",
+                                "required": false,
+                                "getRequiredMessage": null
+                            },
+                            "normalizedUrl": {
+                                "errors": [],
+                                "value": "https://doi.org/10.1109/sibgrapi54419.2021.00043",
+                                "required": false,
+                                "getRequiredMessage": null
+                            }
+                        }
+                    ],
+                    "source": "0000-0003-4734-8752",
+                    "sourceName": "rensso victor hugo mora colque",
+                    "assertionOriginOrcid": null,
+                    "assertionOriginClientId": null,
+                    "assertionOriginName": null,
+                    "title": {
+                        "errors": [],
+                        "value": "TVAnet: a spatial and feature-based attention model for self-driving car",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "subtitle": null,
+                    "translatedTitle": null,
+                    "workCategory": null,
+                    "workType": {
+                        "errors": [],
+                        "value": "conference-paper",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "dateSortString": null,
+                    "createdDate": {
+                        "errors": [],
+                        "month": "4",
+                        "day": "8",
+                        "year": "2022",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "lastModified": {
+                        "errors": [],
+                        "month": "4",
+                        "day": "8",
+                        "year": "2022",
+                        "required": true,
+                        "getRequiredMessage": null
+                    }
+                }
+            ]
+        },
+        {
+            "activePutCode": 111164652,
+            "defaultPutCode": 111164652,
+            "groupId": 3,
+            "activeVisibility": "PUBLIC",
+            "userVersionPresent": true,
+            "externalIdentifiers": [
+                {
+                    "errors": [],
+                    "externalIdentifierId": {
+                        "errors": [],
+                        "value": "10.5220/0008983603810388",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "externalIdentifierType": {
+                        "errors": [],
+                        "value": "doi",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "url": {
+                        "errors": [],
+                        "value": "https://doi.org/10.5220/0008983603810388",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "relationship": {
+                        "errors": [],
+                        "value": "self",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "normalized": {
+                        "errors": [],
+                        "value": "10.5220/0008983603810388",
+                        "required": false,
+                        "getRequiredMessage": null
+                    },
+                    "normalizedUrl": {
+                        "errors": [],
+                        "value": "https://doi.org/10.5220/0008983603810388",
+                        "required": false,
+                        "getRequiredMessage": null
+                    }
+                }
+            ],
+            "works": [
+                {
+                    "visibility": {
+                        "errors": [],
+                        "required": true,
+                        "getRequiredMessage": null,
+                        "visibility": "PUBLIC"
+                    },
+                    "errors": [],
+                    "publicationDate": {
+                        "errors": [],
+                        "month": null,
+                        "day": null,
+                        "year": "2020",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "putCode": {
+                        "errors": [],
+                        "value": "111164652",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "shortDescription": null,
+                    "url": null,
+                    "journalTitle": {
+                        "errors": [],
+                        "value": "Proceedings of the 15th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "languageCode": null,
+                    "languageName": null,
+                    "citation": null,
+                    "countryCode": null,
+                    "countryName": null,
+                    "contributors": null,
+                    "contributorsGroupedByOrcid": [],
+                    "numberOfContributors": 0,
+                    "workExternalIdentifiers": [
+                        {
+                            "errors": [],
+                            "externalIdentifierId": {
+                                "errors": [],
+                                "value": "10.5220/0008983603810388",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "externalIdentifierType": {
+                                "errors": [],
+                                "value": "doi",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "url": {
+                                "errors": [],
+                                "value": "https://doi.org/10.5220/0008983603810388",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "relationship": {
+                                "errors": [],
+                                "value": "self",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "normalized": {
+                                "errors": [],
+                                "value": "10.5220/0008983603810388",
+                                "required": false,
+                                "getRequiredMessage": null
+                            },
+                            "normalizedUrl": {
+                                "errors": [],
+                                "value": "https://doi.org/10.5220/0008983603810388",
+                                "required": false,
+                                "getRequiredMessage": null
+                            }
+                        }
+                    ],
+                    "source": "0000-0003-4734-8752",
+                    "sourceName": "rensso victor hugo mora colque",
+                    "assertionOriginOrcid": null,
+                    "assertionOriginClientId": null,
+                    "assertionOriginName": null,
+                    "title": {
+                        "errors": [],
+                        "value": "Ambient Lighting Generation for Flash Images with Guided Conditional Adversarial Networks",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "subtitle": null,
+                    "translatedTitle": null,
+                    "workCategory": null,
+                    "workType": {
+                        "errors": [],
+                        "value": "conference-poster",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "dateSortString": null,
+                    "createdDate": {
+                        "errors": [],
+                        "month": "4",
+                        "day": "8",
+                        "year": "2022",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "lastModified": {
+                        "errors": [],
+                        "month": "4",
+                        "day": "8",
+                        "year": "2022",
+                        "required": true,
+                        "getRequiredMessage": null
+                    }
+                }
+            ]
+        },
+        {
+            "activePutCode": 111164647,
+            "defaultPutCode": 111164647,
+            "groupId": 4,
+            "activeVisibility": "PUBLIC",
+            "userVersionPresent": true,
+            "externalIdentifiers": [
+                {
+                    "errors": [],
+                    "externalIdentifierId": {
+                        "errors": [],
+                        "value": "10.5220/0008952401070116",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "externalIdentifierType": {
+                        "errors": [],
+                        "value": "doi",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "url": {
+                        "errors": [],
+                        "value": "https://doi.org/10.5220/0008952401070116",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "relationship": {
+                        "errors": [],
+                        "value": "self",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "normalized": {
+                        "errors": [],
+                        "value": "10.5220/0008952401070116",
+                        "required": false,
+                        "getRequiredMessage": null
+                    },
+                    "normalizedUrl": {
+                        "errors": [],
+                        "value": "https://doi.org/10.5220/0008952401070116",
+                        "required": false,
+                        "getRequiredMessage": null
+                    }
+                }
+            ],
+            "works": [
+                {
+                    "visibility": {
+                        "errors": [],
+                        "required": true,
+                        "getRequiredMessage": null,
+                        "visibility": "PUBLIC"
+                    },
+                    "errors": [],
+                    "publicationDate": {
+                        "errors": [],
+                        "month": null,
+                        "day": null,
+                        "year": "2020",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "putCode": {
+                        "errors": [],
+                        "value": "111164647",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "shortDescription": null,
+                    "url": null,
+                    "journalTitle": {
+                        "errors": [],
+                        "value": "Proceedings of the 15th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "languageCode": null,
+                    "languageName": null,
+                    "citation": null,
+                    "countryCode": null,
+                    "countryName": null,
+                    "contributors": null,
+                    "contributorsGroupedByOrcid": [],
+                    "numberOfContributors": 0,
+                    "workExternalIdentifiers": [
+                        {
+                            "errors": [],
+                            "externalIdentifierId": {
+                                "errors": [],
+                                "value": "10.5220/0008952401070116",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "externalIdentifierType": {
+                                "errors": [],
+                                "value": "doi",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "url": {
+                                "errors": [],
+                                "value": "https://doi.org/10.5220/0008952401070116",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "relationship": {
+                                "errors": [],
+                                "value": "self",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "normalized": {
+                                "errors": [],
+                                "value": "10.5220/0008952401070116",
+                                "required": false,
+                                "getRequiredMessage": null
+                            },
+                            "normalizedUrl": {
+                                "errors": [],
+                                "value": "https://doi.org/10.5220/0008952401070116",
+                                "required": false,
+                                "getRequiredMessage": null
+                            }
+                        }
+                    ],
+                    "source": "0000-0003-4734-8752",
+                    "sourceName": "rensso victor hugo mora colque",
+                    "assertionOriginOrcid": null,
+                    "assertionOriginClientId": null,
+                    "assertionOriginName": null,
+                    "title": {
+                        "errors": [],
+                        "value": "Anomaly Event Detection based on People Trajectories for Surveillance Videos",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "subtitle": null,
+                    "translatedTitle": null,
+                    "workCategory": null,
+                    "workType": {
+                        "errors": [],
+                        "value": "conference-paper",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "dateSortString": null,
+                    "createdDate": {
+                        "errors": [],
+                        "month": "4",
+                        "day": "8",
+                        "year": "2022",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "lastModified": {
+                        "errors": [],
+                        "month": "4",
+                        "day": "8",
+                        "year": "2022",
+                        "required": true,
+                        "getRequiredMessage": null
+                    }
+                }
+            ]
+        },
+        {
+            "activePutCode": 111164572,
+            "defaultPutCode": 111164572,
+            "groupId": 5,
+            "activeVisibility": "PUBLIC",
+            "userVersionPresent": false,
+            "externalIdentifiers": [
+                {
+                    "errors": [],
+                    "externalIdentifierId": {
+                        "errors": [],
+                        "value": "2-s2.0-85094094431",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "externalIdentifierType": {
+                        "errors": [],
+                        "value": "eid",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "url": null,
+                    "relationship": {
+                        "errors": [],
+                        "value": "self",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "normalized": {
+                        "errors": [],
+                        "value": "2-s2.0-85094094431",
+                        "required": false,
+                        "getRequiredMessage": null
+                    },
+                    "normalizedUrl": null
+                }
+            ],
+            "works": [
+                {
+                    "visibility": {
+                        "errors": [],
+                        "required": true,
+                        "getRequiredMessage": null,
+                        "visibility": "PUBLIC"
+                    },
+                    "errors": [],
+                    "publicationDate": {
+                        "errors": [],
+                        "month": null,
+                        "day": null,
+                        "year": "2019",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "putCode": {
+                        "errors": [],
+                        "value": "111164572",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "shortDescription": null,
+                    "url": null,
+                    "journalTitle": {
+                        "errors": [],
+                        "value": "arXiv",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "languageCode": null,
+                    "languageName": null,
+                    "citation": null,
+                    "countryCode": null,
+                    "countryName": null,
+                    "contributors": null,
+                    "contributorsGroupedByOrcid": [
+                        {
+                            "contributorOrcid": null,
+                            "creditName": {
+                                "content": "Ch\u00e1vez, J."
+                            },
+                            "contributorEmail": null,
+                            "contributorAttributes": null,
+                            "rolesAndSequences": []
+                        },
+                        {
+                            "contributorOrcid": null,
+                            "creditName": {
+                                "content": "Mora, R."
+                            },
+                            "contributorEmail": null,
+                            "contributorAttributes": null,
+                            "rolesAndSequences": []
+                        },
+                        {
+                            "contributorOrcid": null,
+                            "creditName": {
+                                "content": "Cayllahua-Cahuina, E."
+                            },
+                            "contributorEmail": null,
+                            "contributorAttributes": null,
+                            "rolesAndSequences": []
+                        }
+                    ],
+                    "numberOfContributors": 3,
+                    "workExternalIdentifiers": [
+                        {
+                            "errors": [],
+                            "externalIdentifierId": {
+                                "errors": [],
+                                "value": "2-s2.0-85094094431",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "externalIdentifierType": {
+                                "errors": [],
+                                "value": "eid",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "url": null,
+                            "relationship": {
+                                "errors": [],
+                                "value": "self",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "normalized": {
+                                "errors": [],
+                                "value": "2-s2.0-85094094431",
+                                "required": false,
+                                "getRequiredMessage": null
+                            },
+                            "normalizedUrl": null
+                        },
+                        {
+                            "errors": [],
+                            "externalIdentifierId": {
+                                "errors": [],
+                                "value": "23318422",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "externalIdentifierType": {
+                                "errors": [],
+                                "value": "issn",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "url": null,
+                            "relationship": {
+                                "errors": [],
+                                "value": "part-of",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "normalized": {
+                                "errors": [],
+                                "value": "2331-8422",
+                                "required": false,
+                                "getRequiredMessage": null
+                            },
+                            "normalizedUrl": {
+                                "errors": [],
+                                "value": "https://portal.issn.org/resource/ISSN/2331-8422",
+                                "required": false,
+                                "getRequiredMessage": null
+                            }
+                        }
+                    ],
+                    "source": "0000-0002-5982-8983",
+                    "sourceName": "Scopus - Elsevier",
+                    "assertionOriginOrcid": "0000-0003-4734-8752",
+                    "assertionOriginClientId": null,
+                    "assertionOriginName": "rensso victor hugo mora colque",
+                    "title": {
+                        "errors": [],
+                        "value": "Ambient lighting generation for flash images with guided conditional adversarial networks",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "subtitle": null,
+                    "translatedTitle": null,
+                    "workCategory": null,
+                    "workType": {
+                        "errors": [],
+                        "value": "other",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "dateSortString": null,
+                    "createdDate": {
+                        "errors": [],
+                        "month": "4",
+                        "day": "8",
+                        "year": "2022",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "lastModified": {
+                        "errors": [],
+                        "month": "6",
+                        "day": "7",
+                        "year": "2022",
+                        "required": true,
+                        "getRequiredMessage": null
+                    }
+                }
+            ]
+        },
+        {
+            "activePutCode": 58580254,
+            "defaultPutCode": 58580254,
+            "groupId": 6,
+            "activeVisibility": "PUBLIC",
+            "userVersionPresent": true,
+            "externalIdentifiers": [
+                {
+                    "errors": [],
+                    "externalIdentifierId": {
+                        "errors": [],
+                        "value": "9789897582905",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "externalIdentifierType": {
+                        "errors": [],
+                        "value": "isbn",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "url": {
+                        "errors": [],
+                        "value": "https://www.worldcat.org/isbn/9789897582905",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "relationship": {
+                        "errors": [],
+                        "value": "self",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "normalized": {
+                        "errors": [],
+                        "value": "9789897582905",
+                        "required": false,
+                        "getRequiredMessage": null
+                    },
+                    "normalizedUrl": {
+                        "errors": [],
+                        "value": "https://www.worldcat.org/isbn/9789897582905",
+                        "required": false,
+                        "getRequiredMessage": null
+                    }
+                },
+                {
+                    "errors": [],
+                    "externalIdentifierId": {
+                        "errors": [],
+                        "value": "10.5220/0006615202930300",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "externalIdentifierType": {
+                        "errors": [],
+                        "value": "doi",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "url": {
+                        "errors": [],
+                        "value": "https://doi.org/10.5220/0006615202930300",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "relationship": {
+                        "errors": [],
+                        "value": "self",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "normalized": {
+                        "errors": [],
+                        "value": "10.5220/0006615202930300",
+                        "required": false,
+                        "getRequiredMessage": null
+                    },
+                    "normalizedUrl": {
+                        "errors": [],
+                        "value": "https://doi.org/10.5220/0006615202930300",
+                        "required": false,
+                        "getRequiredMessage": null
+                    }
+                }
+            ],
+            "works": [
+                {
+                    "visibility": {
+                        "errors": [],
+                        "required": true,
+                        "getRequiredMessage": null,
+                        "visibility": "PUBLIC"
+                    },
+                    "errors": [],
+                    "publicationDate": {
+                        "errors": [],
+                        "month": "01",
+                        "day": "05",
+                        "year": "2018",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "putCode": {
+                        "errors": [],
+                        "value": "58580254",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "shortDescription": null,
+                    "url": null,
+                    "journalTitle": {
+                        "errors": [],
+                        "value": "Proceedings of the 13th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "languageCode": null,
+                    "languageName": null,
+                    "citation": null,
+                    "countryCode": null,
+                    "countryName": null,
+                    "contributors": null,
+                    "contributorsGroupedByOrcid": [],
+                    "numberOfContributors": 0,
+                    "workExternalIdentifiers": [
+                        {
+                            "errors": [],
+                            "externalIdentifierId": {
+                                "errors": [],
+                                "value": "10.5220/0006615202930300",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "externalIdentifierType": {
+                                "errors": [],
+                                "value": "doi",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "url": {
+                                "errors": [],
+                                "value": "https://doi.org/10.5220/0006615202930300",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "relationship": {
+                                "errors": [],
+                                "value": "self",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "normalized": {
+                                "errors": [],
+                                "value": "10.5220/0006615202930300",
+                                "required": false,
+                                "getRequiredMessage": null
+                            },
+                            "normalizedUrl": {
+                                "errors": [],
+                                "value": "https://doi.org/10.5220/0006615202930300",
+                                "required": false,
+                                "getRequiredMessage": null
+                            }
+                        },
+                        {
+                            "errors": [],
+                            "externalIdentifierId": {
+                                "errors": [],
+                                "value": "9789897582905",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "externalIdentifierType": {
+                                "errors": [],
+                                "value": "isbn",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "url": {
+                                "errors": [],
+                                "value": "https://www.worldcat.org/isbn/9789897582905",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "relationship": {
+                                "errors": [],
+                                "value": "self",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "normalized": {
+                                "errors": [],
+                                "value": "9789897582905",
+                                "required": false,
+                                "getRequiredMessage": null
+                            },
+                            "normalizedUrl": {
+                                "errors": [],
+                                "value": "https://www.worldcat.org/isbn/9789897582905",
+                                "required": false,
+                                "getRequiredMessage": null
+                            }
+                        }
+                    ],
+                    "source": "0000-0003-4734-8752",
+                    "sourceName": "rensso victor hugo mora colque",
+                    "assertionOriginOrcid": null,
+                    "assertionOriginClientId": null,
+                    "assertionOriginName": null,
+                    "title": {
+                        "errors": [],
+                        "value": "Novel Anomalous Event Detection based on Human-object Interactions",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "subtitle": null,
+                    "translatedTitle": null,
+                    "workCategory": null,
+                    "workType": {
+                        "errors": [],
+                        "value": "conference-paper",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "dateSortString": null,
+                    "createdDate": {
+                        "errors": [],
+                        "month": "6",
+                        "day": "17",
+                        "year": "2019",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "lastModified": {
+                        "errors": [],
+                        "month": "6",
+                        "day": "17",
+                        "year": "2019",
+                        "required": true,
+                        "getRequiredMessage": null
+                    }
+                }
+            ]
+        },
+        {
+            "activePutCode": 58580281,
+            "defaultPutCode": 58580281,
+            "groupId": 7,
+            "activeVisibility": "PUBLIC",
+            "userVersionPresent": true,
+            "externalIdentifiers": [
+                {
+                    "errors": [],
+                    "externalIdentifierId": {
+                        "errors": [],
+                        "value": "10.1109/tcsvt.2016.2637778",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "externalIdentifierType": {
+                        "errors": [],
+                        "value": "doi",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "url": {
+                        "errors": [],
+                        "value": "https://doi.org/10.1109/tcsvt.2016.2637778",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "relationship": {
+                        "errors": [],
+                        "value": "self",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "normalized": {
+                        "errors": [],
+                        "value": "10.1109/tcsvt.2016.2637778",
+                        "required": false,
+                        "getRequiredMessage": null
+                    },
+                    "normalizedUrl": {
+                        "errors": [],
+                        "value": "https://doi.org/10.1109/tcsvt.2016.2637778",
+                        "required": false,
+                        "getRequiredMessage": null
+                    }
+                },
+                {
+                    "errors": [],
+                    "externalIdentifierId": {
+                        "errors": [],
+                        "value": "2-s2.0-85015158760",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "externalIdentifierType": {
+                        "errors": [],
+                        "value": "eid",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "url": null,
+                    "relationship": {
+                        "errors": [],
+                        "value": "self",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "normalized": {
+                        "errors": [],
+                        "value": "2-s2.0-85015158760",
+                        "required": false,
+                        "getRequiredMessage": null
+                    },
+                    "normalizedUrl": null
+                }
+            ],
+            "works": [
+                {
+                    "visibility": {
+                        "errors": [],
+                        "required": true,
+                        "getRequiredMessage": null,
+                        "visibility": "PUBLIC"
+                    },
+                    "errors": [],
+                    "publicationDate": {
+                        "errors": [],
+                        "month": "03",
+                        "day": null,
+                        "year": "2017",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "putCode": {
+                        "errors": [],
+                        "value": "58580281",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "shortDescription": null,
+                    "url": null,
+                    "journalTitle": {
+                        "errors": [],
+                        "value": "IEEE Transactions on Circuits and Systems for Video Technology",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "languageCode": null,
+                    "languageName": null,
+                    "citation": null,
+                    "countryCode": null,
+                    "countryName": null,
+                    "contributors": null,
+                    "contributorsGroupedByOrcid": [],
+                    "numberOfContributors": 0,
+                    "workExternalIdentifiers": [
+                        {
+                            "errors": [],
+                            "externalIdentifierId": {
+                                "errors": [],
+                                "value": "10.1109/tcsvt.2016.2637778",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "externalIdentifierType": {
+                                "errors": [],
+                                "value": "doi",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "url": {
+                                "errors": [],
+                                "value": "https://doi.org/10.1109/tcsvt.2016.2637778",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "relationship": {
+                                "errors": [],
+                                "value": "self",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "normalized": {
+                                "errors": [],
+                                "value": "10.1109/tcsvt.2016.2637778",
+                                "required": false,
+                                "getRequiredMessage": null
+                            },
+                            "normalizedUrl": {
+                                "errors": [],
+                                "value": "https://doi.org/10.1109/tcsvt.2016.2637778",
+                                "required": false,
+                                "getRequiredMessage": null
+                            }
+                        },
+                        {
+                            "errors": [],
+                            "externalIdentifierId": {
+                                "errors": [],
+                                "value": "1051-8215",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "externalIdentifierType": {
+                                "errors": [],
+                                "value": "issn",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "url": {
+                                "errors": [],
+                                "value": "https://portal.issn.org/resource/ISSN/1051-8215",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "relationship": {
+                                "errors": [],
+                                "value": "part-of",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "normalized": {
+                                "errors": [],
+                                "value": "1051-8215",
+                                "required": false,
+                                "getRequiredMessage": null
+                            },
+                            "normalizedUrl": {
+                                "errors": [],
+                                "value": "https://portal.issn.org/resource/ISSN/1051-8215",
+                                "required": false,
+                                "getRequiredMessage": null
+                            }
+                        },
+                        {
+                            "errors": [],
+                            "externalIdentifierId": {
+                                "errors": [],
+                                "value": "1558-2205",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "externalIdentifierType": {
+                                "errors": [],
+                                "value": "issn",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "url": {
+                                "errors": [],
+                                "value": "https://portal.issn.org/resource/ISSN/1558-2205",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "relationship": {
+                                "errors": [],
+                                "value": "part-of",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "normalized": {
+                                "errors": [],
+                                "value": "1558-2205",
+                                "required": false,
+                                "getRequiredMessage": null
+                            },
+                            "normalizedUrl": {
+                                "errors": [],
+                                "value": "https://portal.issn.org/resource/ISSN/1558-2205",
+                                "required": false,
+                                "getRequiredMessage": null
+                            }
+                        }
+                    ],
+                    "source": "0000-0003-4734-8752",
+                    "sourceName": "rensso victor hugo mora colque",
+                    "assertionOriginOrcid": null,
+                    "assertionOriginClientId": null,
+                    "assertionOriginName": null,
+                    "title": {
+                        "errors": [],
+                        "value": "Histograms of Optical Flow Orientation and Magnitude and Entropy to Detect Anomalous Events in Videos",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "subtitle": null,
+                    "translatedTitle": null,
+                    "workCategory": null,
+                    "workType": {
+                        "errors": [],
+                        "value": "journal-article",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "dateSortString": null,
+                    "createdDate": {
+                        "errors": [],
+                        "month": "6",
+                        "day": "17",
+                        "year": "2019",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "lastModified": {
+                        "errors": [],
+                        "month": "6",
+                        "day": "17",
+                        "year": "2019",
+                        "required": true,
+                        "getRequiredMessage": null
+                    }
+                },
+                {
+                    "visibility": {
+                        "errors": [],
+                        "required": true,
+                        "getRequiredMessage": null,
+                        "visibility": "PUBLIC"
+                    },
+                    "errors": [],
+                    "publicationDate": {
+                        "errors": [],
+                        "month": null,
+                        "day": null,
+                        "year": "2017",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "putCode": {
+                        "errors": [],
+                        "value": "111164577",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "shortDescription": null,
+                    "url": null,
+                    "journalTitle": {
+                        "errors": [],
+                        "value": "IEEE Transactions on Circuits and Systems for Video Technology",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "languageCode": null,
+                    "languageName": null,
+                    "citation": null,
+                    "countryCode": null,
+                    "countryName": null,
+                    "contributors": null,
+                    "contributorsGroupedByOrcid": [
+                        {
+                            "contributorOrcid": null,
+                            "creditName": {
+                                "content": "Colque, R.V.H.M."
+                            },
+                            "contributorEmail": null,
+                            "contributorAttributes": null,
+                            "rolesAndSequences": []
+                        },
+                        {
+                            "contributorOrcid": null,
+                            "creditName": {
+                                "content": "Caetano, C."
+                            },
+                            "contributorEmail": null,
+                            "contributorAttributes": null,
+                            "rolesAndSequences": []
+                        },
+                        {
+                            "contributorOrcid": null,
+                            "creditName": {
+                                "content": "De Andrade, M.T.L."
+                            },
+                            "contributorEmail": null,
+                            "contributorAttributes": null,
+                            "rolesAndSequences": []
+                        },
+                        {
+                            "contributorOrcid": null,
+                            "creditName": {
+                                "content": "Schwartz, W.R."
+                            },
+                            "contributorEmail": null,
+                            "contributorAttributes": null,
+                            "rolesAndSequences": []
+                        }
+                    ],
+                    "numberOfContributors": 4,
+                    "workExternalIdentifiers": [
+                        {
+                            "errors": [],
+                            "externalIdentifierId": {
+                                "errors": [],
+                                "value": "10.1109/TCSVT.2016.2637778",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "externalIdentifierType": {
+                                "errors": [],
+                                "value": "doi",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "url": null,
+                            "relationship": {
+                                "errors": [],
+                                "value": "self",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "normalized": {
+                                "errors": [],
+                                "value": "10.1109/tcsvt.2016.2637778",
+                                "required": false,
+                                "getRequiredMessage": null
+                            },
+                            "normalizedUrl": {
+                                "errors": [],
+                                "value": "https://doi.org/10.1109/tcsvt.2016.2637778",
+                                "required": false,
+                                "getRequiredMessage": null
+                            }
+                        },
+                        {
+                            "errors": [],
+                            "externalIdentifierId": {
+                                "errors": [],
+                                "value": "2-s2.0-85015158760",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "externalIdentifierType": {
+                                "errors": [],
+                                "value": "eid",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "url": null,
+                            "relationship": {
+                                "errors": [],
+                                "value": "self",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "normalized": {
+                                "errors": [],
+                                "value": "2-s2.0-85015158760",
+                                "required": false,
+                                "getRequiredMessage": null
+                            },
+                            "normalizedUrl": null
+                        },
+                        {
+                            "errors": [],
+                            "externalIdentifierId": {
+                                "errors": [],
+                                "value": "10518215",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "externalIdentifierType": {
+                                "errors": [],
+                                "value": "issn",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "url": null,
+                            "relationship": {
+                                "errors": [],
+                                "value": "part-of",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "normalized": {
+                                "errors": [],
+                                "value": "1051-8215",
+                                "required": false,
+                                "getRequiredMessage": null
+                            },
+                            "normalizedUrl": {
+                                "errors": [],
+                                "value": "https://portal.issn.org/resource/ISSN/1051-8215",
+                                "required": false,
+                                "getRequiredMessage": null
+                            }
+                        }
+                    ],
+                    "source": "0000-0002-5982-8983",
+                    "sourceName": "Scopus - Elsevier",
+                    "assertionOriginOrcid": "0000-0003-4734-8752",
+                    "assertionOriginClientId": null,
+                    "assertionOriginName": "rensso victor hugo mora colque",
+                    "title": {
+                        "errors": [],
+                        "value": "Histograms of Optical Flow Orientation and Magnitude and Entropy to Detect Anomalous Events in Videos",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "subtitle": null,
+                    "translatedTitle": null,
+                    "workCategory": null,
+                    "workType": {
+                        "errors": [],
+                        "value": "journal-article",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "dateSortString": null,
+                    "createdDate": {
+                        "errors": [],
+                        "month": "4",
+                        "day": "8",
+                        "year": "2022",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "lastModified": {
+                        "errors": [],
+                        "month": "6",
+                        "day": "7",
+                        "year": "2022",
+                        "required": true,
+                        "getRequiredMessage": null
+                    }
+                }
+            ]
+        },
+        {
+            "activePutCode": 111164573,
+            "defaultPutCode": 111164573,
+            "groupId": 8,
+            "activeVisibility": "PUBLIC",
+            "userVersionPresent": false,
+            "externalIdentifiers": [
+                {
+                    "errors": [],
+                    "externalIdentifierId": {
+                        "errors": [],
+                        "value": "2-s2.0-84959320550",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "externalIdentifierType": {
+                        "errors": [],
+                        "value": "eid",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "url": null,
+                    "relationship": {
+                        "errors": [],
+                        "value": "self",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "normalized": {
+                        "errors": [],
+                        "value": "2-s2.0-84959320550",
+                        "required": false,
+                        "getRequiredMessage": null
+                    },
+                    "normalizedUrl": null
+                }
+            ],
+            "works": [
+                {
+                    "visibility": {
+                        "errors": [],
+                        "required": true,
+                        "getRequiredMessage": null,
+                        "visibility": "PUBLIC"
+                    },
+                    "errors": [],
+                    "publicationDate": {
+                        "errors": [],
+                        "month": null,
+                        "day": null,
+                        "year": "2015",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "putCode": {
+                        "errors": [],
+                        "value": "111164573",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "shortDescription": null,
+                    "url": null,
+                    "journalTitle": {
+                        "errors": [],
+                        "value": "Brazilian Symposium of Computer Graphic and Image Processing",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "languageCode": null,
+                    "languageName": null,
+                    "citation": null,
+                    "countryCode": null,
+                    "countryName": null,
+                    "contributors": null,
+                    "contributorsGroupedByOrcid": [],
+                    "numberOfContributors": 0,
+                    "workExternalIdentifiers": [
+                        {
+                            "errors": [],
+                            "externalIdentifierId": {
+                                "errors": [],
+                                "value": "2-s2.0-84959320550",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "externalIdentifierType": {
+                                "errors": [],
+                                "value": "eid",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "url": null,
+                            "relationship": {
+                                "errors": [],
+                                "value": "self",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "normalized": {
+                                "errors": [],
+                                "value": "2-s2.0-84959320550",
+                                "required": false,
+                                "getRequiredMessage": null
+                            },
+                            "normalizedUrl": null
+                        },
+                        {
+                            "errors": [],
+                            "externalIdentifierId": {
+                                "errors": [],
+                                "value": "15301834",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "externalIdentifierType": {
+                                "errors": [],
+                                "value": "issn",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "url": null,
+                            "relationship": {
+                                "errors": [],
+                                "value": "part-of",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "normalized": {
+                                "errors": [],
+                                "value": "1530-1834",
+                                "required": false,
+                                "getRequiredMessage": null
+                            },
+                            "normalizedUrl": {
+                                "errors": [],
+                                "value": "https://portal.issn.org/resource/ISSN/1530-1834",
+                                "required": false,
+                                "getRequiredMessage": null
+                            }
+                        }
+                    ],
+                    "source": "0000-0002-5982-8983",
+                    "sourceName": "Scopus - Elsevier",
+                    "assertionOriginOrcid": "0000-0003-4734-8752",
+                    "assertionOriginClientId": null,
+                    "assertionOriginName": "rensso victor hugo mora colque",
+                    "title": {
+                        "errors": [],
+                        "value": "Brazilian Symposium of Computer Graphic and Image Processing",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "subtitle": null,
+                    "translatedTitle": null,
+                    "workCategory": null,
+                    "workType": {
+                        "errors": [],
+                        "value": "conference-paper",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "dateSortString": null,
+                    "createdDate": {
+                        "errors": [],
+                        "month": "4",
+                        "day": "8",
+                        "year": "2022",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "lastModified": {
+                        "errors": [],
+                        "month": "4",
+                        "day": "8",
+                        "year": "2022",
+                        "required": true,
+                        "getRequiredMessage": null
+                    }
+                }
+            ]
+        },
+        {
+            "activePutCode": 58580301,
+            "defaultPutCode": 58580301,
+            "groupId": 9,
+            "activeVisibility": "PUBLIC",
+            "userVersionPresent": true,
+            "externalIdentifiers": [
+                {
+                    "errors": [],
+                    "externalIdentifierId": {
+                        "errors": [],
+                        "value": "2-s2.0-84959373671",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "externalIdentifierType": {
+                        "errors": [],
+                        "value": "eid",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "url": null,
+                    "relationship": {
+                        "errors": [],
+                        "value": "self",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "normalized": {
+                        "errors": [],
+                        "value": "2-s2.0-84959373671",
+                        "required": false,
+                        "getRequiredMessage": null
+                    },
+                    "normalizedUrl": null
+                },
+                {
+                    "errors": [],
+                    "externalIdentifierId": {
+                        "errors": [],
+                        "value": "10.1109/sibgrapi.2015.21",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "externalIdentifierType": {
+                        "errors": [],
+                        "value": "doi",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "url": {
+                        "errors": [],
+                        "value": "https://doi.org/10.1109/sibgrapi.2015.21",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "relationship": {
+                        "errors": [],
+                        "value": "self",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "normalized": {
+                        "errors": [],
+                        "value": "10.1109/sibgrapi.2015.21",
+                        "required": false,
+                        "getRequiredMessage": null
+                    },
+                    "normalizedUrl": {
+                        "errors": [],
+                        "value": "https://doi.org/10.1109/sibgrapi.2015.21",
+                        "required": false,
+                        "getRequiredMessage": null
+                    }
+                },
+                {
+                    "errors": [],
+                    "externalIdentifierId": {
+                        "errors": [],
+                        "value": "9781467379625",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "externalIdentifierType": {
+                        "errors": [],
+                        "value": "isbn",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "url": {
+                        "errors": [],
+                        "value": "https://www.worldcat.org/isbn/9781467379625",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "relationship": {
+                        "errors": [],
+                        "value": "self",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "normalized": {
+                        "errors": [],
+                        "value": "9781467379625",
+                        "required": false,
+                        "getRequiredMessage": null
+                    },
+                    "normalizedUrl": {
+                        "errors": [],
+                        "value": "https://www.worldcat.org/isbn/9781467379625",
+                        "required": false,
+                        "getRequiredMessage": null
+                    }
+                }
+            ],
+            "works": [
+                {
+                    "visibility": {
+                        "errors": [],
+                        "required": true,
+                        "getRequiredMessage": null,
+                        "visibility": "PUBLIC"
+                    },
+                    "errors": [],
+                    "publicationDate": {
+                        "errors": [],
+                        "month": "08",
+                        "day": null,
+                        "year": "2015",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "putCode": {
+                        "errors": [],
+                        "value": "58580301",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "shortDescription": null,
+                    "url": null,
+                    "journalTitle": {
+                        "errors": [],
+                        "value": "2015 28th SIBGRAPI Conference on Graphics, Patterns and Images",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "languageCode": null,
+                    "languageName": null,
+                    "citation": null,
+                    "countryCode": null,
+                    "countryName": null,
+                    "contributors": null,
+                    "contributorsGroupedByOrcid": [],
+                    "numberOfContributors": 0,
+                    "workExternalIdentifiers": [
+                        {
+                            "errors": [],
+                            "externalIdentifierId": {
+                                "errors": [],
+                                "value": "10.1109/sibgrapi.2015.21",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "externalIdentifierType": {
+                                "errors": [],
+                                "value": "doi",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "url": {
+                                "errors": [],
+                                "value": "https://doi.org/10.1109/sibgrapi.2015.21",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "relationship": {
+                                "errors": [],
+                                "value": "self",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "normalized": {
+                                "errors": [],
+                                "value": "10.1109/sibgrapi.2015.21",
+                                "required": false,
+                                "getRequiredMessage": null
+                            },
+                            "normalizedUrl": {
+                                "errors": [],
+                                "value": "https://doi.org/10.1109/sibgrapi.2015.21",
+                                "required": false,
+                                "getRequiredMessage": null
+                            }
+                        },
+                        {
+                            "errors": [],
+                            "externalIdentifierId": {
+                                "errors": [],
+                                "value": "9781467379625",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "externalIdentifierType": {
+                                "errors": [],
+                                "value": "isbn",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "url": {
+                                "errors": [],
+                                "value": "https://www.worldcat.org/isbn/9781467379625",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "relationship": {
+                                "errors": [],
+                                "value": "self",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "normalized": {
+                                "errors": [],
+                                "value": "9781467379625",
+                                "required": false,
+                                "getRequiredMessage": null
+                            },
+                            "normalizedUrl": {
+                                "errors": [],
+                                "value": "https://www.worldcat.org/isbn/9781467379625",
+                                "required": false,
+                                "getRequiredMessage": null
+                            }
+                        }
+                    ],
+                    "source": "0000-0003-4734-8752",
+                    "sourceName": "rensso victor hugo mora colque",
+                    "assertionOriginOrcid": null,
+                    "assertionOriginClientId": null,
+                    "assertionOriginName": null,
+                    "title": {
+                        "errors": [],
+                        "value": "Histograms of Optical Flow Orientation and Magnitude to Detect Anomalous Events in Videos",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "subtitle": null,
+                    "translatedTitle": null,
+                    "workCategory": null,
+                    "workType": {
+                        "errors": [],
+                        "value": "conference-paper",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "dateSortString": null,
+                    "createdDate": {
+                        "errors": [],
+                        "month": "6",
+                        "day": "17",
+                        "year": "2019",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "lastModified": {
+                        "errors": [],
+                        "month": "6",
+                        "day": "17",
+                        "year": "2019",
+                        "required": true,
+                        "getRequiredMessage": null
+                    }
+                },
+                {
+                    "visibility": {
+                        "errors": [],
+                        "required": true,
+                        "getRequiredMessage": null,
+                        "visibility": "PUBLIC"
+                    },
+                    "errors": [],
+                    "publicationDate": {
+                        "errors": [],
+                        "month": null,
+                        "day": null,
+                        "year": "2015",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "putCode": {
+                        "errors": [],
+                        "value": "111164576",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "shortDescription": null,
+                    "url": null,
+                    "journalTitle": {
+                        "errors": [],
+                        "value": "Brazilian Symposium of Computer Graphic and Image Processing",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "languageCode": null,
+                    "languageName": null,
+                    "citation": null,
+                    "countryCode": null,
+                    "countryName": null,
+                    "contributors": null,
+                    "contributorsGroupedByOrcid": [
+                        {
+                            "contributorOrcid": null,
+                            "creditName": {
+                                "content": "Colque, R.V.H.M."
+                            },
+                            "contributorEmail": null,
+                            "contributorAttributes": null,
+                            "rolesAndSequences": []
+                        },
+                        {
+                            "contributorOrcid": null,
+                            "creditName": {
+                                "content": "Junior, C.A.C."
+                            },
+                            "contributorEmail": null,
+                            "contributorAttributes": null,
+                            "rolesAndSequences": []
+                        },
+                        {
+                            "contributorOrcid": null,
+                            "creditName": {
+                                "content": "Schwartz, W.R."
+                            },
+                            "contributorEmail": null,
+                            "contributorAttributes": null,
+                            "rolesAndSequences": []
+                        }
+                    ],
+                    "numberOfContributors": 3,
+                    "workExternalIdentifiers": [
+                        {
+                            "errors": [],
+                            "externalIdentifierId": {
+                                "errors": [],
+                                "value": "10.1109/SIBGRAPI.2015.21",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "externalIdentifierType": {
+                                "errors": [],
+                                "value": "doi",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "url": null,
+                            "relationship": {
+                                "errors": [],
+                                "value": "self",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "normalized": {
+                                "errors": [],
+                                "value": "10.1109/sibgrapi.2015.21",
+                                "required": false,
+                                "getRequiredMessage": null
+                            },
+                            "normalizedUrl": {
+                                "errors": [],
+                                "value": "https://doi.org/10.1109/sibgrapi.2015.21",
+                                "required": false,
+                                "getRequiredMessage": null
+                            }
+                        },
+                        {
+                            "errors": [],
+                            "externalIdentifierId": {
+                                "errors": [],
+                                "value": "2-s2.0-84959373671",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "externalIdentifierType": {
+                                "errors": [],
+                                "value": "eid",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "url": null,
+                            "relationship": {
+                                "errors": [],
+                                "value": "self",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "normalized": {
+                                "errors": [],
+                                "value": "2-s2.0-84959373671",
+                                "required": false,
+                                "getRequiredMessage": null
+                            },
+                            "normalizedUrl": null
+                        },
+                        {
+                            "errors": [],
+                            "externalIdentifierId": {
+                                "errors": [],
+                                "value": "15301834",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "externalIdentifierType": {
+                                "errors": [],
+                                "value": "issn",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "url": null,
+                            "relationship": {
+                                "errors": [],
+                                "value": "part-of",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "normalized": {
+                                "errors": [],
+                                "value": "1530-1834",
+                                "required": false,
+                                "getRequiredMessage": null
+                            },
+                            "normalizedUrl": {
+                                "errors": [],
+                                "value": "https://portal.issn.org/resource/ISSN/1530-1834",
+                                "required": false,
+                                "getRequiredMessage": null
+                            }
+                        }
+                    ],
+                    "source": "0000-0002-5982-8983",
+                    "sourceName": "Scopus - Elsevier",
+                    "assertionOriginOrcid": "0000-0003-4734-8752",
+                    "assertionOriginClientId": null,
+                    "assertionOriginName": "rensso victor hugo mora colque",
+                    "title": {
+                        "errors": [],
+                        "value": "Histograms of Optical Flow Orientation and Magnitude to Detect Anomalous Events in Videos",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "subtitle": null,
+                    "translatedTitle": null,
+                    "workCategory": null,
+                    "workType": {
+                        "errors": [],
+                        "value": "conference-paper",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "dateSortString": null,
+                    "createdDate": {
+                        "errors": [],
+                        "month": "4",
+                        "day": "8",
+                        "year": "2022",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "lastModified": {
+                        "errors": [],
+                        "month": "6",
+                        "day": "7",
+                        "year": "2022",
+                        "required": true,
+                        "getRequiredMessage": null
+                    }
+                }
+            ]
+        },
+        {
+            "activePutCode": 111164574,
+            "defaultPutCode": 111164574,
+            "groupId": 10,
+            "activeVisibility": "PUBLIC",
+            "userVersionPresent": false,
+            "externalIdentifiers": [
+                {
+                    "errors": [],
+                    "externalIdentifierId": {
+                        "errors": [],
+                        "value": "2-s2.0-84949154478",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "externalIdentifierType": {
+                        "errors": [],
+                        "value": "eid",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "url": null,
+                    "relationship": {
+                        "errors": [],
+                        "value": "self",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "normalized": {
+                        "errors": [],
+                        "value": "2-s2.0-84949154478",
+                        "required": false,
+                        "getRequiredMessage": null
+                    },
+                    "normalizedUrl": null
+                },
+                {
+                    "errors": [],
+                    "externalIdentifierId": {
+                        "errors": [],
+                        "value": "10.1007/978-3-319-12568-8_115",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "externalIdentifierType": {
+                        "errors": [],
+                        "value": "doi",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "url": null,
+                    "relationship": {
+                        "errors": [],
+                        "value": "self",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "normalized": {
+                        "errors": [],
+                        "value": "10.1007/978-3-319-12568-8_115",
+                        "required": false,
+                        "getRequiredMessage": null
+                    },
+                    "normalizedUrl": {
+                        "errors": [],
+                        "value": "https://doi.org/10.1007/978-3-319-12568-8_115",
+                        "required": false,
+                        "getRequiredMessage": null
+                    }
+                }
+            ],
+            "works": [
+                {
+                    "visibility": {
+                        "errors": [],
+                        "required": true,
+                        "getRequiredMessage": null,
+                        "visibility": "PUBLIC"
+                    },
+                    "errors": [],
+                    "publicationDate": {
+                        "errors": [],
+                        "month": null,
+                        "day": null,
+                        "year": "2014",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "putCode": {
+                        "errors": [],
+                        "value": "111164574",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "shortDescription": null,
+                    "url": null,
+                    "journalTitle": {
+                        "errors": [],
+                        "value": "Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics)",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "languageCode": null,
+                    "languageName": null,
+                    "citation": null,
+                    "countryCode": null,
+                    "countryName": null,
+                    "contributors": null,
+                    "contributorsGroupedByOrcid": [
+                        {
+                            "contributorOrcid": null,
+                            "creditName": {
+                                "content": "Mora-Colque, R.V.H."
+                            },
+                            "contributorEmail": null,
+                            "contributorAttributes": null,
+                            "rolesAndSequences": []
+                        },
+                        {
+                            "contributorOrcid": null,
+                            "creditName": {
+                                "content": "C\u00e1mara-Ch\u00e1vez, G."
+                            },
+                            "contributorEmail": null,
+                            "contributorAttributes": null,
+                            "rolesAndSequences": []
+                        },
+                        {
+                            "contributorOrcid": null,
+                            "creditName": {
+                                "content": "Schwartz, W.R."
+                            },
+                            "contributorEmail": null,
+                            "contributorAttributes": null,
+                            "rolesAndSequences": []
+                        }
+                    ],
+                    "numberOfContributors": 3,
+                    "workExternalIdentifiers": [
+                        {
+                            "errors": [],
+                            "externalIdentifierId": {
+                                "errors": [],
+                                "value": "10.1007/978-3-319-12568-8_115",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "externalIdentifierType": {
+                                "errors": [],
+                                "value": "doi",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "url": null,
+                            "relationship": {
+                                "errors": [],
+                                "value": "self",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "normalized": {
+                                "errors": [],
+                                "value": "10.1007/978-3-319-12568-8_115",
+                                "required": false,
+                                "getRequiredMessage": null
+                            },
+                            "normalizedUrl": {
+                                "errors": [],
+                                "value": "https://doi.org/10.1007/978-3-319-12568-8_115",
+                                "required": false,
+                                "getRequiredMessage": null
+                            }
+                        },
+                        {
+                            "errors": [],
+                            "externalIdentifierId": {
+                                "errors": [],
+                                "value": "2-s2.0-84949154478",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "externalIdentifierType": {
+                                "errors": [],
+                                "value": "eid",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "url": null,
+                            "relationship": {
+                                "errors": [],
+                                "value": "self",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "normalized": {
+                                "errors": [],
+                                "value": "2-s2.0-84949154478",
+                                "required": false,
+                                "getRequiredMessage": null
+                            },
+                            "normalizedUrl": null
+                        },
+                        {
+                            "errors": [],
+                            "externalIdentifierId": {
+                                "errors": [],
+                                "value": "16113349 03029743",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "externalIdentifierType": {
+                                "errors": [],
+                                "value": "issn",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "url": null,
+                            "relationship": {
+                                "errors": [],
+                                "value": "part-of",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "normalized": {
+                                "errors": [],
+                                "value": "1611-3349",
+                                "required": false,
+                                "getRequiredMessage": null
+                            },
+                            "normalizedUrl": {
+                                "errors": [],
+                                "value": "https://portal.issn.org/resource/ISSN/1611-3349",
+                                "required": false,
+                                "getRequiredMessage": null
+                            }
+                        }
+                    ],
+                    "source": "0000-0002-5982-8983",
+                    "sourceName": "Scopus - Elsevier",
+                    "assertionOriginOrcid": "0000-0003-4734-8752",
+                    "assertionOriginClientId": null,
+                    "assertionOriginName": "rensso victor hugo mora colque",
+                    "title": {
+                        "errors": [],
+                        "value": "Detection of groups of people in surveillance videos based on spatio-temporal clues",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "subtitle": null,
+                    "translatedTitle": null,
+                    "workCategory": null,
+                    "workType": {
+                        "errors": [],
+                        "value": "book",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "dateSortString": null,
+                    "createdDate": {
+                        "errors": [],
+                        "month": "4",
+                        "day": "8",
+                        "year": "2022",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "lastModified": {
+                        "errors": [],
+                        "month": "6",
+                        "day": "7",
+                        "year": "2022",
+                        "required": true,
+                        "getRequiredMessage": null
+                    }
+                }
+            ]
+        },
+        {
+            "activePutCode": 58580351,
+            "defaultPutCode": 58580351,
+            "groupId": 11,
+            "activeVisibility": "PUBLIC",
+            "userVersionPresent": true,
+            "externalIdentifiers": [
+                {
+                    "errors": [],
+                    "externalIdentifierId": {
+                        "errors": [],
+                        "value": "9783319125688",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "externalIdentifierType": {
+                        "errors": [],
+                        "value": "isbn",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "url": {
+                        "errors": [],
+                        "value": "https://www.worldcat.org/isbn/9783319125688",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "relationship": {
+                        "errors": [],
+                        "value": "self",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "normalized": {
+                        "errors": [],
+                        "value": "9783319125688",
+                        "required": false,
+                        "getRequiredMessage": null
+                    },
+                    "normalizedUrl": {
+                        "errors": [],
+                        "value": "https://www.worldcat.org/isbn/9783319125688",
+                        "required": false,
+                        "getRequiredMessage": null
+                    }
+                },
+                {
+                    "errors": [],
+                    "externalIdentifierId": {
+                        "errors": [],
+                        "value": "9783319125671",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "externalIdentifierType": {
+                        "errors": [],
+                        "value": "isbn",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "url": {
+                        "errors": [],
+                        "value": "https://www.worldcat.org/isbn/9783319125671",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "relationship": {
+                        "errors": [],
+                        "value": "self",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "normalized": {
+                        "errors": [],
+                        "value": "9783319125671",
+                        "required": false,
+                        "getRequiredMessage": null
+                    },
+                    "normalizedUrl": {
+                        "errors": [],
+                        "value": "https://www.worldcat.org/isbn/9783319125671",
+                        "required": false,
+                        "getRequiredMessage": null
+                    }
+                },
+                {
+                    "errors": [],
+                    "externalIdentifierId": {
+                        "errors": [],
+                        "value": "10.1007/978-3-319-12568-8",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "externalIdentifierType": {
+                        "errors": [],
+                        "value": "doi",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "url": {
+                        "errors": [],
+                        "value": "https://doi.org/10.1007/978-3-319-12568-8",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "relationship": {
+                        "errors": [],
+                        "value": "self",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "normalized": {
+                        "errors": [],
+                        "value": "10.1007/978-3-319-12568-8",
+                        "required": false,
+                        "getRequiredMessage": null
+                    },
+                    "normalizedUrl": {
+                        "errors": [],
+                        "value": "https://doi.org/10.1007/978-3-319-12568-8",
+                        "required": false,
+                        "getRequiredMessage": null
+                    }
+                }
+            ],
+            "works": [
+                {
+                    "visibility": {
+                        "errors": [],
+                        "required": true,
+                        "getRequiredMessage": null,
+                        "visibility": "PUBLIC"
+                    },
+                    "errors": [],
+                    "publicationDate": {
+                        "errors": [],
+                        "month": null,
+                        "day": null,
+                        "year": "2014",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "putCode": {
+                        "errors": [],
+                        "value": "58580351",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "shortDescription": null,
+                    "url": null,
+                    "journalTitle": {
+                        "errors": [],
+                        "value": "Lecture Notes in Computer Science",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "languageCode": null,
+                    "languageName": null,
+                    "citation": null,
+                    "countryCode": null,
+                    "countryName": null,
+                    "contributors": null,
+                    "contributorsGroupedByOrcid": [],
+                    "numberOfContributors": 0,
+                    "workExternalIdentifiers": [
+                        {
+                            "errors": [],
+                            "externalIdentifierId": {
+                                "errors": [],
+                                "value": "10.1007/978-3-319-12568-8",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "externalIdentifierType": {
+                                "errors": [],
+                                "value": "doi",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "url": {
+                                "errors": [],
+                                "value": "https://doi.org/10.1007/978-3-319-12568-8",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "relationship": {
+                                "errors": [],
+                                "value": "self",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "normalized": {
+                                "errors": [],
+                                "value": "10.1007/978-3-319-12568-8",
+                                "required": false,
+                                "getRequiredMessage": null
+                            },
+                            "normalizedUrl": {
+                                "errors": [],
+                                "value": "https://doi.org/10.1007/978-3-319-12568-8",
+                                "required": false,
+                                "getRequiredMessage": null
+                            }
+                        },
+                        {
+                            "errors": [],
+                            "externalIdentifierId": {
+                                "errors": [],
+                                "value": "9783319125671",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "externalIdentifierType": {
+                                "errors": [],
+                                "value": "isbn",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "url": {
+                                "errors": [],
+                                "value": "https://www.worldcat.org/isbn/9783319125671",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "relationship": {
+                                "errors": [],
+                                "value": "self",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "normalized": {
+                                "errors": [],
+                                "value": "9783319125671",
+                                "required": false,
+                                "getRequiredMessage": null
+                            },
+                            "normalizedUrl": {
+                                "errors": [],
+                                "value": "https://www.worldcat.org/isbn/9783319125671",
+                                "required": false,
+                                "getRequiredMessage": null
+                            }
+                        },
+                        {
+                            "errors": [],
+                            "externalIdentifierId": {
+                                "errors": [],
+                                "value": "9783319125688",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "externalIdentifierType": {
+                                "errors": [],
+                                "value": "isbn",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "url": {
+                                "errors": [],
+                                "value": "https://www.worldcat.org/isbn/9783319125688",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "relationship": {
+                                "errors": [],
+                                "value": "self",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "normalized": {
+                                "errors": [],
+                                "value": "9783319125688",
+                                "required": false,
+                                "getRequiredMessage": null
+                            },
+                            "normalizedUrl": {
+                                "errors": [],
+                                "value": "https://www.worldcat.org/isbn/9783319125688",
+                                "required": false,
+                                "getRequiredMessage": null
+                            }
+                        },
+                        {
+                            "errors": [],
+                            "externalIdentifierId": {
+                                "errors": [],
+                                "value": "0302-9743",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "externalIdentifierType": {
+                                "errors": [],
+                                "value": "issn",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "url": {
+                                "errors": [],
+                                "value": "https://portal.issn.org/resource/ISSN/0302-9743",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "relationship": {
+                                "errors": [],
+                                "value": "part-of",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "normalized": {
+                                "errors": [],
+                                "value": "0302-9743",
+                                "required": false,
+                                "getRequiredMessage": null
+                            },
+                            "normalizedUrl": {
+                                "errors": [],
+                                "value": "https://portal.issn.org/resource/ISSN/0302-9743",
+                                "required": false,
+                                "getRequiredMessage": null
+                            }
+                        },
+                        {
+                            "errors": [],
+                            "externalIdentifierId": {
+                                "errors": [],
+                                "value": "1611-3349",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "externalIdentifierType": {
+                                "errors": [],
+                                "value": "issn",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "url": {
+                                "errors": [],
+                                "value": "https://portal.issn.org/resource/ISSN/1611-3349",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "relationship": {
+                                "errors": [],
+                                "value": "part-of",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "normalized": {
+                                "errors": [],
+                                "value": "1611-3349",
+                                "required": false,
+                                "getRequiredMessage": null
+                            },
+                            "normalizedUrl": {
+                                "errors": [],
+                                "value": "https://portal.issn.org/resource/ISSN/1611-3349",
+                                "required": false,
+                                "getRequiredMessage": null
+                            }
+                        }
+                    ],
+                    "source": "0000-0003-4734-8752",
+                    "sourceName": "rensso victor hugo mora colque",
+                    "assertionOriginOrcid": null,
+                    "assertionOriginClientId": null,
+                    "assertionOriginName": null,
+                    "title": {
+                        "errors": [],
+                        "value": "Progress in Pattern Recognition, Image Analysis, Computer Vision, and Applications",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "subtitle": null,
+                    "translatedTitle": null,
+                    "workCategory": null,
+                    "workType": {
+                        "errors": [],
+                        "value": "conference-paper",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "dateSortString": null,
+                    "createdDate": {
+                        "errors": [],
+                        "month": "6",
+                        "day": "17",
+                        "year": "2019",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "lastModified": {
+                        "errors": [],
+                        "month": "6",
+                        "day": "17",
+                        "year": "2019",
+                        "required": true,
+                        "getRequiredMessage": null
+                    }
+                }
+            ]
+        },
+        {
+            "activePutCode": 58580362,
+            "defaultPutCode": 58580362,
+            "groupId": 12,
+            "activeVisibility": "PUBLIC",
+            "userVersionPresent": true,
+            "externalIdentifiers": [
+                {
+                    "errors": [],
+                    "externalIdentifierId": {
+                        "errors": [],
+                        "value": "9780769545486",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "externalIdentifierType": {
+                        "errors": [],
+                        "value": "isbn",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "url": {
+                        "errors": [],
+                        "value": "https://www.worldcat.org/isbn/9780769545486",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "relationship": {
+                        "errors": [],
+                        "value": "self",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "normalized": {
+                        "errors": [],
+                        "value": "9780769545486",
+                        "required": false,
+                        "getRequiredMessage": null
+                    },
+                    "normalizedUrl": {
+                        "errors": [],
+                        "value": "https://www.worldcat.org/isbn/9780769545486",
+                        "required": false,
+                        "getRequiredMessage": null
+                    }
+                },
+                {
+                    "errors": [],
+                    "externalIdentifierId": {
+                        "errors": [],
+                        "value": "9781457716744",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "externalIdentifierType": {
+                        "errors": [],
+                        "value": "isbn",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "url": {
+                        "errors": [],
+                        "value": "https://www.worldcat.org/isbn/9781457716744",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "relationship": {
+                        "errors": [],
+                        "value": "self",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "normalized": {
+                        "errors": [],
+                        "value": "9781457716744",
+                        "required": false,
+                        "getRequiredMessage": null
+                    },
+                    "normalizedUrl": {
+                        "errors": [],
+                        "value": "https://www.worldcat.org/isbn/9781457716744",
+                        "required": false,
+                        "getRequiredMessage": null
+                    }
+                },
+                {
+                    "errors": [],
+                    "externalIdentifierId": {
+                        "errors": [],
+                        "value": "10.1109/sibgrapi.2011.26",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "externalIdentifierType": {
+                        "errors": [],
+                        "value": "doi",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "url": {
+                        "errors": [],
+                        "value": "https://doi.org/10.1109/sibgrapi.2011.26",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "relationship": {
+                        "errors": [],
+                        "value": "self",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "normalized": {
+                        "errors": [],
+                        "value": "10.1109/sibgrapi.2011.26",
+                        "required": false,
+                        "getRequiredMessage": null
+                    },
+                    "normalizedUrl": {
+                        "errors": [],
+                        "value": "https://doi.org/10.1109/sibgrapi.2011.26",
+                        "required": false,
+                        "getRequiredMessage": null
+                    }
+                }
+            ],
+            "works": [
+                {
+                    "visibility": {
+                        "errors": [],
+                        "required": true,
+                        "getRequiredMessage": null,
+                        "visibility": "PUBLIC"
+                    },
+                    "errors": [],
+                    "publicationDate": {
+                        "errors": [],
+                        "month": "08",
+                        "day": null,
+                        "year": "2011",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "putCode": {
+                        "errors": [],
+                        "value": "58580362",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "shortDescription": null,
+                    "url": null,
+                    "journalTitle": {
+                        "errors": [],
+                        "value": "2011 24th SIBGRAPI Conference on Graphics, Patterns and Images",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "languageCode": null,
+                    "languageName": null,
+                    "citation": null,
+                    "countryCode": null,
+                    "countryName": null,
+                    "contributors": null,
+                    "contributorsGroupedByOrcid": [],
+                    "numberOfContributors": 0,
+                    "workExternalIdentifiers": [
+                        {
+                            "errors": [],
+                            "externalIdentifierId": {
+                                "errors": [],
+                                "value": "10.1109/sibgrapi.2011.26",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "externalIdentifierType": {
+                                "errors": [],
+                                "value": "doi",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "url": {
+                                "errors": [],
+                                "value": "https://doi.org/10.1109/sibgrapi.2011.26",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "relationship": {
+                                "errors": [],
+                                "value": "self",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "normalized": {
+                                "errors": [],
+                                "value": "10.1109/sibgrapi.2011.26",
+                                "required": false,
+                                "getRequiredMessage": null
+                            },
+                            "normalizedUrl": {
+                                "errors": [],
+                                "value": "https://doi.org/10.1109/sibgrapi.2011.26",
+                                "required": false,
+                                "getRequiredMessage": null
+                            }
+                        },
+                        {
+                            "errors": [],
+                            "externalIdentifierId": {
+                                "errors": [],
+                                "value": "9781457716744",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "externalIdentifierType": {
+                                "errors": [],
+                                "value": "isbn",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "url": {
+                                "errors": [],
+                                "value": "https://www.worldcat.org/isbn/9781457716744",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "relationship": {
+                                "errors": [],
+                                "value": "self",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "normalized": {
+                                "errors": [],
+                                "value": "9781457716744",
+                                "required": false,
+                                "getRequiredMessage": null
+                            },
+                            "normalizedUrl": {
+                                "errors": [],
+                                "value": "https://www.worldcat.org/isbn/9781457716744",
+                                "required": false,
+                                "getRequiredMessage": null
+                            }
+                        },
+                        {
+                            "errors": [],
+                            "externalIdentifierId": {
+                                "errors": [],
+                                "value": "9780769545486",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "externalIdentifierType": {
+                                "errors": [],
+                                "value": "isbn",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "url": {
+                                "errors": [],
+                                "value": "https://www.worldcat.org/isbn/9780769545486",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "relationship": {
+                                "errors": [],
+                                "value": "self",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "normalized": {
+                                "errors": [],
+                                "value": "9780769545486",
+                                "required": false,
+                                "getRequiredMessage": null
+                            },
+                            "normalizedUrl": {
+                                "errors": [],
+                                "value": "https://www.worldcat.org/isbn/9780769545486",
+                                "required": false,
+                                "getRequiredMessage": null
+                            }
+                        }
+                    ],
+                    "source": "0000-0003-4734-8752",
+                    "sourceName": "rensso victor hugo mora colque",
+                    "assertionOriginOrcid": null,
+                    "assertionOriginClientId": null,
+                    "assertionOriginName": null,
+                    "title": {
+                        "errors": [],
+                        "value": "Progressive Background Image Generation of Surveillance Traffic Videos Based on a Temporal Histogram Ruled by a Reward/Penalty Function",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "subtitle": null,
+                    "translatedTitle": null,
+                    "workCategory": null,
+                    "workType": {
+                        "errors": [],
+                        "value": "conference-paper",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "dateSortString": null,
+                    "createdDate": {
+                        "errors": [],
+                        "month": "6",
+                        "day": "17",
+                        "year": "2019",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "lastModified": {
+                        "errors": [],
+                        "month": "6",
+                        "day": "17",
+                        "year": "2019",
+                        "required": true,
+                        "getRequiredMessage": null
+                    }
+                }
+            ]
+        }
+    ]
+}]

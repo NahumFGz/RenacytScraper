@@ -1,0 +1,4155 @@
+{
+    "nextOffset": 50,
+    "totalGroups": 12,
+    "groups": [
+        {
+            "activePutCode": 145730111,
+            "defaultPutCode": 145730111,
+            "groupId": 0,
+            "activeVisibility": "PUBLIC",
+            "userVersionPresent": false,
+            "externalIdentifiers": [
+                {
+                    "errors": [],
+                    "externalIdentifierId": {
+                        "errors": [],
+                        "value": "https://revistasinvestigacion.unmsm.edu.pe/index.php/veterinaria/article/view/23388",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "externalIdentifierType": {
+                        "errors": [],
+                        "value": "uri",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "url": null,
+                    "relationship": {
+                        "errors": [],
+                        "value": "self",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "normalized": {
+                        "errors": [],
+                        "value": "https://revistasinvestigacion.unmsm.edu.pe/index.php/veterinaria/article/view/23388",
+                        "required": false,
+                        "getRequiredMessage": null
+                    },
+                    "normalizedUrl": null
+                }
+            ],
+            "works": [
+                {
+                    "visibility": {
+                        "errors": [],
+                        "required": true,
+                        "getRequiredMessage": null,
+                        "visibility": "PUBLIC"
+                    },
+                    "errors": [],
+                    "publicationDate": {
+                        "errors": [],
+                        "month": "10",
+                        "day": "31",
+                        "year": "2023",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "putCode": {
+                        "errors": [],
+                        "value": "145730111",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "shortDescription": null,
+                    "url": null,
+                    "journalTitle": {
+                        "errors": [],
+                        "value": "Revista de Investigaciones Veterinarias del Per\u00fa",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "languageCode": null,
+                    "languageName": null,
+                    "citation": null,
+                    "countryCode": null,
+                    "countryName": null,
+                    "contributors": null,
+                    "contributorsGroupedByOrcid": [
+                        {
+                            "contributorOrcid": {
+                                "uri": "https://orcid.org/0000-0002-4079-0209",
+                                "path": "0000-0002-4079-0209",
+                                "host": "orcid.org"
+                            },
+                            "creditName": {
+                                "content": "Gerardo Antonio Galv\u00e1n Cavero"
+                            },
+                            "contributorEmail": null,
+                            "contributorAttributes": null,
+                            "rolesAndSequences": [
+                                {
+                                    "contributorSequence": "FIRST",
+                                    "contributorRole": "author"
+                                }
+                            ]
+                        },
+                        {
+                            "contributorOrcid": null,
+                            "creditName": {
+                                "content": "Alberto Menendez-Buxadera"
+                            },
+                            "contributorEmail": null,
+                            "contributorAttributes": null,
+                            "rolesAndSequences": [
+                                {
+                                    "contributorSequence": "ADDITIONAL",
+                                    "contributorRole": "author"
+                                }
+                            ]
+                        },
+                        {
+                            "contributorOrcid": {
+                                "uri": "https://orcid.org/0000-0001-8677-993X",
+                                "path": "0000-0001-8677-993X",
+                                "host": "orcid.org"
+                            },
+                            "creditName": {
+                                "content": "Manuel More"
+                            },
+                            "contributorEmail": null,
+                            "contributorAttributes": null,
+                            "rolesAndSequences": [
+                                {
+                                    "contributorSequence": "ADDITIONAL",
+                                    "contributorRole": "author"
+                                }
+                            ]
+                        },
+                        {
+                            "contributorOrcid": null,
+                            "creditName": {
+                                "content": "Gustavo Augusto Guti\u00e9rrez Reynoso"
+                            },
+                            "contributorEmail": null,
+                            "contributorAttributes": null,
+                            "rolesAndSequences": [
+                                {
+                                    "contributorSequence": "ADDITIONAL",
+                                    "contributorRole": "author"
+                                }
+                            ]
+                        }
+                    ],
+                    "numberOfContributors": 4,
+                    "workExternalIdentifiers": [
+                        {
+                            "errors": [],
+                            "externalIdentifierId": {
+                                "errors": [],
+                                "value": "https://revistasinvestigacion.unmsm.edu.pe/index.php/veterinaria/article/view/23388",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "externalIdentifierType": {
+                                "errors": [],
+                                "value": "uri",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "url": null,
+                            "relationship": {
+                                "errors": [],
+                                "value": "self",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "normalized": {
+                                "errors": [],
+                                "value": "https://revistasinvestigacion.unmsm.edu.pe/index.php/veterinaria/article/view/23388",
+                                "required": false,
+                                "getRequiredMessage": null
+                            },
+                            "normalizedUrl": null
+                        },
+                        {
+                            "errors": [],
+                            "externalIdentifierId": {
+                                "errors": [],
+                                "value": "1682-3419",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "externalIdentifierType": {
+                                "errors": [],
+                                "value": "issn",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "url": null,
+                            "relationship": {
+                                "errors": [],
+                                "value": "part-of",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "normalized": {
+                                "errors": [],
+                                "value": "1682-3419",
+                                "required": false,
+                                "getRequiredMessage": null
+                            },
+                            "normalizedUrl": {
+                                "errors": [],
+                                "value": "https://portal.issn.org/resource/ISSN/1682-3419",
+                                "required": false,
+                                "getRequiredMessage": null
+                            }
+                        }
+                    ],
+                    "source": "APP-8SDR5NQNUSX1CZA9",
+                    "sourceName": "Universidad Nacional Mayor de San Marcos",
+                    "assertionOriginOrcid": null,
+                    "assertionOriginClientId": null,
+                    "assertionOriginName": null,
+                    "title": {
+                        "errors": [],
+                        "value": "Impacto de los efectos clim\u00e1ticos sobre la producci\u00f3n de leche de ganado Holstein en Lima, Per\u00fa",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "subtitle": null,
+                    "translatedTitle": null,
+                    "workCategory": null,
+                    "workType": {
+                        "errors": [],
+                        "value": "journal-article",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "dateSortString": null,
+                    "createdDate": {
+                        "errors": [],
+                        "month": "11",
+                        "day": "1",
+                        "year": "2023",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "lastModified": {
+                        "errors": [],
+                        "month": "11",
+                        "day": "1",
+                        "year": "2023",
+                        "required": true,
+                        "getRequiredMessage": null
+                    }
+                }
+            ]
+        },
+        {
+            "activePutCode": 145429901,
+            "defaultPutCode": 145429901,
+            "groupId": 1,
+            "activeVisibility": "PUBLIC",
+            "userVersionPresent": true,
+            "externalIdentifiers": [
+                {
+                    "errors": [],
+                    "externalIdentifierId": {
+                        "errors": [],
+                        "value": "10.3390/ani13213316",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "externalIdentifierType": {
+                        "errors": [],
+                        "value": "doi",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "url": {
+                        "errors": [],
+                        "value": "https://doi.org/10.3390/ani13213316",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "relationship": {
+                        "errors": [],
+                        "value": "self",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "normalized": {
+                        "errors": [],
+                        "value": "10.3390/ani13213316",
+                        "required": false,
+                        "getRequiredMessage": null
+                    },
+                    "normalizedUrl": {
+                        "errors": [],
+                        "value": "https://doi.org/10.3390/ani13213316",
+                        "required": false,
+                        "getRequiredMessage": null
+                    }
+                }
+            ],
+            "works": [
+                {
+                    "visibility": {
+                        "errors": [],
+                        "required": true,
+                        "getRequiredMessage": null,
+                        "visibility": "PUBLIC"
+                    },
+                    "errors": [],
+                    "publicationDate": {
+                        "errors": [],
+                        "month": "10",
+                        "day": "25",
+                        "year": "2023",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "putCode": {
+                        "errors": [],
+                        "value": "145429901",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "shortDescription": null,
+                    "url": null,
+                    "journalTitle": {
+                        "errors": [],
+                        "value": "Animals",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "languageCode": null,
+                    "languageName": null,
+                    "citation": null,
+                    "countryCode": null,
+                    "countryName": null,
+                    "contributors": null,
+                    "contributorsGroupedByOrcid": [
+                        {
+                            "contributorOrcid": {
+                                "uri": "https://orcid.org/0000-0001-8677-993X",
+                                "path": "0000-0001-8677-993X",
+                                "host": null
+                            },
+                            "creditName": {
+                                "content": "Manuel More"
+                            },
+                            "contributorEmail": null,
+                            "contributorAttributes": null,
+                            "rolesAndSequences": [
+                                {
+                                    "contributorSequence": null,
+                                    "contributorRole": "author"
+                                }
+                            ]
+                        },
+                        {
+                            "contributorOrcid": {
+                                "uri": null,
+                                "path": null,
+                                "host": null
+                            },
+                            "creditName": {
+                                "content": "Eudosio Veli"
+                            },
+                            "contributorEmail": null,
+                            "contributorAttributes": null,
+                            "rolesAndSequences": [
+                                {
+                                    "contributorSequence": null,
+                                    "contributorRole": "author"
+                                }
+                            ]
+                        },
+                        {
+                            "contributorOrcid": {
+                                "uri": "https://orcid.org/0000-0002-9462-4986",
+                                "path": "0000-0002-9462-4986",
+                                "host": null
+                            },
+                            "creditName": {
+                                "content": "Alan Cruz Camacho"
+                            },
+                            "contributorEmail": null,
+                            "contributorAttributes": null,
+                            "rolesAndSequences": [
+                                {
+                                    "contributorSequence": null,
+                                    "contributorRole": "author"
+                                }
+                            ]
+                        },
+                        {
+                            "contributorOrcid": {
+                                "uri": "https://orcid.org/0000-0003-3142-2356",
+                                "path": "0000-0003-3142-2356",
+                                "host": null
+                            },
+                            "creditName": {
+                                "content": "JUAN PABLO GUTIERREZ GARCIA"
+                            },
+                            "contributorEmail": null,
+                            "contributorAttributes": null,
+                            "rolesAndSequences": [
+                                {
+                                    "contributorSequence": null,
+                                    "contributorRole": "author"
+                                }
+                            ]
+                        },
+                        {
+                            "contributorOrcid": {
+                                "uri": "https://orcid.org/0000-0002-1896-0048",
+                                "path": "0000-0002-1896-0048",
+                                "host": null
+                            },
+                            "creditName": {
+                                "content": "GUSTAVO A. GUTIERREZ-REYNOSO"
+                            },
+                            "contributorEmail": null,
+                            "contributorAttributes": null,
+                            "rolesAndSequences": [
+                                {
+                                    "contributorSequence": null,
+                                    "contributorRole": "author"
+                                }
+                            ]
+                        },
+                        {
+                            "contributorOrcid": {
+                                "uri": "https://orcid.org/0000-0001-8645-553X",
+                                "path": "0000-0001-8645-553X",
+                                "host": null
+                            },
+                            "creditName": {
+                                "content": "Federico Abel Ponce de Le\u00f3n"
+                            },
+                            "contributorEmail": null,
+                            "contributorAttributes": null,
+                            "rolesAndSequences": [
+                                {
+                                    "contributorSequence": null,
+                                    "contributorRole": "author"
+                                }
+                            ]
+                        }
+                    ],
+                    "numberOfContributors": 6,
+                    "workExternalIdentifiers": [
+                        {
+                            "errors": [],
+                            "externalIdentifierId": {
+                                "errors": [],
+                                "value": "10.3390/ani13213316",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "externalIdentifierType": {
+                                "errors": [],
+                                "value": "doi",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "url": {
+                                "errors": [],
+                                "value": "https://doi.org/10.3390/ani13213316",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "relationship": {
+                                "errors": [],
+                                "value": "self",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "normalized": {
+                                "errors": [],
+                                "value": "10.3390/ani13213316",
+                                "required": false,
+                                "getRequiredMessage": null
+                            },
+                            "normalizedUrl": {
+                                "errors": [],
+                                "value": "https://doi.org/10.3390/ani13213316",
+                                "required": false,
+                                "getRequiredMessage": null
+                            }
+                        },
+                        {
+                            "errors": [],
+                            "externalIdentifierId": {
+                                "errors": [],
+                                "value": "2076-2615",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "externalIdentifierType": {
+                                "errors": [],
+                                "value": "issn",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "url": {
+                                "errors": [],
+                                "value": "https://portal.issn.org/resource/ISSN/2076-2615",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "relationship": {
+                                "errors": [],
+                                "value": "part-of",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "normalized": {
+                                "errors": [],
+                                "value": "2076-2615",
+                                "required": false,
+                                "getRequiredMessage": null
+                            },
+                            "normalizedUrl": {
+                                "errors": [],
+                                "value": "https://portal.issn.org/resource/ISSN/2076-2615",
+                                "required": false,
+                                "getRequiredMessage": null
+                            }
+                        }
+                    ],
+                    "source": "0000-0001-8677-993X",
+                    "sourceName": "Manuel More",
+                    "assertionOriginOrcid": null,
+                    "assertionOriginClientId": null,
+                    "assertionOriginName": null,
+                    "title": {
+                        "errors": [],
+                        "value": "Genome-Wide Association Study of Fiber Diameter in Alpacas",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "subtitle": null,
+                    "translatedTitle": null,
+                    "workCategory": null,
+                    "workType": {
+                        "errors": [],
+                        "value": "journal-article",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "dateSortString": null,
+                    "createdDate": {
+                        "errors": [],
+                        "month": "10",
+                        "day": "27",
+                        "year": "2023",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "lastModified": {
+                        "errors": [],
+                        "month": "10",
+                        "day": "27",
+                        "year": "2023",
+                        "required": true,
+                        "getRequiredMessage": null
+                    }
+                },
+                {
+                    "visibility": {
+                        "errors": [],
+                        "required": true,
+                        "getRequiredMessage": null,
+                        "visibility": "PUBLIC"
+                    },
+                    "errors": [],
+                    "publicationDate": {
+                        "errors": [],
+                        "month": "10",
+                        "day": "25",
+                        "year": "2023",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "putCode": {
+                        "errors": [],
+                        "value": "145277423",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "shortDescription": null,
+                    "url": null,
+                    "journalTitle": {
+                        "errors": [],
+                        "value": "Animals",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "languageCode": null,
+                    "languageName": null,
+                    "citation": null,
+                    "countryCode": null,
+                    "countryName": null,
+                    "contributors": null,
+                    "contributorsGroupedByOrcid": [
+                        {
+                            "contributorOrcid": null,
+                            "creditName": {
+                                "content": "Manuel More"
+                            },
+                            "contributorEmail": null,
+                            "contributorAttributes": null,
+                            "rolesAndSequences": [
+                                {
+                                    "contributorSequence": null,
+                                    "contributorRole": "author"
+                                }
+                            ]
+                        },
+                        {
+                            "contributorOrcid": null,
+                            "creditName": {
+                                "content": "Eudosio Veli"
+                            },
+                            "contributorEmail": null,
+                            "contributorAttributes": null,
+                            "rolesAndSequences": [
+                                {
+                                    "contributorSequence": null,
+                                    "contributorRole": "author"
+                                }
+                            ]
+                        },
+                        {
+                            "contributorOrcid": null,
+                            "creditName": {
+                                "content": "Alan Cruz"
+                            },
+                            "contributorEmail": null,
+                            "contributorAttributes": null,
+                            "rolesAndSequences": [
+                                {
+                                    "contributorSequence": null,
+                                    "contributorRole": "author"
+                                }
+                            ]
+                        },
+                        {
+                            "contributorOrcid": null,
+                            "creditName": {
+                                "content": "Juan Pablo Guti\u00e9rrez"
+                            },
+                            "contributorEmail": null,
+                            "contributorAttributes": null,
+                            "rolesAndSequences": [
+                                {
+                                    "contributorSequence": null,
+                                    "contributorRole": "author"
+                                }
+                            ]
+                        },
+                        {
+                            "contributorOrcid": null,
+                            "creditName": {
+                                "content": "Gustavo Guti\u00e9rrez"
+                            },
+                            "contributorEmail": null,
+                            "contributorAttributes": null,
+                            "rolesAndSequences": [
+                                {
+                                    "contributorSequence": null,
+                                    "contributorRole": "author"
+                                }
+                            ]
+                        },
+                        {
+                            "contributorOrcid": null,
+                            "creditName": {
+                                "content": "F. Abel Ponce de Le\u00f3n"
+                            },
+                            "contributorEmail": null,
+                            "contributorAttributes": null,
+                            "rolesAndSequences": [
+                                {
+                                    "contributorSequence": null,
+                                    "contributorRole": "author"
+                                }
+                            ]
+                        }
+                    ],
+                    "numberOfContributors": 6,
+                    "workExternalIdentifiers": [
+                        {
+                            "errors": [],
+                            "externalIdentifierId": {
+                                "errors": [],
+                                "value": "10.3390/ani13213316",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "externalIdentifierType": {
+                                "errors": [],
+                                "value": "doi",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "url": {
+                                "errors": [],
+                                "value": "https://doi.org/10.3390/ani13213316",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "relationship": {
+                                "errors": [],
+                                "value": "self",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "normalized": {
+                                "errors": [],
+                                "value": "10.3390/ani13213316",
+                                "required": false,
+                                "getRequiredMessage": null
+                            },
+                            "normalizedUrl": {
+                                "errors": [],
+                                "value": "https://doi.org/10.3390/ani13213316",
+                                "required": false,
+                                "getRequiredMessage": null
+                            }
+                        }
+                    ],
+                    "source": "0000-0001-9884-1913",
+                    "sourceName": "Crossref",
+                    "assertionOriginOrcid": null,
+                    "assertionOriginClientId": null,
+                    "assertionOriginName": null,
+                    "title": {
+                        "errors": [],
+                        "value": "Genome-Wide Association Study of Fiber Diameter in Alpacas",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "subtitle": null,
+                    "translatedTitle": null,
+                    "workCategory": null,
+                    "workType": {
+                        "errors": [],
+                        "value": "journal-article",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "dateSortString": null,
+                    "createdDate": {
+                        "errors": [],
+                        "month": "10",
+                        "day": "25",
+                        "year": "2023",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "lastModified": {
+                        "errors": [],
+                        "month": "10",
+                        "day": "25",
+                        "year": "2023",
+                        "required": true,
+                        "getRequiredMessage": null
+                    }
+                },
+                {
+                    "visibility": {
+                        "errors": [],
+                        "required": true,
+                        "getRequiredMessage": null,
+                        "visibility": "PUBLIC"
+                    },
+                    "errors": [],
+                    "publicationDate": {
+                        "errors": [],
+                        "month": "10",
+                        "day": null,
+                        "year": "2023",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "putCode": {
+                        "errors": [],
+                        "value": "145538887",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "shortDescription": null,
+                    "url": null,
+                    "journalTitle": {
+                        "errors": [],
+                        "value": "Animals",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "languageCode": null,
+                    "languageName": null,
+                    "citation": null,
+                    "countryCode": null,
+                    "countryName": null,
+                    "contributors": null,
+                    "contributorsGroupedByOrcid": [
+                        {
+                            "contributorOrcid": {
+                                "uri": "http://orcid.org/0000-0001-8677-993X",
+                                "path": "0000-0001-8677-993X",
+                                "host": "orcid.org"
+                            },
+                            "creditName": {
+                                "content": "Manuel More"
+                            },
+                            "contributorEmail": null,
+                            "contributorAttributes": null,
+                            "rolesAndSequences": [
+                                {
+                                    "contributorSequence": "FIRST",
+                                    "contributorRole": "author"
+                                }
+                            ]
+                        },
+                        {
+                            "contributorOrcid": null,
+                            "creditName": {
+                                "content": "Eudosio Veli"
+                            },
+                            "contributorEmail": null,
+                            "contributorAttributes": null,
+                            "rolesAndSequences": [
+                                {
+                                    "contributorSequence": "ADDITIONAL",
+                                    "contributorRole": "author"
+                                }
+                            ]
+                        },
+                        {
+                            "contributorOrcid": {
+                                "uri": "http://orcid.org/0000-0002-9462-4986",
+                                "path": "0000-0002-9462-4986",
+                                "host": "orcid.org"
+                            },
+                            "creditName": {
+                                "content": "Alan Cruz Camacho"
+                            },
+                            "contributorEmail": null,
+                            "contributorAttributes": null,
+                            "rolesAndSequences": [
+                                {
+                                    "contributorSequence": "ADDITIONAL",
+                                    "contributorRole": "author"
+                                }
+                            ]
+                        },
+                        {
+                            "contributorOrcid": {
+                                "uri": "http://orcid.org/0000-0003-3142-2356",
+                                "path": "0000-0003-3142-2356",
+                                "host": "orcid.org"
+                            },
+                            "creditName": {
+                                "content": "JUAN PABLO GUTIERREZ GARCIA"
+                            },
+                            "contributorEmail": null,
+                            "contributorAttributes": null,
+                            "rolesAndSequences": [
+                                {
+                                    "contributorSequence": "ADDITIONAL",
+                                    "contributorRole": "author"
+                                }
+                            ]
+                        },
+                        {
+                            "contributorOrcid": {
+                                "uri": "http://orcid.org/0000-0002-1896-0048",
+                                "path": "0000-0002-1896-0048",
+                                "host": "orcid.org"
+                            },
+                            "creditName": {
+                                "content": "GUSTAVO A. GUTIERREZ-REYNOSO"
+                            },
+                            "contributorEmail": null,
+                            "contributorAttributes": null,
+                            "rolesAndSequences": [
+                                {
+                                    "contributorSequence": "ADDITIONAL",
+                                    "contributorRole": "author"
+                                }
+                            ]
+                        },
+                        {
+                            "contributorOrcid": {
+                                "uri": "http://orcid.org/0000-0001-8645-553X",
+                                "path": "0000-0001-8645-553X",
+                                "host": "orcid.org"
+                            },
+                            "creditName": {
+                                "content": "Federico Abel Ponce de Le\u00f3n"
+                            },
+                            "contributorEmail": null,
+                            "contributorAttributes": null,
+                            "rolesAndSequences": [
+                                {
+                                    "contributorSequence": "ADDITIONAL",
+                                    "contributorRole": "author"
+                                }
+                            ]
+                        }
+                    ],
+                    "numberOfContributors": 6,
+                    "workExternalIdentifiers": [
+                        {
+                            "errors": [],
+                            "externalIdentifierId": {
+                                "errors": [],
+                                "value": "10.3390/ani13213316",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "externalIdentifierType": {
+                                "errors": [],
+                                "value": "doi",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "url": {
+                                "errors": [],
+                                "value": "https://doi.org/10.3390/ani13213316",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "relationship": {
+                                "errors": [],
+                                "value": "self",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "normalized": {
+                                "errors": [],
+                                "value": "10.3390/ani13213316",
+                                "required": false,
+                                "getRequiredMessage": null
+                            },
+                            "normalizedUrl": {
+                                "errors": [],
+                                "value": "https://doi.org/10.3390/ani13213316",
+                                "required": false,
+                                "getRequiredMessage": null
+                            }
+                        }
+                    ],
+                    "source": "APP-WRQOUAK78G5F7GMD",
+                    "sourceName": "Multidisciplinary Digital Publishing Institute",
+                    "assertionOriginOrcid": null,
+                    "assertionOriginClientId": null,
+                    "assertionOriginName": null,
+                    "title": {
+                        "errors": [],
+                        "value": "Genome-Wide Association Study of Fiber Diameter in Alpacas",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "subtitle": null,
+                    "translatedTitle": null,
+                    "workCategory": null,
+                    "workType": {
+                        "errors": [],
+                        "value": "journal-article",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "dateSortString": null,
+                    "createdDate": {
+                        "errors": [],
+                        "month": "10",
+                        "day": "30",
+                        "year": "2023",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "lastModified": {
+                        "errors": [],
+                        "month": "10",
+                        "day": "30",
+                        "year": "2023",
+                        "required": true,
+                        "getRequiredMessage": null
+                    }
+                }
+            ]
+        },
+        {
+            "activePutCode": 144023513,
+            "defaultPutCode": 144023513,
+            "groupId": 2,
+            "activeVisibility": "PUBLIC",
+            "userVersionPresent": true,
+            "externalIdentifiers": [
+                {
+                    "errors": [],
+                    "externalIdentifierId": {
+                        "errors": [],
+                        "value": "10.1111/age.13367",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "externalIdentifierType": {
+                        "errors": [],
+                        "value": "doi",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "url": {
+                        "errors": [],
+                        "value": "https://doi.org/10.1111/age.13367",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "relationship": {
+                        "errors": [],
+                        "value": "self",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "normalized": {
+                        "errors": [],
+                        "value": "10.1111/age.13367",
+                        "required": false,
+                        "getRequiredMessage": null
+                    },
+                    "normalizedUrl": {
+                        "errors": [],
+                        "value": "https://doi.org/10.1111/age.13367",
+                        "required": false,
+                        "getRequiredMessage": null
+                    }
+                }
+            ],
+            "works": [
+                {
+                    "visibility": {
+                        "errors": [],
+                        "required": true,
+                        "getRequiredMessage": null,
+                        "visibility": "PUBLIC"
+                    },
+                    "errors": [],
+                    "publicationDate": {
+                        "errors": [],
+                        "month": "10",
+                        "day": "05",
+                        "year": "2023",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "putCode": {
+                        "errors": [],
+                        "value": "144023513",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "shortDescription": null,
+                    "url": null,
+                    "journalTitle": {
+                        "errors": [],
+                        "value": "Animal Genetics",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "languageCode": null,
+                    "languageName": null,
+                    "citation": null,
+                    "countryCode": null,
+                    "countryName": null,
+                    "contributors": null,
+                    "contributorsGroupedByOrcid": [
+                        {
+                            "contributorOrcid": {
+                                "uri": "https://orcid.org/0000-0003-4459-5627",
+                                "path": "0000-0003-4459-5627",
+                                "host": null
+                            },
+                            "creditName": {
+                                "content": "Mar\u00eda Victoria Borja Lozano"
+                            },
+                            "contributorEmail": null,
+                            "contributorAttributes": null,
+                            "rolesAndSequences": [
+                                {
+                                    "contributorSequence": null,
+                                    "contributorRole": "author"
+                                }
+                            ]
+                        },
+                        {
+                            "contributorOrcid": {
+                                "uri": null,
+                                "path": null,
+                                "host": null
+                            },
+                            "creditName": {
+                                "content": "Bianca Vigil\u00a0Santill\u00e1n"
+                            },
+                            "contributorEmail": null,
+                            "contributorAttributes": null,
+                            "rolesAndSequences": [
+                                {
+                                    "contributorSequence": null,
+                                    "contributorRole": "author"
+                                }
+                            ]
+                        },
+                        {
+                            "contributorOrcid": {
+                                "uri": null,
+                                "path": null,
+                                "host": null
+                            },
+                            "creditName": {
+                                "content": "Manuel J. More\u00a0Montoya"
+                            },
+                            "contributorEmail": null,
+                            "contributorAttributes": null,
+                            "rolesAndSequences": [
+                                {
+                                    "contributorSequence": null,
+                                    "contributorRole": "author"
+                                }
+                            ]
+                        },
+                        {
+                            "contributorOrcid": {
+                                "uri": null,
+                                "path": null,
+                                "host": null
+                            },
+                            "creditName": {
+                                "content": "Jonathan A. Mor\u00f3n\u00a0Barraza"
+                            },
+                            "contributorEmail": null,
+                            "contributorAttributes": null,
+                            "rolesAndSequences": [
+                                {
+                                    "contributorSequence": null,
+                                    "contributorRole": "author"
+                                }
+                            ]
+                        },
+                        {
+                            "contributorOrcid": {
+                                "uri": null,
+                                "path": null,
+                                "host": null
+                            },
+                            "creditName": {
+                                "content": "Aura Liz Garc\u00eda\u2010Serqu\u00e9n"
+                            },
+                            "contributorEmail": null,
+                            "contributorAttributes": null,
+                            "rolesAndSequences": [
+                                {
+                                    "contributorSequence": null,
+                                    "contributorRole": "author"
+                                }
+                            ]
+                        },
+                        {
+                            "contributorOrcid": {
+                                "uri": "https://orcid.org/0000-0002-1896-0048",
+                                "path": "0000-0002-1896-0048",
+                                "host": null
+                            },
+                            "creditName": {
+                                "content": "GUSTAVO A. GUTIERREZ-REYNOSO"
+                            },
+                            "contributorEmail": null,
+                            "contributorAttributes": null,
+                            "rolesAndSequences": [
+                                {
+                                    "contributorSequence": null,
+                                    "contributorRole": "author"
+                                }
+                            ]
+                        },
+                        {
+                            "contributorOrcid": {
+                                "uri": "https://orcid.org/0000-0002-4469-4695",
+                                "path": "0000-0002-4469-4695",
+                                "host": null
+                            },
+                            "creditName": {
+                                "content": "Claudia E. Yalta-Macedo"
+                            },
+                            "contributorEmail": null,
+                            "contributorAttributes": null,
+                            "rolesAndSequences": [
+                                {
+                                    "contributorSequence": null,
+                                    "contributorRole": "author"
+                                }
+                            ]
+                        }
+                    ],
+                    "numberOfContributors": 7,
+                    "workExternalIdentifiers": [
+                        {
+                            "errors": [],
+                            "externalIdentifierId": {
+                                "errors": [],
+                                "value": "10.1111/age.13367",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "externalIdentifierType": {
+                                "errors": [],
+                                "value": "doi",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "url": {
+                                "errors": [],
+                                "value": "https://doi.org/10.1111/age.13367",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "relationship": {
+                                "errors": [],
+                                "value": "self",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "normalized": {
+                                "errors": [],
+                                "value": "10.1111/age.13367",
+                                "required": false,
+                                "getRequiredMessage": null
+                            },
+                            "normalizedUrl": {
+                                "errors": [],
+                                "value": "https://doi.org/10.1111/age.13367",
+                                "required": false,
+                                "getRequiredMessage": null
+                            }
+                        },
+                        {
+                            "errors": [],
+                            "externalIdentifierId": {
+                                "errors": [],
+                                "value": "0268-9146",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "externalIdentifierType": {
+                                "errors": [],
+                                "value": "issn",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "url": {
+                                "errors": [],
+                                "value": "https://portal.issn.org/resource/ISSN/0268-9146",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "relationship": {
+                                "errors": [],
+                                "value": "part-of",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "normalized": {
+                                "errors": [],
+                                "value": "0268-9146",
+                                "required": false,
+                                "getRequiredMessage": null
+                            },
+                            "normalizedUrl": {
+                                "errors": [],
+                                "value": "https://portal.issn.org/resource/ISSN/0268-9146",
+                                "required": false,
+                                "getRequiredMessage": null
+                            }
+                        },
+                        {
+                            "errors": [],
+                            "externalIdentifierId": {
+                                "errors": [],
+                                "value": "1365-2052",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "externalIdentifierType": {
+                                "errors": [],
+                                "value": "issn",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "url": {
+                                "errors": [],
+                                "value": "https://portal.issn.org/resource/ISSN/1365-2052",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "relationship": {
+                                "errors": [],
+                                "value": "part-of",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "normalized": {
+                                "errors": [],
+                                "value": "1365-2052",
+                                "required": false,
+                                "getRequiredMessage": null
+                            },
+                            "normalizedUrl": {
+                                "errors": [],
+                                "value": "https://portal.issn.org/resource/ISSN/1365-2052",
+                                "required": false,
+                                "getRequiredMessage": null
+                            }
+                        }
+                    ],
+                    "source": "0000-0001-8677-993X",
+                    "sourceName": "Manuel More",
+                    "assertionOriginOrcid": null,
+                    "assertionOriginClientId": null,
+                    "assertionOriginName": null,
+                    "title": {
+                        "errors": [],
+                        "value": "Genotyping\u2010by\u2010sequencing reveals a high number and quality of single nucleotide polymorphisms in guinea pigs (<i>Cavia porcellus</i>) from the Peruvian Andes",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "subtitle": null,
+                    "translatedTitle": null,
+                    "workCategory": null,
+                    "workType": {
+                        "errors": [],
+                        "value": "journal-article",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "dateSortString": null,
+                    "createdDate": {
+                        "errors": [],
+                        "month": "10",
+                        "day": "10",
+                        "year": "2023",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "lastModified": {
+                        "errors": [],
+                        "month": "10",
+                        "day": "10",
+                        "year": "2023",
+                        "required": true,
+                        "getRequiredMessage": null
+                    }
+                }
+            ]
+        },
+        {
+            "activePutCode": 126297177,
+            "defaultPutCode": 126297177,
+            "groupId": 3,
+            "activeVisibility": "PUBLIC",
+            "userVersionPresent": false,
+            "externalIdentifiers": [
+                {
+                    "errors": [],
+                    "externalIdentifierId": {
+                        "errors": [],
+                        "value": "10.21704/ac.v83i2.1902",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "externalIdentifierType": {
+                        "errors": [],
+                        "value": "doi",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "url": {
+                        "errors": [],
+                        "value": "https://doi.org/10.21704/ac.v83i2.1902",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "relationship": {
+                        "errors": [],
+                        "value": "self",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "normalized": {
+                        "errors": [],
+                        "value": "10.21704/ac.v83i2.1902",
+                        "required": false,
+                        "getRequiredMessage": null
+                    },
+                    "normalizedUrl": {
+                        "errors": [],
+                        "value": "https://doi.org/10.21704/ac.v83i2.1902",
+                        "required": false,
+                        "getRequiredMessage": null
+                    }
+                }
+            ],
+            "works": [
+                {
+                    "visibility": {
+                        "errors": [],
+                        "required": true,
+                        "getRequiredMessage": null,
+                        "visibility": "PUBLIC"
+                    },
+                    "errors": [],
+                    "publicationDate": {
+                        "errors": [],
+                        "month": "01",
+                        "day": "10",
+                        "year": "2023",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "putCode": {
+                        "errors": [],
+                        "value": "126297177",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "shortDescription": null,
+                    "url": null,
+                    "journalTitle": {
+                        "errors": [],
+                        "value": "Anales cient\u00edficos",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "languageCode": null,
+                    "languageName": null,
+                    "citation": null,
+                    "countryCode": null,
+                    "countryName": null,
+                    "contributors": null,
+                    "contributorsGroupedByOrcid": [
+                        {
+                            "contributorOrcid": null,
+                            "creditName": {
+                                "content": "Alberto Menendez-Buxadera"
+                            },
+                            "contributorEmail": null,
+                            "contributorAttributes": null,
+                            "rolesAndSequences": [
+                                {
+                                    "contributorSequence": null,
+                                    "contributorRole": "author"
+                                }
+                            ]
+                        },
+                        {
+                            "contributorOrcid": null,
+                            "creditName": {
+                                "content": "Manuel More Montoya"
+                            },
+                            "contributorEmail": null,
+                            "contributorAttributes": null,
+                            "rolesAndSequences": [
+                                {
+                                    "contributorSequence": null,
+                                    "contributorRole": "author"
+                                }
+                            ]
+                        },
+                        {
+                            "contributorOrcid": null,
+                            "creditName": {
+                                "content": "Gustavo Guti\u00e9rrez-Reynoso"
+                            },
+                            "contributorEmail": null,
+                            "contributorAttributes": null,
+                            "rolesAndSequences": [
+                                {
+                                    "contributorSequence": null,
+                                    "contributorRole": "author"
+                                }
+                            ]
+                        },
+                        {
+                            "contributorOrcid": null,
+                            "creditName": {
+                                "content": "Gerardo Galv\u00e1n Cavero"
+                            },
+                            "contributorEmail": null,
+                            "contributorAttributes": null,
+                            "rolesAndSequences": [
+                                {
+                                    "contributorSequence": null,
+                                    "contributorRole": "author"
+                                }
+                            ]
+                        }
+                    ],
+                    "numberOfContributors": 4,
+                    "workExternalIdentifiers": [
+                        {
+                            "errors": [],
+                            "externalIdentifierId": {
+                                "errors": [],
+                                "value": "10.21704/ac.v83i2.1902",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "externalIdentifierType": {
+                                "errors": [],
+                                "value": "doi",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "url": {
+                                "errors": [],
+                                "value": "https://doi.org/10.21704/ac.v83i2.1902",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "relationship": {
+                                "errors": [],
+                                "value": "self",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "normalized": {
+                                "errors": [],
+                                "value": "10.21704/ac.v83i2.1902",
+                                "required": false,
+                                "getRequiredMessage": null
+                            },
+                            "normalizedUrl": {
+                                "errors": [],
+                                "value": "https://doi.org/10.21704/ac.v83i2.1902",
+                                "required": false,
+                                "getRequiredMessage": null
+                            }
+                        }
+                    ],
+                    "source": "0000-0001-9884-1913",
+                    "sourceName": "Crossref",
+                    "assertionOriginOrcid": null,
+                    "assertionOriginClientId": null,
+                    "assertionOriginName": null,
+                    "title": {
+                        "errors": [],
+                        "value": "INTERACCI\u00d3N GENOTIPO AMBIENTE EN ESTR\u00c9S T\u00c9RMICO Y PRODUCCI\u00d3N DE LECHE EN VACAS HOLSTEIN EN LA REGI\u00d3N DE LIMA, PER\u00da",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "subtitle": null,
+                    "translatedTitle": null,
+                    "workCategory": null,
+                    "workType": {
+                        "errors": [],
+                        "value": "journal-article",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "dateSortString": null,
+                    "createdDate": {
+                        "errors": [],
+                        "month": "1",
+                        "day": "11",
+                        "year": "2023",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "lastModified": {
+                        "errors": [],
+                        "month": "1",
+                        "day": "11",
+                        "year": "2023",
+                        "required": true,
+                        "getRequiredMessage": null
+                    }
+                }
+            ]
+        },
+        {
+            "activePutCode": 130577387,
+            "defaultPutCode": 130577387,
+            "groupId": 4,
+            "activeVisibility": "PUBLIC",
+            "userVersionPresent": true,
+            "externalIdentifiers": [
+                {
+                    "errors": [],
+                    "externalIdentifierId": {
+                        "errors": [],
+                        "value": "10.30972/vet.3326190",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "externalIdentifierType": {
+                        "errors": [],
+                        "value": "doi",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "url": {
+                        "errors": [],
+                        "value": "https://doi.org/10.30972/vet.3326190",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "relationship": {
+                        "errors": [],
+                        "value": "self",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "normalized": {
+                        "errors": [],
+                        "value": "10.30972/vet.3326190",
+                        "required": false,
+                        "getRequiredMessage": null
+                    },
+                    "normalizedUrl": {
+                        "errors": [],
+                        "value": "https://doi.org/10.30972/vet.3326190",
+                        "required": false,
+                        "getRequiredMessage": null
+                    }
+                }
+            ],
+            "works": [
+                {
+                    "visibility": {
+                        "errors": [],
+                        "required": true,
+                        "getRequiredMessage": null,
+                        "visibility": "PUBLIC"
+                    },
+                    "errors": [],
+                    "publicationDate": {
+                        "errors": [],
+                        "month": "12",
+                        "day": "26",
+                        "year": "2022",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "putCode": {
+                        "errors": [],
+                        "value": "130577387",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "shortDescription": null,
+                    "url": null,
+                    "journalTitle": {
+                        "errors": [],
+                        "value": "Revista Veterinaria",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "languageCode": null,
+                    "languageName": null,
+                    "citation": null,
+                    "countryCode": null,
+                    "countryName": null,
+                    "contributors": null,
+                    "contributorsGroupedByOrcid": [
+                        {
+                            "contributorOrcid": {
+                                "uri": null,
+                                "path": null,
+                                "host": null
+                            },
+                            "creditName": {
+                                "content": "L. Cort\u00e9z"
+                            },
+                            "contributorEmail": null,
+                            "contributorAttributes": null,
+                            "rolesAndSequences": [
+                                {
+                                    "contributorSequence": null,
+                                    "contributorRole": "author"
+                                }
+                            ]
+                        },
+                        {
+                            "contributorOrcid": {
+                                "uri": null,
+                                "path": null,
+                                "host": null
+                            },
+                            "creditName": {
+                                "content": "M. More"
+                            },
+                            "contributorEmail": null,
+                            "contributorAttributes": null,
+                            "rolesAndSequences": [
+                                {
+                                    "contributorSequence": null,
+                                    "contributorRole": "author"
+                                }
+                            ]
+                        },
+                        {
+                            "contributorOrcid": {
+                                "uri": null,
+                                "path": null,
+                                "host": null
+                            },
+                            "creditName": {
+                                "content": "E. Arag\u00f3n"
+                            },
+                            "contributorEmail": null,
+                            "contributorAttributes": null,
+                            "rolesAndSequences": [
+                                {
+                                    "contributorSequence": null,
+                                    "contributorRole": "author"
+                                }
+                            ]
+                        },
+                        {
+                            "contributorOrcid": {
+                                "uri": null,
+                                "path": null,
+                                "host": null
+                            },
+                            "creditName": {
+                                "content": "R. Mena"
+                            },
+                            "contributorEmail": null,
+                            "contributorAttributes": null,
+                            "rolesAndSequences": [
+                                {
+                                    "contributorSequence": null,
+                                    "contributorRole": "author"
+                                }
+                            ]
+                        },
+                        {
+                            "contributorOrcid": {
+                                "uri": null,
+                                "path": null,
+                                "host": null
+                            },
+                            "creditName": {
+                                "content": "G. J. Quisirumbay"
+                            },
+                            "contributorEmail": null,
+                            "contributorAttributes": null,
+                            "rolesAndSequences": [
+                                {
+                                    "contributorSequence": null,
+                                    "contributorRole": "author"
+                                }
+                            ]
+                        }
+                    ],
+                    "numberOfContributors": 5,
+                    "workExternalIdentifiers": [
+                        {
+                            "errors": [],
+                            "externalIdentifierId": {
+                                "errors": [],
+                                "value": "10.30972/vet.3326190",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "externalIdentifierType": {
+                                "errors": [],
+                                "value": "doi",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "url": {
+                                "errors": [],
+                                "value": "https://doi.org/10.30972/vet.3326190",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "relationship": {
+                                "errors": [],
+                                "value": "self",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "normalized": {
+                                "errors": [],
+                                "value": "10.30972/vet.3326190",
+                                "required": false,
+                                "getRequiredMessage": null
+                            },
+                            "normalizedUrl": {
+                                "errors": [],
+                                "value": "https://doi.org/10.30972/vet.3326190",
+                                "required": false,
+                                "getRequiredMessage": null
+                            }
+                        },
+                        {
+                            "errors": [],
+                            "externalIdentifierId": {
+                                "errors": [],
+                                "value": "1669-6840",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "externalIdentifierType": {
+                                "errors": [],
+                                "value": "issn",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "url": {
+                                "errors": [],
+                                "value": "https://portal.issn.org/resource/ISSN/1669-6840",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "relationship": {
+                                "errors": [],
+                                "value": "part-of",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "normalized": {
+                                "errors": [],
+                                "value": "1669-6840",
+                                "required": false,
+                                "getRequiredMessage": null
+                            },
+                            "normalizedUrl": {
+                                "errors": [],
+                                "value": "https://portal.issn.org/resource/ISSN/1669-6840",
+                                "required": false,
+                                "getRequiredMessage": null
+                            }
+                        },
+                        {
+                            "errors": [],
+                            "externalIdentifierId": {
+                                "errors": [],
+                                "value": "1668-4834",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "externalIdentifierType": {
+                                "errors": [],
+                                "value": "issn",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "url": {
+                                "errors": [],
+                                "value": "https://portal.issn.org/resource/ISSN/1668-4834",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "relationship": {
+                                "errors": [],
+                                "value": "part-of",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "normalized": {
+                                "errors": [],
+                                "value": "1668-4834",
+                                "required": false,
+                                "getRequiredMessage": null
+                            },
+                            "normalizedUrl": {
+                                "errors": [],
+                                "value": "https://portal.issn.org/resource/ISSN/1668-4834",
+                                "required": false,
+                                "getRequiredMessage": null
+                            }
+                        }
+                    ],
+                    "source": "0000-0001-8677-993X",
+                    "sourceName": "Manuel More",
+                    "assertionOriginOrcid": null,
+                    "assertionOriginClientId": null,
+                    "assertionOriginName": null,
+                    "title": {
+                        "errors": [],
+                        "value": "Suplementaci\u00f3n de glutamina sobre el desempe\u00f1o productivo y variables bioqu\u00edmicas en lechones destetados",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "subtitle": null,
+                    "translatedTitle": null,
+                    "workCategory": null,
+                    "workType": {
+                        "errors": [],
+                        "value": "journal-article",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "dateSortString": null,
+                    "createdDate": {
+                        "errors": [],
+                        "month": "3",
+                        "day": "10",
+                        "year": "2023",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "lastModified": {
+                        "errors": [],
+                        "month": "3",
+                        "day": "10",
+                        "year": "2023",
+                        "required": true,
+                        "getRequiredMessage": null
+                    }
+                }
+            ]
+        },
+        {
+            "activePutCode": 121278658,
+            "defaultPutCode": 121278658,
+            "groupId": 5,
+            "activeVisibility": "PUBLIC",
+            "userVersionPresent": true,
+            "externalIdentifiers": [
+                {
+                    "errors": [],
+                    "externalIdentifierId": {
+                        "errors": [],
+                        "value": "10.29166/siembra.v9i2.3991",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "externalIdentifierType": {
+                        "errors": [],
+                        "value": "doi",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "url": {
+                        "errors": [],
+                        "value": "https://doi.org/10.29166/siembra.v9i2.3991",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "relationship": {
+                        "errors": [],
+                        "value": "self",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "normalized": {
+                        "errors": [],
+                        "value": "10.29166/siembra.v9i2.3991",
+                        "required": false,
+                        "getRequiredMessage": null
+                    },
+                    "normalizedUrl": {
+                        "errors": [],
+                        "value": "https://doi.org/10.29166/siembra.v9i2.3991",
+                        "required": false,
+                        "getRequiredMessage": null
+                    }
+                }
+            ],
+            "works": [
+                {
+                    "visibility": {
+                        "errors": [],
+                        "required": true,
+                        "getRequiredMessage": null,
+                        "visibility": "PUBLIC"
+                    },
+                    "errors": [],
+                    "publicationDate": {
+                        "errors": [],
+                        "month": "10",
+                        "day": "21",
+                        "year": "2022",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "putCode": {
+                        "errors": [],
+                        "value": "121278658",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "shortDescription": null,
+                    "url": null,
+                    "journalTitle": {
+                        "errors": [],
+                        "value": "Siembra",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "languageCode": null,
+                    "languageName": null,
+                    "citation": null,
+                    "countryCode": null,
+                    "countryName": null,
+                    "contributors": null,
+                    "contributorsGroupedByOrcid": [
+                        {
+                            "contributorOrcid": {
+                                "uri": "https://orcid.org/0000-0001-8677-993X",
+                                "path": "0000-0001-8677-993X",
+                                "host": null
+                            },
+                            "creditName": {
+                                "content": "Manuel More"
+                            },
+                            "contributorEmail": null,
+                            "contributorAttributes": null,
+                            "rolesAndSequences": []
+                        }
+                    ],
+                    "numberOfContributors": 1,
+                    "workExternalIdentifiers": [
+                        {
+                            "errors": [],
+                            "externalIdentifierId": {
+                                "errors": [],
+                                "value": "10.29166/siembra.v9i2.3991",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "externalIdentifierType": {
+                                "errors": [],
+                                "value": "doi",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "url": {
+                                "errors": [],
+                                "value": "https://doi.org/10.29166/siembra.v9i2.3991",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "relationship": {
+                                "errors": [],
+                                "value": "self",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "normalized": {
+                                "errors": [],
+                                "value": "10.29166/siembra.v9i2.3991",
+                                "required": false,
+                                "getRequiredMessage": null
+                            },
+                            "normalizedUrl": {
+                                "errors": [],
+                                "value": "https://doi.org/10.29166/siembra.v9i2.3991",
+                                "required": false,
+                                "getRequiredMessage": null
+                            }
+                        },
+                        {
+                            "errors": [],
+                            "externalIdentifierId": {
+                                "errors": [],
+                                "value": "2477-8850",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "externalIdentifierType": {
+                                "errors": [],
+                                "value": "issn",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "url": {
+                                "errors": [],
+                                "value": "https://portal.issn.org/resource/ISSN/2477-8850",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "relationship": {
+                                "errors": [],
+                                "value": "part-of",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "normalized": {
+                                "errors": [],
+                                "value": "2477-8850",
+                                "required": false,
+                                "getRequiredMessage": null
+                            },
+                            "normalizedUrl": {
+                                "errors": [],
+                                "value": "https://portal.issn.org/resource/ISSN/2477-8850",
+                                "required": false,
+                                "getRequiredMessage": null
+                            }
+                        },
+                        {
+                            "errors": [],
+                            "externalIdentifierId": {
+                                "errors": [],
+                                "value": "1390-8928",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "externalIdentifierType": {
+                                "errors": [],
+                                "value": "issn",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "url": {
+                                "errors": [],
+                                "value": "https://portal.issn.org/resource/ISSN/1390-8928",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "relationship": {
+                                "errors": [],
+                                "value": "part-of",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "normalized": {
+                                "errors": [],
+                                "value": "1390-8928",
+                                "required": false,
+                                "getRequiredMessage": null
+                            },
+                            "normalizedUrl": {
+                                "errors": [],
+                                "value": "https://portal.issn.org/resource/ISSN/1390-8928",
+                                "required": false,
+                                "getRequiredMessage": null
+                            }
+                        }
+                    ],
+                    "source": "0000-0001-8677-993X",
+                    "sourceName": "Manuel More",
+                    "assertionOriginOrcid": null,
+                    "assertionOriginClientId": null,
+                    "assertionOriginName": null,
+                    "title": {
+                        "errors": [],
+                        "value": "Evaluaci\u00f3n de la suplementaci\u00f3n de amino\u00e1cidos ramificados sobre el desempe\u00f1o productivo y variables bioqu\u00edmicas en lechones destetados",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "subtitle": null,
+                    "translatedTitle": null,
+                    "workCategory": null,
+                    "workType": {
+                        "errors": [],
+                        "value": "journal-article",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "dateSortString": null,
+                    "createdDate": {
+                        "errors": [],
+                        "month": "10",
+                        "day": "22",
+                        "year": "2022",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "lastModified": {
+                        "errors": [],
+                        "month": "10",
+                        "day": "22",
+                        "year": "2022",
+                        "required": true,
+                        "getRequiredMessage": null
+                    }
+                }
+            ]
+        },
+        {
+            "activePutCode": 104459117,
+            "defaultPutCode": 104459117,
+            "groupId": 6,
+            "activeVisibility": "PUBLIC",
+            "userVersionPresent": true,
+            "externalIdentifiers": [
+                {
+                    "errors": [],
+                    "externalIdentifierId": {
+                        "errors": [],
+                        "value": "10.30972/vet.3225749",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "externalIdentifierType": {
+                        "errors": [],
+                        "value": "doi",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "url": {
+                        "errors": [],
+                        "value": "https://doi.org/10.30972/vet.3225749",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "relationship": {
+                        "errors": [],
+                        "value": "self",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "normalized": {
+                        "errors": [],
+                        "value": "10.30972/vet.3225749",
+                        "required": false,
+                        "getRequiredMessage": null
+                    },
+                    "normalizedUrl": {
+                        "errors": [],
+                        "value": "https://doi.org/10.30972/vet.3225749",
+                        "required": false,
+                        "getRequiredMessage": null
+                    }
+                }
+            ],
+            "works": [
+                {
+                    "visibility": {
+                        "errors": [],
+                        "required": true,
+                        "getRequiredMessage": null,
+                        "visibility": "PUBLIC"
+                    },
+                    "errors": [],
+                    "publicationDate": {
+                        "errors": [],
+                        "month": "12",
+                        "day": "01",
+                        "year": "2021",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "putCode": {
+                        "errors": [],
+                        "value": "104459117",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "shortDescription": null,
+                    "url": null,
+                    "journalTitle": {
+                        "errors": [],
+                        "value": "Revista Veterinaria",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "languageCode": null,
+                    "languageName": null,
+                    "citation": null,
+                    "countryCode": null,
+                    "countryName": null,
+                    "contributors": null,
+                    "contributorsGroupedByOrcid": [],
+                    "numberOfContributors": 0,
+                    "workExternalIdentifiers": [
+                        {
+                            "errors": [],
+                            "externalIdentifierId": {
+                                "errors": [],
+                                "value": "10.30972/vet.3225749",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "externalIdentifierType": {
+                                "errors": [],
+                                "value": "doi",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "url": {
+                                "errors": [],
+                                "value": "https://doi.org/10.30972/vet.3225749",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "relationship": {
+                                "errors": [],
+                                "value": "self",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "normalized": {
+                                "errors": [],
+                                "value": "10.30972/vet.3225749",
+                                "required": false,
+                                "getRequiredMessage": null
+                            },
+                            "normalizedUrl": {
+                                "errors": [],
+                                "value": "https://doi.org/10.30972/vet.3225749",
+                                "required": false,
+                                "getRequiredMessage": null
+                            }
+                        },
+                        {
+                            "errors": [],
+                            "externalIdentifierId": {
+                                "errors": [],
+                                "value": "1669-6840",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "externalIdentifierType": {
+                                "errors": [],
+                                "value": "issn",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "url": {
+                                "errors": [],
+                                "value": "https://portal.issn.org/resource/ISSN/1669-6840",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "relationship": {
+                                "errors": [],
+                                "value": "part-of",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "normalized": {
+                                "errors": [],
+                                "value": "1669-6840",
+                                "required": false,
+                                "getRequiredMessage": null
+                            },
+                            "normalizedUrl": {
+                                "errors": [],
+                                "value": "https://portal.issn.org/resource/ISSN/1669-6840",
+                                "required": false,
+                                "getRequiredMessage": null
+                            }
+                        },
+                        {
+                            "errors": [],
+                            "externalIdentifierId": {
+                                "errors": [],
+                                "value": "1668-4834",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "externalIdentifierType": {
+                                "errors": [],
+                                "value": "issn",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "url": {
+                                "errors": [],
+                                "value": "https://portal.issn.org/resource/ISSN/1668-4834",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "relationship": {
+                                "errors": [],
+                                "value": "part-of",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "normalized": {
+                                "errors": [],
+                                "value": "1668-4834",
+                                "required": false,
+                                "getRequiredMessage": null
+                            },
+                            "normalizedUrl": {
+                                "errors": [],
+                                "value": "https://portal.issn.org/resource/ISSN/1668-4834",
+                                "required": false,
+                                "getRequiredMessage": null
+                            }
+                        }
+                    ],
+                    "source": "0000-0001-8677-993X",
+                    "sourceName": "Manuel More",
+                    "assertionOriginOrcid": null,
+                    "assertionOriginClientId": null,
+                    "assertionOriginName": null,
+                    "title": {
+                        "errors": [],
+                        "value": "Evaluaci\u00f3n de la suplementaci\u00f3n de creatina sobre el desempe\u00f1o productivo y variables bioqu\u00edmicas en lechones al destete",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "subtitle": null,
+                    "translatedTitle": null,
+                    "workCategory": null,
+                    "workType": {
+                        "errors": [],
+                        "value": "journal-article",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "dateSortString": null,
+                    "createdDate": {
+                        "errors": [],
+                        "month": "12",
+                        "day": "9",
+                        "year": "2021",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "lastModified": {
+                        "errors": [],
+                        "month": "12",
+                        "day": "9",
+                        "year": "2021",
+                        "required": true,
+                        "getRequiredMessage": null
+                    }
+                }
+            ]
+        },
+        {
+            "activePutCode": 89121901,
+            "defaultPutCode": 89121901,
+            "groupId": 7,
+            "activeVisibility": "PUBLIC",
+            "userVersionPresent": false,
+            "externalIdentifiers": [
+                {
+                    "errors": [],
+                    "externalIdentifierId": {
+                        "errors": [],
+                        "value": "10.3390/genes12020291",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "externalIdentifierType": {
+                        "errors": [],
+                        "value": "doi",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "url": {
+                        "errors": [],
+                        "value": "https://doi.org/10.3390/genes12020291",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "relationship": {
+                        "errors": [],
+                        "value": "self",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "normalized": {
+                        "errors": [],
+                        "value": "10.3390/genes12020291",
+                        "required": false,
+                        "getRequiredMessage": null
+                    },
+                    "normalizedUrl": {
+                        "errors": [],
+                        "value": "https://doi.org/10.3390/genes12020291",
+                        "required": false,
+                        "getRequiredMessage": null
+                    }
+                }
+            ],
+            "works": [
+                {
+                    "visibility": {
+                        "errors": [],
+                        "required": true,
+                        "getRequiredMessage": null,
+                        "visibility": "PUBLIC"
+                    },
+                    "errors": [],
+                    "publicationDate": {
+                        "errors": [],
+                        "month": "02",
+                        "day": "19",
+                        "year": "2021",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "putCode": {
+                        "errors": [],
+                        "value": "89121901",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "shortDescription": null,
+                    "url": null,
+                    "journalTitle": {
+                        "errors": [],
+                        "value": "Genes",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "languageCode": null,
+                    "languageName": null,
+                    "citation": null,
+                    "countryCode": null,
+                    "countryName": null,
+                    "contributors": null,
+                    "contributorsGroupedByOrcid": [
+                        {
+                            "contributorOrcid": null,
+                            "creditName": {
+                                "content": "Marcos Calderon"
+                            },
+                            "contributorEmail": null,
+                            "contributorAttributes": null,
+                            "rolesAndSequences": [
+                                {
+                                    "contributorSequence": null,
+                                    "contributorRole": "author"
+                                }
+                            ]
+                        },
+                        {
+                            "contributorOrcid": null,
+                            "creditName": {
+                                "content": "Manuel J. More"
+                            },
+                            "contributorEmail": null,
+                            "contributorAttributes": null,
+                            "rolesAndSequences": [
+                                {
+                                    "contributorSequence": null,
+                                    "contributorRole": "author"
+                                }
+                            ]
+                        },
+                        {
+                            "contributorOrcid": null,
+                            "creditName": {
+                                "content": "Gustavo A. Gutierrez"
+                            },
+                            "contributorEmail": null,
+                            "contributorAttributes": null,
+                            "rolesAndSequences": [
+                                {
+                                    "contributorSequence": null,
+                                    "contributorRole": "author"
+                                }
+                            ]
+                        },
+                        {
+                            "contributorOrcid": null,
+                            "creditName": {
+                                "content": "Federico Abel Ponce de Le\u00f3n"
+                            },
+                            "contributorEmail": null,
+                            "contributorAttributes": null,
+                            "rolesAndSequences": [
+                                {
+                                    "contributorSequence": null,
+                                    "contributorRole": "author"
+                                }
+                            ]
+                        }
+                    ],
+                    "numberOfContributors": 4,
+                    "workExternalIdentifiers": [
+                        {
+                            "errors": [],
+                            "externalIdentifierId": {
+                                "errors": [],
+                                "value": "10.3390/genes12020291",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "externalIdentifierType": {
+                                "errors": [],
+                                "value": "doi",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "url": {
+                                "errors": [],
+                                "value": "https://doi.org/10.3390/genes12020291",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "relationship": {
+                                "errors": [],
+                                "value": "self",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "normalized": {
+                                "errors": [],
+                                "value": "10.3390/genes12020291",
+                                "required": false,
+                                "getRequiredMessage": null
+                            },
+                            "normalizedUrl": {
+                                "errors": [],
+                                "value": "https://doi.org/10.3390/genes12020291",
+                                "required": false,
+                                "getRequiredMessage": null
+                            }
+                        }
+                    ],
+                    "source": "0000-0001-9884-1913",
+                    "sourceName": "Crossref",
+                    "assertionOriginOrcid": null,
+                    "assertionOriginClientId": null,
+                    "assertionOriginName": null,
+                    "title": {
+                        "errors": [],
+                        "value": "Development of a 76k Alpaca (Vicugna pacos) Single Nucleotide Polymorphisms (SNPs) Microarray",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "subtitle": null,
+                    "translatedTitle": null,
+                    "workCategory": null,
+                    "workType": {
+                        "errors": [],
+                        "value": "journal-article",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "dateSortString": null,
+                    "createdDate": {
+                        "errors": [],
+                        "month": "2",
+                        "day": "20",
+                        "year": "2021",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "lastModified": {
+                        "errors": [],
+                        "month": "5",
+                        "day": "31",
+                        "year": "2022",
+                        "required": true,
+                        "getRequiredMessage": null
+                    }
+                },
+                {
+                    "visibility": {
+                        "errors": [],
+                        "required": true,
+                        "getRequiredMessage": null,
+                        "visibility": "PUBLIC"
+                    },
+                    "errors": [],
+                    "publicationDate": {
+                        "errors": [],
+                        "month": "02",
+                        "day": null,
+                        "year": "2021",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "putCode": {
+                        "errors": [],
+                        "value": "89355897",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "shortDescription": null,
+                    "url": null,
+                    "journalTitle": {
+                        "errors": [],
+                        "value": "Genes",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "languageCode": null,
+                    "languageName": null,
+                    "citation": null,
+                    "countryCode": null,
+                    "countryName": null,
+                    "contributors": null,
+                    "contributorsGroupedByOrcid": [
+                        {
+                            "contributorOrcid": {
+                                "uri": "http://orcid.org/0000-0002-5912-9103",
+                                "path": "0000-0002-5912-9103",
+                                "host": "orcid.org"
+                            },
+                            "creditName": {
+                                "content": "Marcos  CALDERON MONTES "
+                            },
+                            "contributorEmail": null,
+                            "contributorAttributes": null,
+                            "rolesAndSequences": [
+                                {
+                                    "contributorSequence": "FIRST",
+                                    "contributorRole": "author"
+                                }
+                            ]
+                        },
+                        {
+                            "contributorOrcid": {
+                                "uri": "http://orcid.org/0000-0001-8677-993X",
+                                "path": "0000-0001-8677-993X",
+                                "host": "orcid.org"
+                            },
+                            "creditName": {
+                                "content": "Manuel More"
+                            },
+                            "contributorEmail": null,
+                            "contributorAttributes": null,
+                            "rolesAndSequences": [
+                                {
+                                    "contributorSequence": "ADDITIONAL",
+                                    "contributorRole": "author"
+                                }
+                            ]
+                        },
+                        {
+                            "contributorOrcid": {
+                                "uri": "http://orcid.org/0000-0002-1896-0048",
+                                "path": "0000-0002-1896-0048",
+                                "host": "orcid.org"
+                            },
+                            "creditName": {
+                                "content": "GUSTAVO A. GUTIERREZ-REYNOSO"
+                            },
+                            "contributorEmail": null,
+                            "contributorAttributes": null,
+                            "rolesAndSequences": [
+                                {
+                                    "contributorSequence": "ADDITIONAL",
+                                    "contributorRole": "author"
+                                }
+                            ]
+                        },
+                        {
+                            "contributorOrcid": {
+                                "uri": "http://orcid.org/0000-0001-8645-553X",
+                                "path": "0000-0001-8645-553X",
+                                "host": "orcid.org"
+                            },
+                            "creditName": {
+                                "content": "Federico Abel Ponce de Le\u00f3n"
+                            },
+                            "contributorEmail": null,
+                            "contributorAttributes": null,
+                            "rolesAndSequences": [
+                                {
+                                    "contributorSequence": "ADDITIONAL",
+                                    "contributorRole": "author"
+                                }
+                            ]
+                        }
+                    ],
+                    "numberOfContributors": 4,
+                    "workExternalIdentifiers": [
+                        {
+                            "errors": [],
+                            "externalIdentifierId": {
+                                "errors": [],
+                                "value": "10.3390/genes12020291",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "externalIdentifierType": {
+                                "errors": [],
+                                "value": "doi",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "url": {
+                                "errors": [],
+                                "value": "https://doi.org/10.3390/genes12020291",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "relationship": {
+                                "errors": [],
+                                "value": "self",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "normalized": {
+                                "errors": [],
+                                "value": "10.3390/genes12020291",
+                                "required": false,
+                                "getRequiredMessage": null
+                            },
+                            "normalizedUrl": {
+                                "errors": [],
+                                "value": "https://doi.org/10.3390/genes12020291",
+                                "required": false,
+                                "getRequiredMessage": null
+                            }
+                        }
+                    ],
+                    "source": "APP-WRQOUAK78G5F7GMD",
+                    "sourceName": "Multidisciplinary Digital Publishing Institute",
+                    "assertionOriginOrcid": null,
+                    "assertionOriginClientId": null,
+                    "assertionOriginName": null,
+                    "title": {
+                        "errors": [],
+                        "value": "Development of a 76k Alpaca (<i>Vicugna pacos</i>) Single Nucleotide Polymorphisms (SNPs) Microarray",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "subtitle": null,
+                    "translatedTitle": null,
+                    "workCategory": null,
+                    "workType": {
+                        "errors": [],
+                        "value": "journal-article",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "dateSortString": null,
+                    "createdDate": {
+                        "errors": [],
+                        "month": "2",
+                        "day": "24",
+                        "year": "2021",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "lastModified": {
+                        "errors": [],
+                        "month": "5",
+                        "day": "31",
+                        "year": "2022",
+                        "required": true,
+                        "getRequiredMessage": null
+                    }
+                }
+            ]
+        },
+        {
+            "activePutCode": 80866075,
+            "defaultPutCode": 80866075,
+            "groupId": 8,
+            "activeVisibility": "PUBLIC",
+            "userVersionPresent": true,
+            "externalIdentifiers": [
+                {
+                    "errors": [],
+                    "externalIdentifierId": {
+                        "errors": [],
+                        "value": "2-s2.0-85084520743",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "externalIdentifierType": {
+                        "errors": [],
+                        "value": "eid",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "url": null,
+                    "relationship": {
+                        "errors": [],
+                        "value": "self",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "normalized": {
+                        "errors": [],
+                        "value": "2-s2.0-85084520743",
+                        "required": false,
+                        "getRequiredMessage": null
+                    },
+                    "normalizedUrl": null
+                },
+                {
+                    "errors": [],
+                    "externalIdentifierId": {
+                        "errors": [],
+                        "value": "10.3390/genes11050522",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "externalIdentifierType": {
+                        "errors": [],
+                        "value": "doi",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "url": null,
+                    "relationship": {
+                        "errors": [],
+                        "value": "self",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "normalized": {
+                        "errors": [],
+                        "value": "10.3390/genes11050522",
+                        "required": false,
+                        "getRequiredMessage": null
+                    },
+                    "normalizedUrl": {
+                        "errors": [],
+                        "value": "https://doi.org/10.3390/genes11050522",
+                        "required": false,
+                        "getRequiredMessage": null
+                    }
+                }
+            ],
+            "works": [
+                {
+                    "visibility": {
+                        "errors": [],
+                        "required": true,
+                        "getRequiredMessage": null,
+                        "visibility": "PUBLIC"
+                    },
+                    "errors": [],
+                    "publicationDate": {
+                        "errors": [],
+                        "month": null,
+                        "day": null,
+                        "year": "2020",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "putCode": {
+                        "errors": [],
+                        "value": "80866075",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "shortDescription": null,
+                    "url": null,
+                    "journalTitle": {
+                        "errors": [],
+                        "value": "Genes",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "languageCode": null,
+                    "languageName": null,
+                    "citation": null,
+                    "countryCode": null,
+                    "countryName": null,
+                    "contributors": null,
+                    "contributorsGroupedByOrcid": [
+                        {
+                            "contributorOrcid": null,
+                            "creditName": {
+                                "content": "Mendoza, M.N."
+                            },
+                            "contributorEmail": null,
+                            "contributorAttributes": null,
+                            "rolesAndSequences": []
+                        },
+                        {
+                            "contributorOrcid": null,
+                            "creditName": {
+                                "content": "Raudsepp, T."
+                            },
+                            "contributorEmail": null,
+                            "contributorAttributes": null,
+                            "rolesAndSequences": []
+                        },
+                        {
+                            "contributorOrcid": null,
+                            "creditName": {
+                                "content": "More, M.J."
+                            },
+                            "contributorEmail": null,
+                            "contributorAttributes": null,
+                            "rolesAndSequences": []
+                        },
+                        {
+                            "contributorOrcid": null,
+                            "creditName": {
+                                "content": "Guti\u00e9rrez, G.A."
+                            },
+                            "contributorEmail": null,
+                            "contributorAttributes": null,
+                            "rolesAndSequences": []
+                        },
+                        {
+                            "contributorOrcid": null,
+                            "creditName": {
+                                "content": "Abel Ponce de Le\u00f3n, F."
+                            },
+                            "contributorEmail": null,
+                            "contributorAttributes": null,
+                            "rolesAndSequences": []
+                        }
+                    ],
+                    "numberOfContributors": 5,
+                    "workExternalIdentifiers": [
+                        {
+                            "errors": [],
+                            "externalIdentifierId": {
+                                "errors": [],
+                                "value": "10.3390/genes11050522",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "externalIdentifierType": {
+                                "errors": [],
+                                "value": "doi",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "url": null,
+                            "relationship": {
+                                "errors": [],
+                                "value": "self",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "normalized": {
+                                "errors": [],
+                                "value": "10.3390/genes11050522",
+                                "required": false,
+                                "getRequiredMessage": null
+                            },
+                            "normalizedUrl": {
+                                "errors": [],
+                                "value": "https://doi.org/10.3390/genes11050522",
+                                "required": false,
+                                "getRequiredMessage": null
+                            }
+                        },
+                        {
+                            "errors": [],
+                            "externalIdentifierId": {
+                                "errors": [],
+                                "value": "2-s2.0-85084520743",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "externalIdentifierType": {
+                                "errors": [],
+                                "value": "eid",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "url": null,
+                            "relationship": {
+                                "errors": [],
+                                "value": "self",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "normalized": {
+                                "errors": [],
+                                "value": "2-s2.0-85084520743",
+                                "required": false,
+                                "getRequiredMessage": null
+                            },
+                            "normalizedUrl": null
+                        },
+                        {
+                            "errors": [],
+                            "externalIdentifierId": {
+                                "errors": [],
+                                "value": "20734425",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "externalIdentifierType": {
+                                "errors": [],
+                                "value": "isbn",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "url": null,
+                            "relationship": {
+                                "errors": [],
+                                "value": "part-of",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "normalized": null,
+                            "normalizedUrl": null
+                        }
+                    ],
+                    "source": "0000-0002-5982-8983",
+                    "sourceName": "Scopus - Elsevier",
+                    "assertionOriginOrcid": "0000-0001-8677-993X",
+                    "assertionOriginClientId": null,
+                    "assertionOriginName": "Manuel More",
+                    "title": {
+                        "errors": [],
+                        "value": "Cytogenetic mapping of 35 new markers in the alpaca (V Icugna Pacos)",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "subtitle": null,
+                    "translatedTitle": null,
+                    "workCategory": null,
+                    "workType": {
+                        "errors": [],
+                        "value": "journal-article",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "dateSortString": null,
+                    "createdDate": {
+                        "errors": [],
+                        "month": "9",
+                        "day": "24",
+                        "year": "2020",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "lastModified": {
+                        "errors": [],
+                        "month": "5",
+                        "day": "31",
+                        "year": "2022",
+                        "required": true,
+                        "getRequiredMessage": null
+                    }
+                },
+                {
+                    "visibility": {
+                        "errors": [],
+                        "required": true,
+                        "getRequiredMessage": null,
+                        "visibility": "PUBLIC"
+                    },
+                    "errors": [],
+                    "publicationDate": {
+                        "errors": [],
+                        "month": "05",
+                        "day": "08",
+                        "year": "2020",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "putCode": {
+                        "errors": [],
+                        "value": "73592902",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "shortDescription": null,
+                    "url": null,
+                    "journalTitle": {
+                        "errors": [],
+                        "value": "Genes",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "languageCode": null,
+                    "languageName": null,
+                    "citation": null,
+                    "countryCode": null,
+                    "countryName": null,
+                    "contributors": null,
+                    "contributorsGroupedByOrcid": [],
+                    "numberOfContributors": 0,
+                    "workExternalIdentifiers": [
+                        {
+                            "errors": [],
+                            "externalIdentifierId": {
+                                "errors": [],
+                                "value": "10.3390/genes11050522",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "externalIdentifierType": {
+                                "errors": [],
+                                "value": "doi",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "url": {
+                                "errors": [],
+                                "value": "https://doi.org/10.3390/genes11050522",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "relationship": {
+                                "errors": [],
+                                "value": "self",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "normalized": {
+                                "errors": [],
+                                "value": "10.3390/genes11050522",
+                                "required": false,
+                                "getRequiredMessage": null
+                            },
+                            "normalizedUrl": {
+                                "errors": [],
+                                "value": "https://doi.org/10.3390/genes11050522",
+                                "required": false,
+                                "getRequiredMessage": null
+                            }
+                        },
+                        {
+                            "errors": [],
+                            "externalIdentifierId": {
+                                "errors": [],
+                                "value": "2073-4425",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "externalIdentifierType": {
+                                "errors": [],
+                                "value": "issn",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "url": {
+                                "errors": [],
+                                "value": "https://portal.issn.org/resource/ISSN/2073-4425",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "relationship": {
+                                "errors": [],
+                                "value": "part-of",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "normalized": {
+                                "errors": [],
+                                "value": "2073-4425",
+                                "required": false,
+                                "getRequiredMessage": null
+                            },
+                            "normalizedUrl": {
+                                "errors": [],
+                                "value": "https://portal.issn.org/resource/ISSN/2073-4425",
+                                "required": false,
+                                "getRequiredMessage": null
+                            }
+                        }
+                    ],
+                    "source": "0000-0001-8677-993X",
+                    "sourceName": "Manuel More",
+                    "assertionOriginOrcid": null,
+                    "assertionOriginClientId": null,
+                    "assertionOriginName": null,
+                    "title": {
+                        "errors": [],
+                        "value": "Cytogenetic Mapping of 35 New Markers in the Alpaca (Vicugna pacos)",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "subtitle": null,
+                    "translatedTitle": null,
+                    "workCategory": null,
+                    "workType": {
+                        "errors": [],
+                        "value": "journal-article",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "dateSortString": null,
+                    "createdDate": {
+                        "errors": [],
+                        "month": "5",
+                        "day": "8",
+                        "year": "2020",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "lastModified": {
+                        "errors": [],
+                        "month": "5",
+                        "day": "8",
+                        "year": "2020",
+                        "required": true,
+                        "getRequiredMessage": null
+                    }
+                }
+            ]
+        },
+        {
+            "activePutCode": 87789087,
+            "defaultPutCode": 87789087,
+            "groupId": 9,
+            "activeVisibility": "PUBLIC",
+            "userVersionPresent": true,
+            "externalIdentifiers": [
+                {
+                    "errors": [],
+                    "externalIdentifierId": {
+                        "errors": [],
+                        "value": "10.15381/rivep.v31i4.17519",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "externalIdentifierType": {
+                        "errors": [],
+                        "value": "doi",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "url": {
+                        "errors": [],
+                        "value": "https://doi.org/10.15381/rivep.v31i4.17519",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "relationship": {
+                        "errors": [],
+                        "value": "self",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "normalized": {
+                        "errors": [],
+                        "value": "10.15381/rivep.v31i4.17519",
+                        "required": false,
+                        "getRequiredMessage": null
+                    },
+                    "normalizedUrl": {
+                        "errors": [],
+                        "value": "https://doi.org/10.15381/rivep.v31i4.17519",
+                        "required": false,
+                        "getRequiredMessage": null
+                    }
+                }
+            ],
+            "works": [
+                {
+                    "visibility": {
+                        "errors": [],
+                        "required": true,
+                        "getRequiredMessage": null,
+                        "visibility": "PUBLIC"
+                    },
+                    "errors": [],
+                    "publicationDate": {
+                        "errors": [],
+                        "month": "12",
+                        "day": "21",
+                        "year": "2020",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "putCode": {
+                        "errors": [],
+                        "value": "87789087",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "shortDescription": null,
+                    "url": null,
+                    "journalTitle": {
+                        "errors": [],
+                        "value": "Revista De Investigaciones Veterinarias Del Per\u00fa",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "languageCode": null,
+                    "languageName": null,
+                    "citation": null,
+                    "countryCode": null,
+                    "countryName": null,
+                    "contributors": null,
+                    "contributorsGroupedByOrcid": [],
+                    "numberOfContributors": 0,
+                    "workExternalIdentifiers": [
+                        {
+                            "errors": [],
+                            "externalIdentifierId": {
+                                "errors": [],
+                                "value": "10.15381/rivep.v31i4.17519",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "externalIdentifierType": {
+                                "errors": [],
+                                "value": "doi",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "url": {
+                                "errors": [],
+                                "value": "https://doi.org/10.15381/rivep.v31i4.17519",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "relationship": {
+                                "errors": [],
+                                "value": "self",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "normalized": {
+                                "errors": [],
+                                "value": "10.15381/rivep.v31i4.17519",
+                                "required": false,
+                                "getRequiredMessage": null
+                            },
+                            "normalizedUrl": {
+                                "errors": [],
+                                "value": "https://doi.org/10.15381/rivep.v31i4.17519",
+                                "required": false,
+                                "getRequiredMessage": null
+                            }
+                        }
+                    ],
+                    "source": "0000-0001-8677-993X",
+                    "sourceName": "Manuel More",
+                    "assertionOriginOrcid": null,
+                    "assertionOriginClientId": null,
+                    "assertionOriginName": null,
+                    "title": {
+                        "errors": [],
+                        "value": "Estimaci\u00f3n del valor gen\u00e9tico predicho en bovinos lecheros mestizos en un hato en la sierra alta de Chimborazo, Ecuador",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "subtitle": null,
+                    "translatedTitle": null,
+                    "workCategory": null,
+                    "workType": {
+                        "errors": [],
+                        "value": "journal-article",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "dateSortString": null,
+                    "createdDate": {
+                        "errors": [],
+                        "month": "1",
+                        "day": "30",
+                        "year": "2021",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "lastModified": {
+                        "errors": [],
+                        "month": "1",
+                        "day": "30",
+                        "year": "2021",
+                        "required": true,
+                        "getRequiredMessage": null
+                    }
+                }
+            ]
+        },
+        {
+            "activePutCode": 80866074,
+            "defaultPutCode": 80866074,
+            "groupId": 10,
+            "activeVisibility": "PUBLIC",
+            "userVersionPresent": true,
+            "externalIdentifiers": [
+                {
+                    "errors": [],
+                    "externalIdentifierId": {
+                        "errors": [],
+                        "value": "2-s2.0-85067934964",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "externalIdentifierType": {
+                        "errors": [],
+                        "value": "eid",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "url": null,
+                    "relationship": {
+                        "errors": [],
+                        "value": "self",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "normalized": {
+                        "errors": [],
+                        "value": "2-s2.0-85067934964",
+                        "required": false,
+                        "getRequiredMessage": null
+                    },
+                    "normalizedUrl": null
+                },
+                {
+                    "errors": [],
+                    "externalIdentifierId": {
+                        "errors": [],
+                        "value": "10.3389/fgene.2019.00361",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "externalIdentifierType": {
+                        "errors": [],
+                        "value": "doi",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "url": null,
+                    "relationship": {
+                        "errors": [],
+                        "value": "self",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "normalized": {
+                        "errors": [],
+                        "value": "10.3389/fgene.2019.00361",
+                        "required": false,
+                        "getRequiredMessage": null
+                    },
+                    "normalizedUrl": {
+                        "errors": [],
+                        "value": "https://doi.org/10.3389/fgene.2019.00361",
+                        "required": false,
+                        "getRequiredMessage": null
+                    }
+                }
+            ],
+            "works": [
+                {
+                    "visibility": {
+                        "errors": [],
+                        "required": true,
+                        "getRequiredMessage": null,
+                        "visibility": "PUBLIC"
+                    },
+                    "errors": [],
+                    "publicationDate": {
+                        "errors": [],
+                        "month": null,
+                        "day": null,
+                        "year": "2019",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "putCode": {
+                        "errors": [],
+                        "value": "80866074",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "shortDescription": null,
+                    "url": null,
+                    "journalTitle": {
+                        "errors": [],
+                        "value": "Frontiers in Genetics",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "languageCode": null,
+                    "languageName": null,
+                    "citation": null,
+                    "countryCode": null,
+                    "countryName": null,
+                    "contributors": null,
+                    "contributorsGroupedByOrcid": [
+                        {
+                            "contributorOrcid": null,
+                            "creditName": {
+                                "content": "More, M."
+                            },
+                            "contributorEmail": null,
+                            "contributorAttributes": null,
+                            "rolesAndSequences": []
+                        },
+                        {
+                            "contributorOrcid": null,
+                            "creditName": {
+                                "content": "Guti\u00e9rrez, G."
+                            },
+                            "contributorEmail": null,
+                            "contributorAttributes": null,
+                            "rolesAndSequences": []
+                        },
+                        {
+                            "contributorOrcid": null,
+                            "creditName": {
+                                "content": "Rothschild, M."
+                            },
+                            "contributorEmail": null,
+                            "contributorAttributes": null,
+                            "rolesAndSequences": []
+                        },
+                        {
+                            "contributorOrcid": null,
+                            "creditName": {
+                                "content": "Bertolini, F."
+                            },
+                            "contributorEmail": null,
+                            "contributorAttributes": null,
+                            "rolesAndSequences": []
+                        },
+                        {
+                            "contributorOrcid": null,
+                            "creditName": {
+                                "content": "Abel Ponce De Le\u00f3n, F."
+                            },
+                            "contributorEmail": null,
+                            "contributorAttributes": null,
+                            "rolesAndSequences": []
+                        }
+                    ],
+                    "numberOfContributors": 5,
+                    "workExternalIdentifiers": [
+                        {
+                            "errors": [],
+                            "externalIdentifierId": {
+                                "errors": [],
+                                "value": "10.3389/fgene.2019.00361",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "externalIdentifierType": {
+                                "errors": [],
+                                "value": "doi",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "url": null,
+                            "relationship": {
+                                "errors": [],
+                                "value": "self",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "normalized": {
+                                "errors": [],
+                                "value": "10.3389/fgene.2019.00361",
+                                "required": false,
+                                "getRequiredMessage": null
+                            },
+                            "normalizedUrl": {
+                                "errors": [],
+                                "value": "https://doi.org/10.3389/fgene.2019.00361",
+                                "required": false,
+                                "getRequiredMessage": null
+                            }
+                        },
+                        {
+                            "errors": [],
+                            "externalIdentifierId": {
+                                "errors": [],
+                                "value": "2-s2.0-85067934964",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "externalIdentifierType": {
+                                "errors": [],
+                                "value": "eid",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "url": null,
+                            "relationship": {
+                                "errors": [],
+                                "value": "self",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "normalized": {
+                                "errors": [],
+                                "value": "2-s2.0-85067934964",
+                                "required": false,
+                                "getRequiredMessage": null
+                            },
+                            "normalizedUrl": null
+                        },
+                        {
+                            "errors": [],
+                            "externalIdentifierId": {
+                                "errors": [],
+                                "value": "16648021",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "externalIdentifierType": {
+                                "errors": [],
+                                "value": "isbn",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "url": null,
+                            "relationship": {
+                                "errors": [],
+                                "value": "part-of",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "normalized": null,
+                            "normalizedUrl": null
+                        }
+                    ],
+                    "source": "0000-0002-5982-8983",
+                    "sourceName": "Scopus - Elsevier",
+                    "assertionOriginOrcid": "0000-0001-8677-993X",
+                    "assertionOriginClientId": null,
+                    "assertionOriginName": "Manuel More",
+                    "title": {
+                        "errors": [],
+                        "value": "Evaluation of SNP genotyping in alpacas using the bovine HD genotyping beadchip",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "subtitle": null,
+                    "translatedTitle": null,
+                    "workCategory": null,
+                    "workType": {
+                        "errors": [],
+                        "value": "journal-article",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "dateSortString": null,
+                    "createdDate": {
+                        "errors": [],
+                        "month": "9",
+                        "day": "24",
+                        "year": "2020",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "lastModified": {
+                        "errors": [],
+                        "month": "5",
+                        "day": "31",
+                        "year": "2022",
+                        "required": true,
+                        "getRequiredMessage": null
+                    }
+                },
+                {
+                    "visibility": {
+                        "errors": [],
+                        "required": true,
+                        "getRequiredMessage": null,
+                        "visibility": "PUBLIC"
+                    },
+                    "errors": [],
+                    "publicationDate": {
+                        "errors": [],
+                        "month": "04",
+                        "day": "24",
+                        "year": "2019",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "putCode": {
+                        "errors": [],
+                        "value": "56851255",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "shortDescription": null,
+                    "url": null,
+                    "journalTitle": {
+                        "errors": [],
+                        "value": "Frontiers in Genetics",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "languageCode": null,
+                    "languageName": null,
+                    "citation": null,
+                    "countryCode": null,
+                    "countryName": null,
+                    "contributors": null,
+                    "contributorsGroupedByOrcid": [],
+                    "numberOfContributors": 0,
+                    "workExternalIdentifiers": [
+                        {
+                            "errors": [],
+                            "externalIdentifierId": {
+                                "errors": [],
+                                "value": "10.3389/fgene.2019.00361",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "externalIdentifierType": {
+                                "errors": [],
+                                "value": "doi",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "url": {
+                                "errors": [],
+                                "value": "https://doi.org/10.3389/fgene.2019.00361",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "relationship": {
+                                "errors": [],
+                                "value": "self",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "normalized": {
+                                "errors": [],
+                                "value": "10.3389/fgene.2019.00361",
+                                "required": false,
+                                "getRequiredMessage": null
+                            },
+                            "normalizedUrl": {
+                                "errors": [],
+                                "value": "https://doi.org/10.3389/fgene.2019.00361",
+                                "required": false,
+                                "getRequiredMessage": null
+                            }
+                        },
+                        {
+                            "errors": [],
+                            "externalIdentifierId": {
+                                "errors": [],
+                                "value": "1664-8021",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "externalIdentifierType": {
+                                "errors": [],
+                                "value": "issn",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "url": null,
+                            "relationship": {
+                                "errors": [],
+                                "value": "part-of",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "normalized": {
+                                "errors": [],
+                                "value": "1664-8021",
+                                "required": false,
+                                "getRequiredMessage": null
+                            },
+                            "normalizedUrl": {
+                                "errors": [],
+                                "value": "https://portal.issn.org/resource/ISSN/1664-8021",
+                                "required": false,
+                                "getRequiredMessage": null
+                            }
+                        }
+                    ],
+                    "source": "0000-0001-8677-993X",
+                    "sourceName": "Manuel More",
+                    "assertionOriginOrcid": null,
+                    "assertionOriginClientId": null,
+                    "assertionOriginName": null,
+                    "title": {
+                        "errors": [],
+                        "value": "Evaluation of SNP Genotyping in Alpacas Using the Bovine HD Genotyping Beadchip",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "subtitle": null,
+                    "translatedTitle": null,
+                    "workCategory": null,
+                    "workType": {
+                        "errors": [],
+                        "value": "journal-article",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "dateSortString": null,
+                    "createdDate": {
+                        "errors": [],
+                        "month": "4",
+                        "day": "27",
+                        "year": "2019",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "lastModified": {
+                        "errors": [],
+                        "month": "4",
+                        "day": "27",
+                        "year": "2019",
+                        "required": true,
+                        "getRequiredMessage": null
+                    }
+                }
+            ]
+        },
+        {
+            "activePutCode": 56851232,
+            "defaultPutCode": 56851232,
+            "groupId": 11,
+            "activeVisibility": "PUBLIC",
+            "userVersionPresent": false,
+            "externalIdentifiers": [
+                {
+                    "errors": [],
+                    "externalIdentifierId": {
+                        "errors": [],
+                        "value": "10.15381/rivep.v29i4.15189",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "externalIdentifierType": {
+                        "errors": [],
+                        "value": "doi",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "url": null,
+                    "relationship": {
+                        "errors": [],
+                        "value": "self",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "normalized": {
+                        "errors": [],
+                        "value": "10.15381/rivep.v29i4.15189",
+                        "required": false,
+                        "getRequiredMessage": null
+                    },
+                    "normalizedUrl": {
+                        "errors": [],
+                        "value": "https://doi.org/10.15381/rivep.v29i4.15189",
+                        "required": false,
+                        "getRequiredMessage": null
+                    }
+                },
+                {
+                    "errors": [],
+                    "externalIdentifierId": {
+                        "errors": [],
+                        "value": "2-s2.0-85060686411",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "externalIdentifierType": {
+                        "errors": [],
+                        "value": "eid",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "url": null,
+                    "relationship": {
+                        "errors": [],
+                        "value": "self",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "normalized": {
+                        "errors": [],
+                        "value": "2-s2.0-85060686411",
+                        "required": false,
+                        "getRequiredMessage": null
+                    },
+                    "normalizedUrl": null
+                }
+            ],
+            "works": [
+                {
+                    "visibility": {
+                        "errors": [],
+                        "required": true,
+                        "getRequiredMessage": null,
+                        "visibility": "PUBLIC"
+                    },
+                    "errors": [],
+                    "publicationDate": {
+                        "errors": [],
+                        "month": null,
+                        "day": null,
+                        "year": "2018",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "putCode": {
+                        "errors": [],
+                        "value": "56851232",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "shortDescription": null,
+                    "url": null,
+                    "journalTitle": {
+                        "errors": [],
+                        "value": "Revista de Investigaciones Veterinarias del Peru",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "languageCode": null,
+                    "languageName": null,
+                    "citation": null,
+                    "countryCode": null,
+                    "countryName": null,
+                    "contributors": null,
+                    "contributorsGroupedByOrcid": [
+                        {
+                            "contributorOrcid": null,
+                            "creditName": {
+                                "content": "Puic\u00f3n, V."
+                            },
+                            "contributorEmail": null,
+                            "contributorAttributes": null,
+                            "rolesAndSequences": []
+                        },
+                        {
+                            "contributorOrcid": null,
+                            "creditName": {
+                                "content": "Ch\u00e1vez, J."
+                            },
+                            "contributorEmail": null,
+                            "contributorAttributes": null,
+                            "rolesAndSequences": []
+                        },
+                        {
+                            "contributorOrcid": null,
+                            "creditName": {
+                                "content": "Guti\u00e9rrez, G."
+                            },
+                            "contributorEmail": null,
+                            "contributorAttributes": null,
+                            "rolesAndSequences": []
+                        },
+                        {
+                            "contributorOrcid": null,
+                            "creditName": {
+                                "content": "S\u00e1nchez, D."
+                            },
+                            "contributorEmail": null,
+                            "contributorAttributes": null,
+                            "rolesAndSequences": []
+                        },
+                        {
+                            "contributorOrcid": null,
+                            "creditName": {
+                                "content": "More, M."
+                            },
+                            "contributorEmail": null,
+                            "contributorAttributes": null,
+                            "rolesAndSequences": []
+                        },
+                        {
+                            "contributorOrcid": null,
+                            "creditName": {
+                                "content": "Z\u00e1rate, D."
+                            },
+                            "contributorEmail": null,
+                            "contributorAttributes": null,
+                            "rolesAndSequences": []
+                        }
+                    ],
+                    "numberOfContributors": 6,
+                    "workExternalIdentifiers": [
+                        {
+                            "errors": [],
+                            "externalIdentifierId": {
+                                "errors": [],
+                                "value": "10.15381/rivep.v29i4.15189",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "externalIdentifierType": {
+                                "errors": [],
+                                "value": "doi",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "url": null,
+                            "relationship": {
+                                "errors": [],
+                                "value": "self",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "normalized": {
+                                "errors": [],
+                                "value": "10.15381/rivep.v29i4.15189",
+                                "required": false,
+                                "getRequiredMessage": null
+                            },
+                            "normalizedUrl": {
+                                "errors": [],
+                                "value": "https://doi.org/10.15381/rivep.v29i4.15189",
+                                "required": false,
+                                "getRequiredMessage": null
+                            }
+                        },
+                        {
+                            "errors": [],
+                            "externalIdentifierId": {
+                                "errors": [],
+                                "value": "2-s2.0-85060686411",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "externalIdentifierType": {
+                                "errors": [],
+                                "value": "eid",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "url": null,
+                            "relationship": {
+                                "errors": [],
+                                "value": "self",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "normalized": {
+                                "errors": [],
+                                "value": "2-s2.0-85060686411",
+                                "required": false,
+                                "getRequiredMessage": null
+                            },
+                            "normalizedUrl": null
+                        }
+                    ],
+                    "source": "0000-0002-5982-8983",
+                    "sourceName": "Scopus - Elsevier",
+                    "assertionOriginOrcid": "0000-0001-8677-993X",
+                    "assertionOriginClientId": null,
+                    "assertionOriginName": "Manuel More",
+                    "title": {
+                        "errors": [],
+                        "value": "Prevalence of gastrointestinal nematodes in alpacas and sheep from two communal cooperatives in the Pasco region, Peru,Prevalencia de nematodos gastrointestinales en alpacas y ovinos de dos cooperativas comunales de la regi\u00f3n Pasco, Per\u00fa",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "subtitle": null,
+                    "translatedTitle": null,
+                    "workCategory": null,
+                    "workType": {
+                        "errors": [],
+                        "value": "journal-article",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "dateSortString": null,
+                    "createdDate": {
+                        "errors": [],
+                        "month": "4",
+                        "day": "27",
+                        "year": "2019",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "lastModified": {
+                        "errors": [],
+                        "month": "5",
+                        "day": "28",
+                        "year": "2022",
+                        "required": true,
+                        "getRequiredMessage": null
+                    }
+                }
+            ]
+        }
+    ]
+}

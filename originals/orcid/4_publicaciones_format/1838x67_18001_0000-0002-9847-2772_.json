@@ -1,0 +1,2005 @@
+[{
+    "nextOffset": 50,
+    "totalGroups": 4,
+    "groups": [
+        {
+            "activePutCode": 123349877,
+            "defaultPutCode": 123349877,
+            "groupId": 0,
+            "activeVisibility": "PUBLIC",
+            "userVersionPresent": true,
+            "externalIdentifiers": [
+                {
+                    "errors": [],
+                    "externalIdentifierId": {
+                        "errors": [],
+                        "value": "10.15381/rpb.v29i4.23765",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "externalIdentifierType": {
+                        "errors": [],
+                        "value": "doi",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "url": {
+                        "errors": [],
+                        "value": "https://doi.org/10.15381/rpb.v29i4.23765",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "relationship": {
+                        "errors": [],
+                        "value": "self",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "normalized": {
+                        "errors": [],
+                        "value": "10.15381/rpb.v29i4.23765",
+                        "required": false,
+                        "getRequiredMessage": null
+                    },
+                    "normalizedUrl": {
+                        "errors": [],
+                        "value": "https://doi.org/10.15381/rpb.v29i4.23765",
+                        "required": false,
+                        "getRequiredMessage": null
+                    }
+                },
+                {
+                    "errors": [],
+                    "externalIdentifierId": {
+                        "errors": [],
+                        "value": "https://revistasinvestigacion.unmsm.edu.pe/index.php/rpb/article/view/23765",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "externalIdentifierType": {
+                        "errors": [],
+                        "value": "uri",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "url": null,
+                    "relationship": {
+                        "errors": [],
+                        "value": "self",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "normalized": {
+                        "errors": [],
+                        "value": "https://revistasinvestigacion.unmsm.edu.pe/index.php/rpb/article/view/23765",
+                        "required": false,
+                        "getRequiredMessage": null
+                    },
+                    "normalizedUrl": null
+                }
+            ],
+            "works": [
+                {
+                    "visibility": {
+                        "errors": [],
+                        "required": true,
+                        "getRequiredMessage": null,
+                        "visibility": "PUBLIC"
+                    },
+                    "errors": [],
+                    "publicationDate": {
+                        "errors": [],
+                        "month": "11",
+                        "day": "22",
+                        "year": "2022",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "putCode": {
+                        "errors": [],
+                        "value": "123349877",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "shortDescription": null,
+                    "url": null,
+                    "journalTitle": {
+                        "errors": [],
+                        "value": "Revista Peruana de Biolog\u00eda",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "languageCode": null,
+                    "languageName": null,
+                    "citation": null,
+                    "countryCode": null,
+                    "countryName": null,
+                    "contributors": null,
+                    "contributorsGroupedByOrcid": [
+                        {
+                            "contributorOrcid": {
+                                "uri": "http://orcid.org/0000-0002-9847-2772",
+                                "path": "0000-0002-9847-2772",
+                                "host": "orcid.org"
+                            },
+                            "creditName": {
+                                "content": "Leonardo Humberto Mendoza-Carbajal"
+                            },
+                            "contributorEmail": null,
+                            "contributorAttributes": null,
+                            "rolesAndSequences": [
+                                {
+                                    "contributorSequence": "FIRST",
+                                    "contributorRole": "author"
+                                }
+                            ]
+                        },
+                        {
+                            "contributorOrcid": {
+                                "uri": "http://orcid.org/0000-0002-7900-4981",
+                                "path": "0000-0002-7900-4981",
+                                "host": "orcid.org"
+                            },
+                            "creditName": {
+                                "content": "DEIFILIA CONTRERAS MORE"
+                            },
+                            "contributorEmail": null,
+                            "contributorAttributes": null,
+                            "rolesAndSequences": [
+                                {
+                                    "contributorSequence": "ADDITIONAL",
+                                    "contributorRole": "author"
+                                }
+                            ]
+                        },
+                        {
+                            "contributorOrcid": {
+                                "uri": "http://orcid.org/0000-0001-7102-0680",
+                                "path": "0000-0001-7102-0680",
+                                "host": "orcid.org"
+                            },
+                            "creditName": {
+                                "content": "Maribel Baylon Coritoma"
+                            },
+                            "contributorEmail": null,
+                            "contributorAttributes": null,
+                            "rolesAndSequences": [
+                                {
+                                    "contributorSequence": "ADDITIONAL",
+                                    "contributorRole": "author"
+                                }
+                            ]
+                        },
+                        {
+                            "contributorOrcid": {
+                                "uri": "http://orcid.org/0000-0001-5670-7791",
+                                "path": "0000-0001-5670-7791",
+                                "host": "orcid.org"
+                            },
+                            "creditName": {
+                                "content": "Anderson Dominguez-Villanueva"
+                            },
+                            "contributorEmail": null,
+                            "contributorAttributes": null,
+                            "rolesAndSequences": [
+                                {
+                                    "contributorSequence": "ADDITIONAL",
+                                    "contributorRole": "author"
+                                }
+                            ]
+                        },
+                        {
+                            "contributorOrcid": {
+                                "uri": "http://orcid.org/0000-0002-9277-1499",
+                                "path": "0000-0002-9277-1499",
+                                "host": "orcid.org"
+                            },
+                            "creditName": {
+                                "content": "Gian Anthony Salazar Torres"
+                            },
+                            "contributorEmail": null,
+                            "contributorAttributes": null,
+                            "rolesAndSequences": [
+                                {
+                                    "contributorSequence": "ADDITIONAL",
+                                    "contributorRole": "author"
+                                },
+                                {
+                                    "contributorSequence": "ADDITIONAL",
+                                    "contributorRole": "author"
+                                },
+                                {
+                                    "contributorSequence": "ADDITIONAL",
+                                    "contributorRole": "author"
+                                }
+                            ]
+                        },
+                        {
+                            "contributorOrcid": null,
+                            "creditName": {
+                                "content": "Zaida Samanez"
+                            },
+                            "contributorEmail": null,
+                            "contributorAttributes": null,
+                            "rolesAndSequences": [
+                                {
+                                    "contributorSequence": "ADDITIONAL",
+                                    "contributorRole": "author"
+                                }
+                            ]
+                        }
+                    ],
+                    "numberOfContributors": 6,
+                    "workExternalIdentifiers": [
+                        {
+                            "errors": [],
+                            "externalIdentifierId": {
+                                "errors": [],
+                                "value": "https://revistasinvestigacion.unmsm.edu.pe/index.php/rpb/article/view/23765",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "externalIdentifierType": {
+                                "errors": [],
+                                "value": "uri",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "url": null,
+                            "relationship": {
+                                "errors": [],
+                                "value": "self",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "normalized": {
+                                "errors": [],
+                                "value": "https://revistasinvestigacion.unmsm.edu.pe/index.php/rpb/article/view/23765",
+                                "required": false,
+                                "getRequiredMessage": null
+                            },
+                            "normalizedUrl": null
+                        },
+                        {
+                            "errors": [],
+                            "externalIdentifierId": {
+                                "errors": [],
+                                "value": "1727-9933",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "externalIdentifierType": {
+                                "errors": [],
+                                "value": "issn",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "url": null,
+                            "relationship": {
+                                "errors": [],
+                                "value": "part-of",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "normalized": {
+                                "errors": [],
+                                "value": "1727-9933",
+                                "required": false,
+                                "getRequiredMessage": null
+                            },
+                            "normalizedUrl": {
+                                "errors": [],
+                                "value": "https://portal.issn.org/resource/ISSN/1727-9933",
+                                "required": false,
+                                "getRequiredMessage": null
+                            }
+                        }
+                    ],
+                    "source": "APP-8SDR5NQNUSX1CZA9",
+                    "sourceName": "Universidad Nacional Mayor de San Marcos",
+                    "assertionOriginOrcid": null,
+                    "assertionOriginClientId": null,
+                    "assertionOriginName": null,
+                    "title": {
+                        "errors": [],
+                        "value": "Especies invasoras de Ceratium Schrank, 1973 (Dinophyceae: Ceratiaceae) en cuerpos de agua continentales de Per\u00fa",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "subtitle": null,
+                    "translatedTitle": null,
+                    "workCategory": null,
+                    "workType": {
+                        "errors": [],
+                        "value": "journal-article",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "dateSortString": null,
+                    "createdDate": {
+                        "errors": [],
+                        "month": "11",
+                        "day": "22",
+                        "year": "2022",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "lastModified": {
+                        "errors": [],
+                        "month": "11",
+                        "day": "22",
+                        "year": "2022",
+                        "required": true,
+                        "getRequiredMessage": null
+                    }
+                },
+                {
+                    "visibility": {
+                        "errors": [],
+                        "required": true,
+                        "getRequiredMessage": null,
+                        "visibility": "PUBLIC"
+                    },
+                    "errors": [],
+                    "publicationDate": {
+                        "errors": [],
+                        "month": "11",
+                        "day": "22",
+                        "year": "2022",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "putCode": {
+                        "errors": [],
+                        "value": "123562075",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "shortDescription": null,
+                    "url": null,
+                    "journalTitle": {
+                        "errors": [],
+                        "value": "Revista Peruana de Biolog\u00eda",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "languageCode": null,
+                    "languageName": null,
+                    "citation": null,
+                    "countryCode": null,
+                    "countryName": null,
+                    "contributors": null,
+                    "contributorsGroupedByOrcid": [
+                        {
+                            "contributorOrcid": null,
+                            "creditName": {
+                                "content": "Leonardo Mendoza-Carbajal"
+                            },
+                            "contributorEmail": null,
+                            "contributorAttributes": null,
+                            "rolesAndSequences": [
+                                {
+                                    "contributorSequence": null,
+                                    "contributorRole": "author"
+                                }
+                            ]
+                        },
+                        {
+                            "contributorOrcid": null,
+                            "creditName": {
+                                "content": "Deifilia Contreras"
+                            },
+                            "contributorEmail": null,
+                            "contributorAttributes": null,
+                            "rolesAndSequences": [
+                                {
+                                    "contributorSequence": null,
+                                    "contributorRole": "author"
+                                }
+                            ]
+                        },
+                        {
+                            "contributorOrcid": null,
+                            "creditName": {
+                                "content": "Maribel Baylon"
+                            },
+                            "contributorEmail": null,
+                            "contributorAttributes": null,
+                            "rolesAndSequences": [
+                                {
+                                    "contributorSequence": null,
+                                    "contributorRole": "author"
+                                }
+                            ]
+                        },
+                        {
+                            "contributorOrcid": null,
+                            "creditName": {
+                                "content": "Anderson Dominguez"
+                            },
+                            "contributorEmail": null,
+                            "contributorAttributes": null,
+                            "rolesAndSequences": [
+                                {
+                                    "contributorSequence": null,
+                                    "contributorRole": "author"
+                                }
+                            ]
+                        },
+                        {
+                            "contributorOrcid": null,
+                            "creditName": {
+                                "content": "El\u00edas Valdivia"
+                            },
+                            "contributorEmail": null,
+                            "contributorAttributes": null,
+                            "rolesAndSequences": [
+                                {
+                                    "contributorSequence": null,
+                                    "contributorRole": "author"
+                                }
+                            ]
+                        },
+                        {
+                            "contributorOrcid": null,
+                            "creditName": {
+                                "content": "Zaida Samanez"
+                            },
+                            "contributorEmail": null,
+                            "contributorAttributes": null,
+                            "rolesAndSequences": [
+                                {
+                                    "contributorSequence": null,
+                                    "contributorRole": "author"
+                                }
+                            ]
+                        },
+                        {
+                            "contributorOrcid": null,
+                            "creditName": {
+                                "content": "Fabrizio Johnson"
+                            },
+                            "contributorEmail": null,
+                            "contributorAttributes": null,
+                            "rolesAndSequences": [
+                                {
+                                    "contributorSequence": null,
+                                    "contributorRole": "author"
+                                }
+                            ]
+                        },
+                        {
+                            "contributorOrcid": null,
+                            "creditName": {
+                                "content": "Anthony Salazar-Torres"
+                            },
+                            "contributorEmail": null,
+                            "contributorAttributes": null,
+                            "rolesAndSequences": [
+                                {
+                                    "contributorSequence": null,
+                                    "contributorRole": "author"
+                                }
+                            ]
+                        }
+                    ],
+                    "numberOfContributors": 8,
+                    "workExternalIdentifiers": [
+                        {
+                            "errors": [],
+                            "externalIdentifierId": {
+                                "errors": [],
+                                "value": "10.15381/rpb.v29i4.23765",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "externalIdentifierType": {
+                                "errors": [],
+                                "value": "doi",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "url": {
+                                "errors": [],
+                                "value": "https://doi.org/10.15381/rpb.v29i4.23765",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "relationship": {
+                                "errors": [],
+                                "value": "self",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "normalized": {
+                                "errors": [],
+                                "value": "10.15381/rpb.v29i4.23765",
+                                "required": false,
+                                "getRequiredMessage": null
+                            },
+                            "normalizedUrl": {
+                                "errors": [],
+                                "value": "https://doi.org/10.15381/rpb.v29i4.23765",
+                                "required": false,
+                                "getRequiredMessage": null
+                            }
+                        }
+                    ],
+                    "source": "0000-0001-9884-1913",
+                    "sourceName": "Crossref",
+                    "assertionOriginOrcid": null,
+                    "assertionOriginClientId": null,
+                    "assertionOriginName": null,
+                    "title": {
+                        "errors": [],
+                        "value": "Especies invasoras de Ceratium Schrank, 1973 (Dinophyceae: Ceratiaceae) en cuerpos de agua continentales de Per\u00fa",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "subtitle": null,
+                    "translatedTitle": null,
+                    "workCategory": null,
+                    "workType": {
+                        "errors": [],
+                        "value": "journal-article",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "dateSortString": null,
+                    "createdDate": {
+                        "errors": [],
+                        "month": "11",
+                        "day": "26",
+                        "year": "2022",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "lastModified": {
+                        "errors": [],
+                        "month": "11",
+                        "day": "26",
+                        "year": "2022",
+                        "required": true,
+                        "getRequiredMessage": null
+                    }
+                },
+                {
+                    "visibility": {
+                        "errors": [],
+                        "required": true,
+                        "getRequiredMessage": null,
+                        "visibility": "PUBLIC"
+                    },
+                    "errors": [],
+                    "publicationDate": {
+                        "errors": [],
+                        "month": "11",
+                        "day": "22",
+                        "year": "2022",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "putCode": {
+                        "errors": [],
+                        "value": "127538251",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "shortDescription": null,
+                    "url": null,
+                    "journalTitle": {
+                        "errors": [],
+                        "value": "Revista Peruana de Biolog\u00eda",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "languageCode": null,
+                    "languageName": null,
+                    "citation": null,
+                    "countryCode": null,
+                    "countryName": null,
+                    "contributors": null,
+                    "contributorsGroupedByOrcid": [],
+                    "numberOfContributors": 0,
+                    "workExternalIdentifiers": [
+                        {
+                            "errors": [],
+                            "externalIdentifierId": {
+                                "errors": [],
+                                "value": "10.15381/rpb.v29i4.23765",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "externalIdentifierType": {
+                                "errors": [],
+                                "value": "doi",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "url": {
+                                "errors": [],
+                                "value": "https://doi.org/10.15381/rpb.v29i4.23765",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "relationship": {
+                                "errors": [],
+                                "value": "self",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "normalized": {
+                                "errors": [],
+                                "value": "10.15381/rpb.v29i4.23765",
+                                "required": false,
+                                "getRequiredMessage": null
+                            },
+                            "normalizedUrl": {
+                                "errors": [],
+                                "value": "https://doi.org/10.15381/rpb.v29i4.23765",
+                                "required": false,
+                                "getRequiredMessage": null
+                            }
+                        },
+                        {
+                            "errors": [],
+                            "externalIdentifierId": {
+                                "errors": [],
+                                "value": "https://revistasinvestigacion.unmsm.edu.pe/index.php/rpb/article/view/23765",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "externalIdentifierType": {
+                                "errors": [],
+                                "value": "uri",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "url": null,
+                            "relationship": {
+                                "errors": [],
+                                "value": "self",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "normalized": {
+                                "errors": [],
+                                "value": "https://revistasinvestigacion.unmsm.edu.pe/index.php/rpb/article/view/23765",
+                                "required": false,
+                                "getRequiredMessage": null
+                            },
+                            "normalizedUrl": null
+                        },
+                        {
+                            "errors": [],
+                            "externalIdentifierId": {
+                                "errors": [],
+                                "value": "1727-9933",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "externalIdentifierType": {
+                                "errors": [],
+                                "value": "issn",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "url": null,
+                            "relationship": {
+                                "errors": [],
+                                "value": "part-of",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "normalized": {
+                                "errors": [],
+                                "value": "1727-9933",
+                                "required": false,
+                                "getRequiredMessage": null
+                            },
+                            "normalizedUrl": {
+                                "errors": [],
+                                "value": "https://portal.issn.org/resource/ISSN/1727-9933",
+                                "required": false,
+                                "getRequiredMessage": null
+                            }
+                        }
+                    ],
+                    "source": "0000-0002-9847-2772",
+                    "sourceName": "Leonardo Humberto Mendoza-Carbajal",
+                    "assertionOriginOrcid": null,
+                    "assertionOriginClientId": null,
+                    "assertionOriginName": null,
+                    "title": {
+                        "errors": [],
+                        "value": "Especies invasoras de Ceratium Schrank, 1973 (Dinophyceae: Ceratiaceae) en cuerpos de agua continentales de Per\u00fa",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "subtitle": null,
+                    "translatedTitle": null,
+                    "workCategory": null,
+                    "workType": {
+                        "errors": [],
+                        "value": "journal-article",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "dateSortString": null,
+                    "createdDate": {
+                        "errors": [],
+                        "month": "1",
+                        "day": "28",
+                        "year": "2023",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "lastModified": {
+                        "errors": [],
+                        "month": "1",
+                        "day": "28",
+                        "year": "2023",
+                        "required": true,
+                        "getRequiredMessage": null
+                    }
+                }
+            ]
+        },
+        {
+            "activePutCode": 79884485,
+            "defaultPutCode": 79884485,
+            "groupId": 1,
+            "activeVisibility": "PUBLIC",
+            "userVersionPresent": false,
+            "externalIdentifiers": [
+                {
+                    "errors": [],
+                    "externalIdentifierId": {
+                        "errors": [],
+                        "value": "10.15381/rpb.v27i3.17301",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "externalIdentifierType": {
+                        "errors": [],
+                        "value": "doi",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "url": {
+                        "errors": [],
+                        "value": "https://doi.org/10.15381/rpb.v27i3.17301",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "relationship": {
+                        "errors": [],
+                        "value": "self",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "normalized": {
+                        "errors": [],
+                        "value": "10.15381/rpb.v27i3.17301",
+                        "required": false,
+                        "getRequiredMessage": null
+                    },
+                    "normalizedUrl": {
+                        "errors": [],
+                        "value": "https://doi.org/10.15381/rpb.v27i3.17301",
+                        "required": false,
+                        "getRequiredMessage": null
+                    }
+                },
+                {
+                    "errors": [],
+                    "externalIdentifierId": {
+                        "errors": [],
+                        "value": "2-s2.0-85091633813",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "externalIdentifierType": {
+                        "errors": [],
+                        "value": "eid",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "url": null,
+                    "relationship": {
+                        "errors": [],
+                        "value": "self",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "normalized": {
+                        "errors": [],
+                        "value": "2-s2.0-85091633813",
+                        "required": false,
+                        "getRequiredMessage": null
+                    },
+                    "normalizedUrl": null
+                }
+            ],
+            "works": [
+                {
+                    "visibility": {
+                        "errors": [],
+                        "required": true,
+                        "getRequiredMessage": null,
+                        "visibility": "PUBLIC"
+                    },
+                    "errors": [],
+                    "publicationDate": {
+                        "errors": [],
+                        "month": "08",
+                        "day": "30",
+                        "year": "2020",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "putCode": {
+                        "errors": [],
+                        "value": "79884485",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "shortDescription": null,
+                    "url": null,
+                    "journalTitle": {
+                        "errors": [],
+                        "value": "Revista Peruana de Biolog\u00eda",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "languageCode": null,
+                    "languageName": null,
+                    "citation": null,
+                    "countryCode": null,
+                    "countryName": null,
+                    "contributors": null,
+                    "contributorsGroupedByOrcid": [
+                        {
+                            "contributorOrcid": null,
+                            "creditName": {
+                                "content": "Leonardo Humberto Mendoza Carbajal"
+                            },
+                            "contributorEmail": null,
+                            "contributorAttributes": null,
+                            "rolesAndSequences": [
+                                {
+                                    "contributorSequence": null,
+                                    "contributorRole": "author"
+                                }
+                            ]
+                        }
+                    ],
+                    "numberOfContributors": 1,
+                    "workExternalIdentifiers": [
+                        {
+                            "errors": [],
+                            "externalIdentifierId": {
+                                "errors": [],
+                                "value": "10.15381/rpb.v27i3.17301",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "externalIdentifierType": {
+                                "errors": [],
+                                "value": "doi",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "url": {
+                                "errors": [],
+                                "value": "https://doi.org/10.15381/rpb.v27i3.17301",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "relationship": {
+                                "errors": [],
+                                "value": "self",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "normalized": {
+                                "errors": [],
+                                "value": "10.15381/rpb.v27i3.17301",
+                                "required": false,
+                                "getRequiredMessage": null
+                            },
+                            "normalizedUrl": {
+                                "errors": [],
+                                "value": "https://doi.org/10.15381/rpb.v27i3.17301",
+                                "required": false,
+                                "getRequiredMessage": null
+                            }
+                        }
+                    ],
+                    "source": "0000-0001-9884-1913",
+                    "sourceName": "Crossref",
+                    "assertionOriginOrcid": null,
+                    "assertionOriginClientId": null,
+                    "assertionOriginName": null,
+                    "title": {
+                        "errors": [],
+                        "value": "Primer reporte de Lemmermanniella uliginosa (Synechococcaceae, Cyanobacteria) en Am\u00e9rica del sur, y primer reporte del g\u00e9nero para Per\u00fa",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "subtitle": null,
+                    "translatedTitle": null,
+                    "workCategory": null,
+                    "workType": {
+                        "errors": [],
+                        "value": "journal-article",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "dateSortString": null,
+                    "createdDate": {
+                        "errors": [],
+                        "month": "9",
+                        "day": "5",
+                        "year": "2020",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "lastModified": {
+                        "errors": [],
+                        "month": "12",
+                        "day": "6",
+                        "year": "2022",
+                        "required": true,
+                        "getRequiredMessage": null
+                    }
+                },
+                {
+                    "visibility": {
+                        "errors": [],
+                        "required": true,
+                        "getRequiredMessage": null,
+                        "visibility": "PUBLIC"
+                    },
+                    "errors": [],
+                    "publicationDate": {
+                        "errors": [],
+                        "month": null,
+                        "day": null,
+                        "year": "2020",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "putCode": {
+                        "errors": [],
+                        "value": "107071670",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "shortDescription": null,
+                    "url": null,
+                    "journalTitle": {
+                        "errors": [],
+                        "value": "Revista Peruana de Biologia",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "languageCode": null,
+                    "languageName": null,
+                    "citation": null,
+                    "countryCode": null,
+                    "countryName": null,
+                    "contributors": null,
+                    "contributorsGroupedByOrcid": [
+                        {
+                            "contributorOrcid": null,
+                            "creditName": {
+                                "content": "Mendoza-Carbajal, L.H."
+                            },
+                            "contributorEmail": null,
+                            "contributorAttributes": null,
+                            "rolesAndSequences": []
+                        }
+                    ],
+                    "numberOfContributors": 1,
+                    "workExternalIdentifiers": [
+                        {
+                            "errors": [],
+                            "externalIdentifierId": {
+                                "errors": [],
+                                "value": "10.15381/rpb.v27i3.17301",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "externalIdentifierType": {
+                                "errors": [],
+                                "value": "doi",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "url": null,
+                            "relationship": {
+                                "errors": [],
+                                "value": "self",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "normalized": {
+                                "errors": [],
+                                "value": "10.15381/rpb.v27i3.17301",
+                                "required": false,
+                                "getRequiredMessage": null
+                            },
+                            "normalizedUrl": {
+                                "errors": [],
+                                "value": "https://doi.org/10.15381/rpb.v27i3.17301",
+                                "required": false,
+                                "getRequiredMessage": null
+                            }
+                        },
+                        {
+                            "errors": [],
+                            "externalIdentifierId": {
+                                "errors": [],
+                                "value": "2-s2.0-85091633813",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "externalIdentifierType": {
+                                "errors": [],
+                                "value": "eid",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "url": null,
+                            "relationship": {
+                                "errors": [],
+                                "value": "self",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "normalized": {
+                                "errors": [],
+                                "value": "2-s2.0-85091633813",
+                                "required": false,
+                                "getRequiredMessage": null
+                            },
+                            "normalizedUrl": null
+                        },
+                        {
+                            "errors": [],
+                            "externalIdentifierId": {
+                                "errors": [],
+                                "value": "17279933 15610837",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "externalIdentifierType": {
+                                "errors": [],
+                                "value": "issn",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "url": null,
+                            "relationship": {
+                                "errors": [],
+                                "value": "part-of",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "normalized": {
+                                "errors": [],
+                                "value": "1727-9933",
+                                "required": false,
+                                "getRequiredMessage": null
+                            },
+                            "normalizedUrl": {
+                                "errors": [],
+                                "value": "https://portal.issn.org/resource/ISSN/1727-9933",
+                                "required": false,
+                                "getRequiredMessage": null
+                            }
+                        }
+                    ],
+                    "source": "0000-0002-5982-8983",
+                    "sourceName": "Scopus - Elsevier",
+                    "assertionOriginOrcid": "0000-0002-9847-2772",
+                    "assertionOriginClientId": null,
+                    "assertionOriginName": "Leonardo Humberto Mendoza-Carbajal",
+                    "title": {
+                        "errors": [],
+                        "value": "First report of lemmermanniella uliginosa (Synechococcaceae, Cyanobacteria) in South America, and the first record of the genus from Peru,Primer reporte de Lemmermanniella uliginosa (Synechococcaceae, Cyanobacteria) en Am\u00e9rica del sur, y primer reporte del g\u00e9nero para Per\u00fa",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "subtitle": null,
+                    "translatedTitle": null,
+                    "workCategory": null,
+                    "workType": {
+                        "errors": [],
+                        "value": "journal-article",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "dateSortString": null,
+                    "createdDate": {
+                        "errors": [],
+                        "month": "1",
+                        "day": "26",
+                        "year": "2022",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "lastModified": {
+                        "errors": [],
+                        "month": "6",
+                        "day": "2",
+                        "year": "2022",
+                        "required": true,
+                        "getRequiredMessage": null
+                    }
+                }
+            ]
+        },
+        {
+            "activePutCode": 82060944,
+            "defaultPutCode": 82060944,
+            "groupId": 2,
+            "activeVisibility": "PUBLIC",
+            "userVersionPresent": true,
+            "externalIdentifiers": [
+                {
+                    "errors": [],
+                    "externalIdentifierId": {
+                        "errors": [],
+                        "value": "10.4067/S0717-66432020000100062",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "externalIdentifierType": {
+                        "errors": [],
+                        "value": "doi",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "url": null,
+                    "relationship": {
+                        "errors": [],
+                        "value": "self",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "normalized": {
+                        "errors": [],
+                        "value": "10.4067/s0717-66432020000100062",
+                        "required": false,
+                        "getRequiredMessage": null
+                    },
+                    "normalizedUrl": {
+                        "errors": [],
+                        "value": "https://doi.org/10.4067/s0717-66432020000100062",
+                        "required": false,
+                        "getRequiredMessage": null
+                    }
+                },
+                {
+                    "errors": [],
+                    "externalIdentifierId": {
+                        "errors": [],
+                        "value": "2-s2.0-85096998585",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "externalIdentifierType": {
+                        "errors": [],
+                        "value": "eid",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "url": null,
+                    "relationship": {
+                        "errors": [],
+                        "value": "self",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "normalized": {
+                        "errors": [],
+                        "value": "2-s2.0-85096998585",
+                        "required": false,
+                        "getRequiredMessage": null
+                    },
+                    "normalizedUrl": null
+                }
+            ],
+            "works": [
+                {
+                    "visibility": {
+                        "errors": [],
+                        "required": true,
+                        "getRequiredMessage": null,
+                        "visibility": "PUBLIC"
+                    },
+                    "errors": [],
+                    "publicationDate": {
+                        "errors": [],
+                        "month": "06",
+                        "day": null,
+                        "year": "2020",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "putCode": {
+                        "errors": [],
+                        "value": "82060944",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "shortDescription": null,
+                    "url": null,
+                    "journalTitle": {
+                        "errors": [],
+                        "value": "Gayana. Bot\u00e1nica",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "languageCode": null,
+                    "languageName": null,
+                    "citation": null,
+                    "countryCode": null,
+                    "countryName": null,
+                    "contributors": null,
+                    "contributorsGroupedByOrcid": [],
+                    "numberOfContributors": 0,
+                    "workExternalIdentifiers": [
+                        {
+                            "errors": [],
+                            "externalIdentifierId": {
+                                "errors": [],
+                                "value": "10.4067/s0717-66432020000100062",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "externalIdentifierType": {
+                                "errors": [],
+                                "value": "doi",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "url": {
+                                "errors": [],
+                                "value": "https://doi.org/10.4067/s0717-66432020000100062",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "relationship": {
+                                "errors": [],
+                                "value": "self",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "normalized": {
+                                "errors": [],
+                                "value": "10.4067/s0717-66432020000100062",
+                                "required": false,
+                                "getRequiredMessage": null
+                            },
+                            "normalizedUrl": {
+                                "errors": [],
+                                "value": "https://doi.org/10.4067/s0717-66432020000100062",
+                                "required": false,
+                                "getRequiredMessage": null
+                            }
+                        },
+                        {
+                            "errors": [],
+                            "externalIdentifierId": {
+                                "errors": [],
+                                "value": "0717-6643",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "externalIdentifierType": {
+                                "errors": [],
+                                "value": "issn",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "url": {
+                                "errors": [],
+                                "value": "https://portal.issn.org/resource/ISSN/0717-6643",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "relationship": {
+                                "errors": [],
+                                "value": "part-of",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "normalized": {
+                                "errors": [],
+                                "value": "0717-6643",
+                                "required": false,
+                                "getRequiredMessage": null
+                            },
+                            "normalizedUrl": {
+                                "errors": [],
+                                "value": "https://portal.issn.org/resource/ISSN/0717-6643",
+                                "required": false,
+                                "getRequiredMessage": null
+                            }
+                        }
+                    ],
+                    "source": "0000-0002-9847-2772",
+                    "sourceName": "Leonardo Humberto Mendoza-Carbajal",
+                    "assertionOriginOrcid": null,
+                    "assertionOriginClientId": null,
+                    "assertionOriginName": null,
+                    "title": {
+                        "errors": [],
+                        "value": "Reporte de Peridiniopsis borgei Lemmermann (Dinophyceae) en aguas continentales de Per\u00fa",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "subtitle": null,
+                    "translatedTitle": null,
+                    "workCategory": null,
+                    "workType": {
+                        "errors": [],
+                        "value": "journal-article",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "dateSortString": null,
+                    "createdDate": {
+                        "errors": [],
+                        "month": "10",
+                        "day": "15",
+                        "year": "2020",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "lastModified": {
+                        "errors": [],
+                        "month": "10",
+                        "day": "15",
+                        "year": "2020",
+                        "required": true,
+                        "getRequiredMessage": null
+                    }
+                },
+                {
+                    "visibility": {
+                        "errors": [],
+                        "required": true,
+                        "getRequiredMessage": null,
+                        "visibility": "PUBLIC"
+                    },
+                    "errors": [],
+                    "publicationDate": {
+                        "errors": [],
+                        "month": null,
+                        "day": null,
+                        "year": "2020",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "putCode": {
+                        "errors": [],
+                        "value": "107071668",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "shortDescription": null,
+                    "url": null,
+                    "journalTitle": {
+                        "errors": [],
+                        "value": "Gayana - Botanica",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "languageCode": null,
+                    "languageName": null,
+                    "citation": null,
+                    "countryCode": null,
+                    "countryName": null,
+                    "contributors": null,
+                    "contributorsGroupedByOrcid": [
+                        {
+                            "contributorOrcid": null,
+                            "creditName": {
+                                "content": "Ascencio, E."
+                            },
+                            "contributorEmail": null,
+                            "contributorAttributes": null,
+                            "rolesAndSequences": []
+                        },
+                        {
+                            "contributorOrcid": null,
+                            "creditName": {
+                                "content": "Mendoza-Carbajal, L."
+                            },
+                            "contributorEmail": null,
+                            "contributorAttributes": null,
+                            "rolesAndSequences": []
+                        },
+                        {
+                            "contributorOrcid": null,
+                            "creditName": {
+                                "content": "Bayl\u00f3n, M."
+                            },
+                            "contributorEmail": null,
+                            "contributorAttributes": null,
+                            "rolesAndSequences": []
+                        },
+                        {
+                            "contributorOrcid": null,
+                            "creditName": {
+                                "content": "Rivera, P."
+                            },
+                            "contributorEmail": null,
+                            "contributorAttributes": null,
+                            "rolesAndSequences": []
+                        },
+                        {
+                            "contributorOrcid": null,
+                            "creditName": {
+                                "content": "Krakhmalnyi, A.F."
+                            },
+                            "contributorEmail": null,
+                            "contributorAttributes": null,
+                            "rolesAndSequences": []
+                        },
+                        {
+                            "contributorOrcid": null,
+                            "creditName": {
+                                "content": "Cruces, F."
+                            },
+                            "contributorEmail": null,
+                            "contributorAttributes": null,
+                            "rolesAndSequences": []
+                        },
+                        {
+                            "contributorOrcid": null,
+                            "creditName": {
+                                "content": "Urrutia, R."
+                            },
+                            "contributorEmail": null,
+                            "contributorAttributes": null,
+                            "rolesAndSequences": []
+                        }
+                    ],
+                    "numberOfContributors": 7,
+                    "workExternalIdentifiers": [
+                        {
+                            "errors": [],
+                            "externalIdentifierId": {
+                                "errors": [],
+                                "value": "10.4067/S0717-66432020000100062",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "externalIdentifierType": {
+                                "errors": [],
+                                "value": "doi",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "url": null,
+                            "relationship": {
+                                "errors": [],
+                                "value": "self",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "normalized": {
+                                "errors": [],
+                                "value": "10.4067/s0717-66432020000100062",
+                                "required": false,
+                                "getRequiredMessage": null
+                            },
+                            "normalizedUrl": {
+                                "errors": [],
+                                "value": "https://doi.org/10.4067/s0717-66432020000100062",
+                                "required": false,
+                                "getRequiredMessage": null
+                            }
+                        },
+                        {
+                            "errors": [],
+                            "externalIdentifierId": {
+                                "errors": [],
+                                "value": "2-s2.0-85096998585",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "externalIdentifierType": {
+                                "errors": [],
+                                "value": "eid",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "url": null,
+                            "relationship": {
+                                "errors": [],
+                                "value": "self",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "normalized": {
+                                "errors": [],
+                                "value": "2-s2.0-85096998585",
+                                "required": false,
+                                "getRequiredMessage": null
+                            },
+                            "normalizedUrl": null
+                        },
+                        {
+                            "errors": [],
+                            "externalIdentifierId": {
+                                "errors": [],
+                                "value": "07176643 00165301",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "externalIdentifierType": {
+                                "errors": [],
+                                "value": "issn",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "url": null,
+                            "relationship": {
+                                "errors": [],
+                                "value": "part-of",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "normalized": {
+                                "errors": [],
+                                "value": "0717-6643",
+                                "required": false,
+                                "getRequiredMessage": null
+                            },
+                            "normalizedUrl": {
+                                "errors": [],
+                                "value": "https://portal.issn.org/resource/ISSN/0717-6643",
+                                "required": false,
+                                "getRequiredMessage": null
+                            }
+                        }
+                    ],
+                    "source": "0000-0002-5982-8983",
+                    "sourceName": "Scopus - Elsevier",
+                    "assertionOriginOrcid": "0000-0002-9847-2772",
+                    "assertionOriginClientId": null,
+                    "assertionOriginName": "Leonardo Humberto Mendoza-Carbajal",
+                    "title": {
+                        "errors": [],
+                        "value": "Record of peridiniopsis borgei lemmermann (Dinophyceae) in peruvian inland waters,Reporte de peridiniopsis borgei lemmermann (Dinophyceae) en aguas continentales de Per\u00fa",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "subtitle": null,
+                    "translatedTitle": null,
+                    "workCategory": null,
+                    "workType": {
+                        "errors": [],
+                        "value": "journal-article",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "dateSortString": null,
+                    "createdDate": {
+                        "errors": [],
+                        "month": "1",
+                        "day": "26",
+                        "year": "2022",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "lastModified": {
+                        "errors": [],
+                        "month": "6",
+                        "day": "2",
+                        "year": "2022",
+                        "required": true,
+                        "getRequiredMessage": null
+                    }
+                }
+            ]
+        },
+        {
+            "activePutCode": 24419967,
+            "defaultPutCode": 24419967,
+            "groupId": 3,
+            "activeVisibility": "PUBLIC",
+            "userVersionPresent": false,
+            "externalIdentifiers": [
+                {
+                    "errors": [],
+                    "externalIdentifierId": {
+                        "errors": [],
+                        "value": "10.15381/rpb.v23i1.11835",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "externalIdentifierType": {
+                        "errors": [],
+                        "value": "doi",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "url": null,
+                    "relationship": {
+                        "errors": [],
+                        "value": "self",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "normalized": {
+                        "errors": [],
+                        "value": "10.15381/rpb.v23i1.11835",
+                        "required": false,
+                        "getRequiredMessage": null
+                    },
+                    "normalizedUrl": {
+                        "errors": [],
+                        "value": "https://doi.org/10.15381/rpb.v23i1.11835",
+                        "required": false,
+                        "getRequiredMessage": null
+                    }
+                },
+                {
+                    "errors": [],
+                    "externalIdentifierId": {
+                        "errors": [],
+                        "value": "2-s2.0-84971592159",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "externalIdentifierType": {
+                        "errors": [],
+                        "value": "eid",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "url": null,
+                    "relationship": {
+                        "errors": [],
+                        "value": "self",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "normalized": {
+                        "errors": [],
+                        "value": "2-s2.0-84971592159",
+                        "required": false,
+                        "getRequiredMessage": null
+                    },
+                    "normalizedUrl": null
+                }
+            ],
+            "works": [
+                {
+                    "visibility": {
+                        "errors": [],
+                        "required": true,
+                        "getRequiredMessage": null,
+                        "visibility": "PUBLIC"
+                    },
+                    "errors": [],
+                    "publicationDate": {
+                        "errors": [],
+                        "month": "05",
+                        "day": "28",
+                        "year": "2016",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "putCode": {
+                        "errors": [],
+                        "value": "24419967",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "shortDescription": null,
+                    "url": null,
+                    "journalTitle": {
+                        "errors": [],
+                        "value": "Revista Peruana de Biolog\u00eda",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "languageCode": null,
+                    "languageName": null,
+                    "citation": null,
+                    "countryCode": null,
+                    "countryName": null,
+                    "contributors": null,
+                    "contributorsGroupedByOrcid": [
+                        {
+                            "contributorOrcid": null,
+                            "creditName": {
+                                "content": "Leonardo H. Mendoza-Carbajal"
+                            },
+                            "contributorEmail": null,
+                            "contributorAttributes": null,
+                            "rolesAndSequences": [
+                                {
+                                    "contributorSequence": null,
+                                    "contributorRole": "author"
+                                }
+                            ]
+                        }
+                    ],
+                    "numberOfContributors": 1,
+                    "workExternalIdentifiers": [
+                        {
+                            "errors": [],
+                            "externalIdentifierId": {
+                                "errors": [],
+                                "value": "10.15381/rpb.v23i1.11835",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "externalIdentifierType": {
+                                "errors": [],
+                                "value": "doi",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "url": {
+                                "errors": [],
+                                "value": "https://doi.org/10.15381/rpb.v23i1.11835",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "relationship": {
+                                "errors": [],
+                                "value": "self",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "normalized": {
+                                "errors": [],
+                                "value": "10.15381/rpb.v23i1.11835",
+                                "required": false,
+                                "getRequiredMessage": null
+                            },
+                            "normalizedUrl": {
+                                "errors": [],
+                                "value": "https://doi.org/10.15381/rpb.v23i1.11835",
+                                "required": false,
+                                "getRequiredMessage": null
+                            }
+                        }
+                    ],
+                    "source": "0000-0001-9884-1913",
+                    "sourceName": "Crossref",
+                    "assertionOriginOrcid": null,
+                    "assertionOriginClientId": null,
+                    "assertionOriginName": null,
+                    "title": {
+                        "errors": [],
+                        "value": "El g\u00e9nero Sphaerocavum y dominancia de S. brasiliense y Microcystis wesenbergii (Microcystaceae, Cyanophyceae) en la floraci\u00f3n algal de la laguna Huacachina, Per\u00fa",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "subtitle": null,
+                    "translatedTitle": null,
+                    "workCategory": null,
+                    "workType": {
+                        "errors": [],
+                        "value": "journal-article",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "dateSortString": null,
+                    "createdDate": {
+                        "errors": [],
+                        "month": "5",
+                        "day": "30",
+                        "year": "2016",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "lastModified": {
+                        "errors": [],
+                        "month": "12",
+                        "day": "6",
+                        "year": "2022",
+                        "required": true,
+                        "getRequiredMessage": null
+                    }
+                },
+                {
+                    "visibility": {
+                        "errors": [],
+                        "required": true,
+                        "getRequiredMessage": null,
+                        "visibility": "PUBLIC"
+                    },
+                    "errors": [],
+                    "publicationDate": {
+                        "errors": [],
+                        "month": null,
+                        "day": null,
+                        "year": "2016",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "putCode": {
+                        "errors": [],
+                        "value": "107071666",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "shortDescription": null,
+                    "url": null,
+                    "journalTitle": {
+                        "errors": [],
+                        "value": "Revista Peruana de Biologia",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "languageCode": null,
+                    "languageName": null,
+                    "citation": null,
+                    "countryCode": null,
+                    "countryName": null,
+                    "contributors": null,
+                    "contributorsGroupedByOrcid": [
+                        {
+                            "contributorOrcid": null,
+                            "creditName": {
+                                "content": "Mendoza-Carbajal, L.H."
+                            },
+                            "contributorEmail": null,
+                            "contributorAttributes": null,
+                            "rolesAndSequences": []
+                        }
+                    ],
+                    "numberOfContributors": 1,
+                    "workExternalIdentifiers": [
+                        {
+                            "errors": [],
+                            "externalIdentifierId": {
+                                "errors": [],
+                                "value": "10.15381/rpb.v23i1.11835",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "externalIdentifierType": {
+                                "errors": [],
+                                "value": "doi",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "url": null,
+                            "relationship": {
+                                "errors": [],
+                                "value": "self",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "normalized": {
+                                "errors": [],
+                                "value": "10.15381/rpb.v23i1.11835",
+                                "required": false,
+                                "getRequiredMessage": null
+                            },
+                            "normalizedUrl": {
+                                "errors": [],
+                                "value": "https://doi.org/10.15381/rpb.v23i1.11835",
+                                "required": false,
+                                "getRequiredMessage": null
+                            }
+                        },
+                        {
+                            "errors": [],
+                            "externalIdentifierId": {
+                                "errors": [],
+                                "value": "2-s2.0-84971592159",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "externalIdentifierType": {
+                                "errors": [],
+                                "value": "eid",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "url": null,
+                            "relationship": {
+                                "errors": [],
+                                "value": "self",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "normalized": {
+                                "errors": [],
+                                "value": "2-s2.0-84971592159",
+                                "required": false,
+                                "getRequiredMessage": null
+                            },
+                            "normalizedUrl": null
+                        },
+                        {
+                            "errors": [],
+                            "externalIdentifierId": {
+                                "errors": [],
+                                "value": "17279933 15610837",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "externalIdentifierType": {
+                                "errors": [],
+                                "value": "issn",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "url": null,
+                            "relationship": {
+                                "errors": [],
+                                "value": "part-of",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "normalized": {
+                                "errors": [],
+                                "value": "1727-9933",
+                                "required": false,
+                                "getRequiredMessage": null
+                            },
+                            "normalizedUrl": {
+                                "errors": [],
+                                "value": "https://portal.issn.org/resource/ISSN/1727-9933",
+                                "required": false,
+                                "getRequiredMessage": null
+                            }
+                        }
+                    ],
+                    "source": "0000-0002-5982-8983",
+                    "sourceName": "Scopus - Elsevier",
+                    "assertionOriginOrcid": "0000-0002-9847-2772",
+                    "assertionOriginClientId": null,
+                    "assertionOriginName": "Leonardo Humberto Mendoza-Carbajal",
+                    "title": {
+                        "errors": [],
+                        "value": "The genus Sphaerocavum and the dominance of S. brasiliense and Microcystis wesenbergii (Microcystaceae, Cyanophyceae) in the algae bloom of Huacachina lagoon, Peru,El g\u00e9nero Sphaerocavum y dominancia de S. brasiliense y Microcystis wesenbergii (Microcystaceae, Cyanophyceae) en la floraci\u00f3n algal de la laguna Huacachina, Per\u00fa",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "subtitle": null,
+                    "translatedTitle": null,
+                    "workCategory": null,
+                    "workType": {
+                        "errors": [],
+                        "value": "journal-article",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "dateSortString": null,
+                    "createdDate": {
+                        "errors": [],
+                        "month": "1",
+                        "day": "26",
+                        "year": "2022",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "lastModified": {
+                        "errors": [],
+                        "month": "6",
+                        "day": "2",
+                        "year": "2022",
+                        "required": true,
+                        "getRequiredMessage": null
+                    }
+                }
+            ]
+        }
+    ]
+}]

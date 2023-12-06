@@ -115,8 +115,8 @@ print('Registros originales: ' + str(df_orcid.shape[0]))
 
 # 3. Leer el parquet de ejecuciones
 df_ejecuciones_base = pd.read_parquet(os.path.join(os.getcwd(),'originals','ejecuciones_orcid.parquet'))
-df_ejecuciones_base['cti_vitae'] = df_ejecuciones_base['cti_vitae'].astype(str)
-df_ejecuciones_base['cti_vitae'] = df_ejecuciones_base['cti_vitae'].str.replace('_Error', '')
+df_ejecuciones_base['orcid'] = df_ejecuciones_base['orcid'].astype(str)
+df_ejecuciones_base['orcid'] = df_ejecuciones_base['orcid'].str.replace('_Error', '')
 
 # 4. Obtener el maximo valor de i
 df_ejecuciones_base['i'] = df_ejecuciones_base['i'].astype(int)
@@ -128,7 +128,7 @@ else:
     max_i = max_i + 1
 
 # 5. A df_renacyt['ctiVitae'] filtrar todos los df_ejecuciones_base['cti_vitae']
-df_orcid = df_orcid[~df_orcid['ctiVitae'].isin(df_ejecuciones_base['cti_vitae'])]
+df_orcid = df_orcid[~df_orcid['orcid'].isin(df_ejecuciones_base['orcid'])]
 print('Registros filtrados: ' + str(df_orcid.shape[0]))
 
 df_orcid = df_orcid.head(4)
