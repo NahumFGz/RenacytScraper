@@ -1,0 +1,955 @@
+{
+    "nextOffset": 50,
+    "totalGroups": 4,
+    "groups": [
+        {
+            "activePutCode": 138819418,
+            "defaultPutCode": 138819418,
+            "groupId": 0,
+            "activeVisibility": "PUBLIC",
+            "userVersionPresent": false,
+            "externalIdentifiers": [
+                {
+                    "errors": [],
+                    "externalIdentifierId": {
+                        "errors": [],
+                        "value": "10.1186/s40468-023-00247-z",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "externalIdentifierType": {
+                        "errors": [],
+                        "value": "doi",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "url": null,
+                    "relationship": {
+                        "errors": [],
+                        "value": "self",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "normalized": {
+                        "errors": [],
+                        "value": "10.1186/s40468-023-00247-z",
+                        "required": false,
+                        "getRequiredMessage": null
+                    },
+                    "normalizedUrl": {
+                        "errors": [],
+                        "value": "https://doi.org/10.1186/s40468-023-00247-z",
+                        "required": false,
+                        "getRequiredMessage": null
+                    }
+                },
+                {
+                    "errors": [],
+                    "externalIdentifierId": {
+                        "errors": [],
+                        "value": "2-s2.0-85163640852",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "externalIdentifierType": {
+                        "errors": [],
+                        "value": "eid",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "url": null,
+                    "relationship": {
+                        "errors": [],
+                        "value": "self",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "normalized": {
+                        "errors": [],
+                        "value": "2-s2.0-85163640852",
+                        "required": false,
+                        "getRequiredMessage": null
+                    },
+                    "normalizedUrl": null
+                }
+            ],
+            "works": [
+                {
+                    "visibility": {
+                        "errors": [],
+                        "required": true,
+                        "getRequiredMessage": null,
+                        "visibility": "PUBLIC"
+                    },
+                    "errors": [],
+                    "publicationDate": {
+                        "errors": [],
+                        "month": null,
+                        "day": null,
+                        "year": "2023",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "putCode": {
+                        "errors": [],
+                        "value": "138819418",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "shortDescription": null,
+                    "url": null,
+                    "journalTitle": {
+                        "errors": [],
+                        "value": "Language Testing in Asia",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "languageCode": null,
+                    "languageName": null,
+                    "citation": null,
+                    "countryCode": null,
+                    "countryName": null,
+                    "contributors": null,
+                    "contributorsGroupedByOrcid": [
+                        {
+                            "contributorOrcid": null,
+                            "creditName": {
+                                "content": "Nurjamin, A."
+                            },
+                            "contributorEmail": null,
+                            "contributorAttributes": null,
+                            "rolesAndSequences": []
+                        },
+                        {
+                            "contributorOrcid": null,
+                            "creditName": {
+                                "content": "Salazar-Espinoza, D.-E."
+                            },
+                            "contributorEmail": null,
+                            "contributorAttributes": null,
+                            "rolesAndSequences": []
+                        },
+                        {
+                            "contributorOrcid": null,
+                            "creditName": {
+                                "content": "Saenko, N."
+                            },
+                            "contributorEmail": null,
+                            "contributorAttributes": null,
+                            "rolesAndSequences": []
+                        },
+                        {
+                            "contributorOrcid": null,
+                            "creditName": {
+                                "content": "Bina, E."
+                            },
+                            "contributorEmail": null,
+                            "contributorAttributes": null,
+                            "rolesAndSequences": []
+                        }
+                    ],
+                    "numberOfContributors": 4,
+                    "workExternalIdentifiers": [
+                        {
+                            "errors": [],
+                            "externalIdentifierId": {
+                                "errors": [],
+                                "value": "10.1186/s40468-023-00247-z",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "externalIdentifierType": {
+                                "errors": [],
+                                "value": "doi",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "url": null,
+                            "relationship": {
+                                "errors": [],
+                                "value": "self",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "normalized": {
+                                "errors": [],
+                                "value": "10.1186/s40468-023-00247-z",
+                                "required": false,
+                                "getRequiredMessage": null
+                            },
+                            "normalizedUrl": {
+                                "errors": [],
+                                "value": "https://doi.org/10.1186/s40468-023-00247-z",
+                                "required": false,
+                                "getRequiredMessage": null
+                            }
+                        },
+                        {
+                            "errors": [],
+                            "externalIdentifierId": {
+                                "errors": [],
+                                "value": "2-s2.0-85163640852",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "externalIdentifierType": {
+                                "errors": [],
+                                "value": "eid",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "url": null,
+                            "relationship": {
+                                "errors": [],
+                                "value": "self",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "normalized": {
+                                "errors": [],
+                                "value": "2-s2.0-85163640852",
+                                "required": false,
+                                "getRequiredMessage": null
+                            },
+                            "normalizedUrl": null
+                        },
+                        {
+                            "errors": [],
+                            "externalIdentifierId": {
+                                "errors": [],
+                                "value": "22290443",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "externalIdentifierType": {
+                                "errors": [],
+                                "value": "issn",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "url": null,
+                            "relationship": {
+                                "errors": [],
+                                "value": "part-of",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "normalized": {
+                                "errors": [],
+                                "value": "2229-0443",
+                                "required": false,
+                                "getRequiredMessage": null
+                            },
+                            "normalizedUrl": {
+                                "errors": [],
+                                "value": "https://portal.issn.org/resource/ISSN/2229-0443",
+                                "required": false,
+                                "getRequiredMessage": null
+                            }
+                        }
+                    ],
+                    "source": "0000-0002-5982-8983",
+                    "sourceName": "Scopus - Elsevier",
+                    "assertionOriginOrcid": "0000-0003-4509-2132",
+                    "assertionOriginClientId": null,
+                    "assertionOriginName": "DAVID ELI SALAZAR ESPINOZA",
+                    "title": {
+                        "errors": [],
+                        "value": "Learner-oriented assessment matters: testing the effects of academic buoyancy, reflective thinking, and learner enjoyment in self-assessment and test-taking anxiety management of the EFL learners",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "subtitle": null,
+                    "translatedTitle": null,
+                    "workCategory": null,
+                    "workType": {
+                        "errors": [],
+                        "value": "journal-article",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "dateSortString": null,
+                    "createdDate": {
+                        "errors": [],
+                        "month": "7",
+                        "day": "17",
+                        "year": "2023",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "lastModified": {
+                        "errors": [],
+                        "month": "7",
+                        "day": "17",
+                        "year": "2023",
+                        "required": true,
+                        "getRequiredMessage": null
+                    }
+                }
+            ]
+        },
+        {
+            "activePutCode": 137974697,
+            "defaultPutCode": 137974697,
+            "groupId": 1,
+            "activeVisibility": "PUBLIC",
+            "userVersionPresent": true,
+            "externalIdentifiers": [
+                {
+                    "errors": [],
+                    "externalIdentifierId": {
+                        "errors": [],
+                        "value": "https://doi.org/10.5281/zenodo.7862390",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "externalIdentifierType": {
+                        "errors": [],
+                        "value": "doi",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "url": {
+                        "errors": [],
+                        "value": "https://doi.org/10.5281/zenodo.7862390",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "relationship": {
+                        "errors": [],
+                        "value": "self",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "normalized": {
+                        "errors": [],
+                        "value": "10.5281/zenodo.7862390",
+                        "required": false,
+                        "getRequiredMessage": null
+                    },
+                    "normalizedUrl": {
+                        "errors": [],
+                        "value": "https://doi.org/10.5281/zenodo.7862390",
+                        "required": false,
+                        "getRequiredMessage": null
+                    }
+                }
+            ],
+            "works": [
+                {
+                    "visibility": {
+                        "errors": [],
+                        "required": true,
+                        "getRequiredMessage": null,
+                        "visibility": "PUBLIC"
+                    },
+                    "errors": [],
+                    "publicationDate": {
+                        "errors": [],
+                        "month": "07",
+                        "day": "01",
+                        "year": "2023",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "putCode": {
+                        "errors": [],
+                        "value": "137974697",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "shortDescription": null,
+                    "url": null,
+                    "journalTitle": {
+                        "errors": [],
+                        "value": "Revista de Filosof\u00eda",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "languageCode": null,
+                    "languageName": null,
+                    "citation": null,
+                    "countryCode": null,
+                    "countryName": null,
+                    "contributors": null,
+                    "contributorsGroupedByOrcid": [
+                        {
+                            "contributorOrcid": {
+                                "uri": "https://orcid.org/0000-0003-4509-2132",
+                                "path": "0000-0003-4509-2132",
+                                "host": null
+                            },
+                            "creditName": {
+                                "content": "DAVID ELI SALAZAR ESPINOZA"
+                            },
+                            "contributorEmail": null,
+                            "contributorAttributes": null,
+                            "rolesAndSequences": [
+                                {
+                                    "contributorSequence": null,
+                                    "contributorRole": "writing - review & editing"
+                                }
+                            ]
+                        }
+                    ],
+                    "numberOfContributors": 1,
+                    "workExternalIdentifiers": [
+                        {
+                            "errors": [],
+                            "externalIdentifierId": {
+                                "errors": [],
+                                "value": "https://doi.org/10.5281/zenodo.7862390",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "externalIdentifierType": {
+                                "errors": [],
+                                "value": "doi",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "url": {
+                                "errors": [],
+                                "value": "https://doi.org/10.5281/zenodo.7862390",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "relationship": {
+                                "errors": [],
+                                "value": "self",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "normalized": {
+                                "errors": [],
+                                "value": "10.5281/zenodo.7862390",
+                                "required": false,
+                                "getRequiredMessage": null
+                            },
+                            "normalizedUrl": {
+                                "errors": [],
+                                "value": "https://doi.org/10.5281/zenodo.7862390",
+                                "required": false,
+                                "getRequiredMessage": null
+                            }
+                        }
+                    ],
+                    "source": "0000-0003-4509-2132",
+                    "sourceName": "DAVID ELI SALAZAR ESPINOZA",
+                    "assertionOriginOrcid": null,
+                    "assertionOriginClientId": null,
+                    "assertionOriginName": null,
+                    "title": {
+                        "errors": [],
+                        "value": "Investigaci\u00f3n en clave intercultural:Desaf\u00edos ante los contextos educativos actuales",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "subtitle": null,
+                    "translatedTitle": null,
+                    "workCategory": null,
+                    "workType": {
+                        "errors": [],
+                        "value": "journal-article",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "dateSortString": null,
+                    "createdDate": {
+                        "errors": [],
+                        "month": "7",
+                        "day": "3",
+                        "year": "2023",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "lastModified": {
+                        "errors": [],
+                        "month": "7",
+                        "day": "3",
+                        "year": "2023",
+                        "required": true,
+                        "getRequiredMessage": null
+                    }
+                }
+            ]
+        },
+        {
+            "activePutCode": 120368662,
+            "defaultPutCode": 120368662,
+            "groupId": 2,
+            "activeVisibility": "PUBLIC",
+            "userVersionPresent": false,
+            "externalIdentifiers": [
+                {
+                    "errors": [],
+                    "externalIdentifierId": {
+                        "errors": [],
+                        "value": "2-s2.0-85086678079",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "externalIdentifierType": {
+                        "errors": [],
+                        "value": "eid",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "url": null,
+                    "relationship": {
+                        "errors": [],
+                        "value": "self",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "normalized": {
+                        "errors": [],
+                        "value": "2-s2.0-85086678079",
+                        "required": false,
+                        "getRequiredMessage": null
+                    },
+                    "normalizedUrl": null
+                },
+                {
+                    "errors": [],
+                    "externalIdentifierId": {
+                        "errors": [],
+                        "value": "10.37960/rvg.v25i90.32392",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "externalIdentifierType": {
+                        "errors": [],
+                        "value": "doi",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "url": null,
+                    "relationship": {
+                        "errors": [],
+                        "value": "self",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "normalized": {
+                        "errors": [],
+                        "value": "10.37960/rvg.v25i90.32392",
+                        "required": false,
+                        "getRequiredMessage": null
+                    },
+                    "normalizedUrl": {
+                        "errors": [],
+                        "value": "https://doi.org/10.37960/rvg.v25i90.32392",
+                        "required": false,
+                        "getRequiredMessage": null
+                    }
+                }
+            ],
+            "works": [
+                {
+                    "visibility": {
+                        "errors": [],
+                        "required": true,
+                        "getRequiredMessage": null,
+                        "visibility": "PUBLIC"
+                    },
+                    "errors": [],
+                    "publicationDate": {
+                        "errors": [],
+                        "month": null,
+                        "day": null,
+                        "year": "2020",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "putCode": {
+                        "errors": [],
+                        "value": "120368662",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "shortDescription": null,
+                    "url": null,
+                    "journalTitle": {
+                        "errors": [],
+                        "value": "Revista Venezolana de Gerencia",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "languageCode": null,
+                    "languageName": null,
+                    "citation": null,
+                    "countryCode": null,
+                    "countryName": null,
+                    "contributors": null,
+                    "contributorsGroupedByOrcid": [
+                        {
+                            "contributorOrcid": null,
+                            "creditName": {
+                                "content": "Fuster-Guill\u00e9n, D."
+                            },
+                            "contributorEmail": null,
+                            "contributorAttributes": null,
+                            "rolesAndSequences": []
+                        },
+                        {
+                            "contributorOrcid": null,
+                            "creditName": {
+                                "content": "Oca\u00f1a-Fern\u00e1ndez, Y."
+                            },
+                            "contributorEmail": null,
+                            "contributorAttributes": null,
+                            "rolesAndSequences": []
+                        },
+                        {
+                            "contributorOrcid": null,
+                            "creditName": {
+                                "content": "Salazar Espinoza, D.E."
+                            },
+                            "contributorEmail": null,
+                            "contributorAttributes": null,
+                            "rolesAndSequences": []
+                        },
+                        {
+                            "contributorOrcid": null,
+                            "creditName": {
+                                "content": "Ramirez Asis, E.H."
+                            },
+                            "contributorEmail": null,
+                            "contributorAttributes": null,
+                            "rolesAndSequences": []
+                        }
+                    ],
+                    "numberOfContributors": 4,
+                    "workExternalIdentifiers": [
+                        {
+                            "errors": [],
+                            "externalIdentifierId": {
+                                "errors": [],
+                                "value": "10.37960/rvg.v25i90.32392",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "externalIdentifierType": {
+                                "errors": [],
+                                "value": "doi",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "url": null,
+                            "relationship": {
+                                "errors": [],
+                                "value": "self",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "normalized": {
+                                "errors": [],
+                                "value": "10.37960/rvg.v25i90.32392",
+                                "required": false,
+                                "getRequiredMessage": null
+                            },
+                            "normalizedUrl": {
+                                "errors": [],
+                                "value": "https://doi.org/10.37960/rvg.v25i90.32392",
+                                "required": false,
+                                "getRequiredMessage": null
+                            }
+                        },
+                        {
+                            "errors": [],
+                            "externalIdentifierId": {
+                                "errors": [],
+                                "value": "2-s2.0-85086678079",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "externalIdentifierType": {
+                                "errors": [],
+                                "value": "eid",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "url": null,
+                            "relationship": {
+                                "errors": [],
+                                "value": "self",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "normalized": {
+                                "errors": [],
+                                "value": "2-s2.0-85086678079",
+                                "required": false,
+                                "getRequiredMessage": null
+                            },
+                            "normalizedUrl": null
+                        },
+                        {
+                            "errors": [],
+                            "externalIdentifierId": {
+                                "errors": [],
+                                "value": "13159984",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "externalIdentifierType": {
+                                "errors": [],
+                                "value": "issn",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "url": null,
+                            "relationship": {
+                                "errors": [],
+                                "value": "part-of",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "normalized": {
+                                "errors": [],
+                                "value": "1315-9984",
+                                "required": false,
+                                "getRequiredMessage": null
+                            },
+                            "normalizedUrl": {
+                                "errors": [],
+                                "value": "https://portal.issn.org/resource/ISSN/1315-9984",
+                                "required": false,
+                                "getRequiredMessage": null
+                            }
+                        }
+                    ],
+                    "source": "0000-0002-5982-8983",
+                    "sourceName": "Scopus - Elsevier",
+                    "assertionOriginOrcid": "0000-0003-4509-2132",
+                    "assertionOriginClientId": null,
+                    "assertionOriginName": "DAVID ELI SALAZAR ESPINOZA",
+                    "title": {
+                        "errors": [],
+                        "value": "Human development and family integration: Study from the comprehensive service of the elderly in Peru,Desarrollo humano e integraci\u00f3n familiar: Estudio desde el servicio integral del adulto mayor en Per\u00fa",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "subtitle": null,
+                    "translatedTitle": null,
+                    "workCategory": null,
+                    "workType": {
+                        "errors": [],
+                        "value": "journal-article",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "dateSortString": null,
+                    "createdDate": {
+                        "errors": [],
+                        "month": "10",
+                        "day": "7",
+                        "year": "2022",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "lastModified": {
+                        "errors": [],
+                        "month": "10",
+                        "day": "7",
+                        "year": "2022",
+                        "required": true,
+                        "getRequiredMessage": null
+                    }
+                }
+            ]
+        },
+        {
+            "activePutCode": 120368660,
+            "defaultPutCode": 120368660,
+            "groupId": 3,
+            "activeVisibility": "PUBLIC",
+            "userVersionPresent": false,
+            "externalIdentifiers": [
+                {
+                    "errors": [],
+                    "externalIdentifierId": {
+                        "errors": [],
+                        "value": "2-s2.0-85045984079",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "externalIdentifierType": {
+                        "errors": [],
+                        "value": "eid",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "url": null,
+                    "relationship": {
+                        "errors": [],
+                        "value": "self",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "normalized": {
+                        "errors": [],
+                        "value": "2-s2.0-85045984079",
+                        "required": false,
+                        "getRequiredMessage": null
+                    },
+                    "normalizedUrl": null
+                }
+            ],
+            "works": [
+                {
+                    "visibility": {
+                        "errors": [],
+                        "required": true,
+                        "getRequiredMessage": null,
+                        "visibility": "PUBLIC"
+                    },
+                    "errors": [],
+                    "publicationDate": {
+                        "errors": [],
+                        "month": null,
+                        "day": null,
+                        "year": "2017",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "putCode": {
+                        "errors": [],
+                        "value": "120368660",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "shortDescription": null,
+                    "url": null,
+                    "journalTitle": {
+                        "errors": [],
+                        "value": "Opcion",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "languageCode": null,
+                    "languageName": null,
+                    "citation": null,
+                    "countryCode": null,
+                    "countryName": null,
+                    "contributors": null,
+                    "contributorsGroupedByOrcid": [
+                        {
+                            "contributorOrcid": null,
+                            "creditName": {
+                                "content": "Salazar Espinoza, D.E."
+                            },
+                            "contributorEmail": null,
+                            "contributorAttributes": null,
+                            "rolesAndSequences": []
+                        }
+                    ],
+                    "numberOfContributors": 1,
+                    "workExternalIdentifiers": [
+                        {
+                            "errors": [],
+                            "externalIdentifierId": {
+                                "errors": [],
+                                "value": "2-s2.0-85045984079",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "externalIdentifierType": {
+                                "errors": [],
+                                "value": "eid",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "url": null,
+                            "relationship": {
+                                "errors": [],
+                                "value": "self",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "normalized": {
+                                "errors": [],
+                                "value": "2-s2.0-85045984079",
+                                "required": false,
+                                "getRequiredMessage": null
+                            },
+                            "normalizedUrl": null
+                        },
+                        {
+                            "errors": [],
+                            "externalIdentifierId": {
+                                "errors": [],
+                                "value": "10121587",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "externalIdentifierType": {
+                                "errors": [],
+                                "value": "issn",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "url": null,
+                            "relationship": {
+                                "errors": [],
+                                "value": "part-of",
+                                "required": true,
+                                "getRequiredMessage": null
+                            },
+                            "normalized": {
+                                "errors": [],
+                                "value": "1012-1587",
+                                "required": false,
+                                "getRequiredMessage": null
+                            },
+                            "normalizedUrl": {
+                                "errors": [],
+                                "value": "https://portal.issn.org/resource/ISSN/1012-1587",
+                                "required": false,
+                                "getRequiredMessage": null
+                            }
+                        }
+                    ],
+                    "source": "0000-0002-5982-8983",
+                    "sourceName": "Scopus - Elsevier",
+                    "assertionOriginOrcid": "0000-0003-4509-2132",
+                    "assertionOriginClientId": null,
+                    "assertionOriginName": "DAVID ELI SALAZAR ESPINOZA",
+                    "title": {
+                        "errors": [],
+                        "value": "The social realism and metaphors of Socav\u00f3n in the Peruvian minera Romance,El realismo social y met\u00e1foras del Socav\u00f3n en la novela minera Peruana",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "subtitle": null,
+                    "translatedTitle": null,
+                    "workCategory": null,
+                    "workType": {
+                        "errors": [],
+                        "value": "journal-article",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "dateSortString": null,
+                    "createdDate": {
+                        "errors": [],
+                        "month": "10",
+                        "day": "7",
+                        "year": "2022",
+                        "required": true,
+                        "getRequiredMessage": null
+                    },
+                    "lastModified": {
+                        "errors": [],
+                        "month": "10",
+                        "day": "7",
+                        "year": "2022",
+                        "required": true,
+                        "getRequiredMessage": null
+                    }
+                }
+            ]
+        }
+    ]
+}
